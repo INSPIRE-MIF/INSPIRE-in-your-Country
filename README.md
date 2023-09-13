@@ -154,13 +154,13 @@
           <tr  class="row-1 row-first row-last">
                   <td  class="col-1 col-first">
               
-  <div class="views-field views-field-field-country">        <div class="field-content"><img class="countryicon iconset-gosquared_shiny_small countrycode-mk" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/mk.png" alt="MK" title="North Macedonia" /> North Macedonia</a></div>  </div>          </td>
+  <div class="views-field views-field-field-country">        <div class="field-content"><img class="countryicon iconset-gosquared_shiny_small countrycode-mk" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/mk.png" alt="MK" title="North Macedonia" /> North Macedonia</div>  </div>          </td>
                   <td  class="col-2">
               
-  <div class="views-field views-field-field-country">        <div class="field-content"><img class="countryicon iconset-gosquared_shiny_small countrycode-rs" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/rs.png" alt="RS" title="Serbia" /> Serbia</a></div>  </div>          </td>
+  <div class="views-field views-field-field-country">        <div class="field-content"><img class="countryicon iconset-gosquared_shiny_small countrycode-rs" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/rs.png" alt="RS" title="Serbia" /> Serbia</div>  </div>          </td>
                   <td  class="col-3 col-last">
               
-  <div class="views-field views-field-field-country">        <div class="field-content"><img class="countryicon iconset-gosquared_shiny_small countrycode-tr" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/tr.png" alt="TR" title="Turkey" /> Turkey</a></div>  </div>          </td>
+  <div class="views-field views-field-field-country">        <div class="field-content"><img class="countryicon iconset-gosquared_shiny_small countrycode-tr" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/tr.png" alt="TR" title="Turkey" /> Turkey</div>  </div>          </td>
               </tr>
       </tbody>
 </table>
