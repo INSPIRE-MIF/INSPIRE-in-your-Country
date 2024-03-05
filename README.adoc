@@ -123,6 +123,8 @@ France]
 | |
 |===
 
+*The country information and MR data displayed are from before Brexit
+
 === EFTA Members
 
 [width="100%",cols="34%,33%,33%",]
@@ -164,4 +166,6 @@ Turkey
 
 |===
 
-*The country information and MR data displayed are from before Brexit
+== How to report new Country fiche
+
+To report a new Country fiche for your country, please follow the instructions available here link:/how_to_report_new_CF.md["How to report new Country fiche"^].
