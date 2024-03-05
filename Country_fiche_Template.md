@@ -1,4 +1,4 @@
-# _MS-code_ - _Year_: Country Fiche
+# MS-code - Year: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
