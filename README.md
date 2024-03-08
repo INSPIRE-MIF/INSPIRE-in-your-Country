@@ -108,7 +108,7 @@
   <div class="views-field views-field-field-country">        <div class="field-content"><a href="./MT" class="klas_MT"><img class="countryicon iconset-gosquared_shiny_small countrycode-mt" src="https://wayback.archive-it.org/12090/20230901215021/https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/mt.png" alt="MT" title="Malta" /> Malta</a></div>  </div>          </td>
                   <td  class="col-3 col-last">
               
-  <div class="views-field views-field-field-country">        <div class="field-content"><a href="./GB" class="klas_GB"><img class="countryicon iconset-gosquared_shiny_small countrycode-gb" src="https://wayback.archive-it.org/12090/20230901215021/https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/gb.png" alt="GB" title="United Kingdom" /> United Kingdom (until 2019)*</a></div>  </div>          </td>
+  <div class="views-field views-field-field-country">        <div class="field-content"><a href="./GB" class="klas_GB"><img class="countryicon iconset-gosquared_shiny_small countrycode-gb" src="https://wayback.archive-it.org/12090/20230901215021/https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/gb.png" alt="GB" title="United Kingdom" /> United Kingdom</a> (until 2019)*</div>  </div>          </td>
               </tr>
           <tr  class="row-10 row-last">
                   <td  class="col-1 col-first">
