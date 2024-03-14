@@ -59,7 +59,7 @@ Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft 
 -	The national coordination body is assisted by experts or temporary working groups as required.
 -	Further information on INSPIRE in Austria can be found on  www.inspire.gv.at.
 
-!(AT/Country_fiches/images/INSPIRE_Austria_2024_en.jpg)
+![Austrian INSPIRE coordination structure](/AT/Country_fiches/images/INSPIRE_Austria_2024_en.png)
 
 ##### Progress
 
