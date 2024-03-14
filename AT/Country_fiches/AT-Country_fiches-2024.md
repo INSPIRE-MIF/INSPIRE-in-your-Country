@@ -121,3 +121,8 @@ Member States are given some leeway as to how they deal with the technical imple
       -	The benefit-cost ratio between the high costs for data harmonisation and the currently low usage of INSPIRE services is looked at critically.
       -	The current, as well as future planned good coordination of legislative initiatives on data provision (e.g. HVD regulation) is seen positively.
       -	The collaborative (Member States and/or European Commission) development of instruments helps to improve INSPIRE implementation and use. However, efforts of individual Member States and data providers are currently not always sufficiently used to create synergies.
+
+## Key facts and figures
+
+Key facts and figures from monitoring 2023 can be found at:  
+https://inspire-geopor-tal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at 
