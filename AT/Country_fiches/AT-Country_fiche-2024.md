@@ -94,8 +94,8 @@ Member States are given some leeway as to how they deal with the technical imple
       -	the website of the GeoSphere Austria www.geosphere.at with weather, climate, geological and geophysical data
       -	the portal www.naturgefahren.at with data on natural hazards
       -	the Graph Integration Platform www.gip.gv.at, the reference system of Austrian public authorities for transport infrastructure data
-      -	the BML's Agrar-Atlas (Agricultural Atlas), the central access point to open data for the agricultural sector
-      -	the BML's Wald-Atlas (Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
+      -	the BML's Agrar-Atlas (https://agraratlas.inspire.gv.at; Agricultural Atlas), the central access point to open data for the agricultural sector
+      -	the BML's Wald-Atlas (https://www.waldatlas.at; Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
 
 ### Data Sharing Arrangements <a name="data"></a>
 
