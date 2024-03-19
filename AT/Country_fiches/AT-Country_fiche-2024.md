@@ -84,18 +84,18 @@ Member States are given some leeway as to how they deal with the technical imple
 
 -	The use of INSPIRE network services (and their development in recent years) in Austria is partly closely monitored, but on the other hand there is often a lack of reliable user or access data, as data is not monitored separately and estimates are based on different methods and classifications. For services where users are registered via a user login, a strong increase in the number of uses can be observed.
 -	Several federal agencies, all of the provinces, and many cities and municipalities operate web-based GIS applications that provide public access to the spatial data of public administration. Examples are:
-      -	the national INSPIRE search portal geometadatensuche.inspire.gv.at
-      -	the national INSPIRE registry registry.inspire.gv.at
+      -	the national INSPIRE search portal https://geometadatensuche.inspire.gv.at
+      -	the national INSPIRE registry  https://registry.inspire.gv.at
       -	the GIS portal of the provinces www.geoland.at
       -	the GIS portals of the individual provinces
-      -	the OGD administrative basemap of Austria basemap.at   
+      -	the OGD administrative basemap of Austria  https://basemap.at   
       -	the Austrian address register with the official addresses www.adressregister.at 
-      -	the geoportal provided by BEV (data.bev.gv.at), especially for addresses, cadastre and topography, citizen access to the cadastre (kataster.bev.gv.at) and the topographic map maps.bev.gv.at
+      -	the geoportal provided by BEV (data.bev.gv.at), especially for addresses, cadastre and topography, citizen access to the cadastre (kataster.bev.gv.at) and the topographic map  https://maps.bev.gv.at
       -	the website of the GeoSphere Austria www.geosphere.at with weather, climate, geological and geophysical data
       -	the portal www.naturgefahren.at with data on natural hazards
       -	the Graph Integration Platform www.gip.gv.at, the reference system of Austrian public authorities for transport infrastructure data
-      -	the BML's Agrar-Atlas (https://agraratlas.inspire.gv.at; Agricultural Atlas), the central access point to open data for the agricultural sector
-      -	the BML's Wald-Atlas (https://www.waldatlas.at; Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
+      -	the BML's Agrar-Atlas https://agraratlas.inspire.gv.at (Agricultural Atlas), the central access point to open data for the agricultural sector
+      -	the BML's Wald-Atlas https://www.waldatlas.at (Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
 
 ### Data Sharing Arrangements <a name="data"></a>
 
