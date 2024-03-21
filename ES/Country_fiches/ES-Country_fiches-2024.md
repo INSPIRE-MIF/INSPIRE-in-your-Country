@@ -1,24 +1,24 @@
-- Telephone Number:
-- Telefax Number:
-- National INSPIRE Website:
+- Telephone Number: 034915979646
+- Telefax Number: 034915979764
+- National INSPIRE Website: Spanish SDI (Infraestructura de datos Espaciales de España, IDEE), https://www.idee.es/
 - MIG Contacts: 
-  - Contact Person:
-  - Email:
-  - Telephone Number:
-  - Contact Person:
-  - Email:
+  - Contact Person: Emilio López Romero
+  - Email: Emilio.lopez@cnig.es
+  - Telephone Number: 034915979646
+  - Contact Person: Alberto Campos García
+  - Email: acampos@miteco.es
 - MIG T Contacts: 
-  - Contact Person:
-  - Email:
-  - Contact Person:
-  - Email:
-  - Telephone Number:
-
+  - Contact Person: Paloma Abad Power
+  - Email: paloma.abad@cnig.es
+  - Telephone Number: 034915979660
+  - Contact Person: Soledad Gómez Andrés
+  - Email: msgomez@mapa.es
+  
 #### Coordination Structure & Progress: 
 
 ##### Coordination structure
 
-< insert text >
+Geographic High Council is the director body of the National Cartographic System (SCN), having consultation and planning role for the official geographic information and cartography. Geographic High Council is the National Contact Point for INSPIRE and the coordination and direction for the Spanish SDI.
 
 ##### Progress
 
