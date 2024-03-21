@@ -28,10 +28,11 @@ Geographic High Council created the **[Executive Board of the Geographic Informa
 The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutional coordination the organization of Spanish SDI (IDEE) is based on 14 national and 17 regional nodes; each regional node establishes the necessary coordination with the local administration and other agents.
 Depending on CODIIGE:
 - There are some Thematic Working Groups (GTT), (one per INSPIRE Theme although some themes are grouped) with representation of all institutions with responsibility for data and/ or services under scope of INSPIRE. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
-- Identification of priority data through environment ministries: The Ministry of Agriculture, Fisheries and Food (MAPA) and the Ministry for the Ecological Transition and the Demographic Challenge (MITERD).
+- Identification of priority data through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
 - Furthermore, there are four transversal Working Groups (Metadata and catalogue; Network services; Monitoring and reporting; Data and services policy).
 - Finally, there is a Working Group for the NSDI (GTIDEE) with representatives from public and private sector and academia. GTIDEE meets 2 times a year to discuss different aspects of the standars, Technical Guidance, open data and new technologies for the implementation of INSPIRE, Iberian Conference SDI and to coordinate the experts work on INSPIRE.
 - CODIIGE is responsible for Spanish SDI Geoportal and their catalogues.
+
 The [National Cartographic System](http://www.scne.es/productos.html), defined in Royal Decree 1545/2007 and promoted by Law 14/2010, which establishes the coordination of data production via the National Cartographic Plan and the sharing of data between the Autonomous Communities that sign the generic agreement and the General State Administration. The Geographic High Council is the management body of the National Cartographic System and and is made up of the following national and regional bodies, see here.
 - On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see here
 ##### Progress
