@@ -26,15 +26,60 @@ Geographic High Council created the **[Executive Board of the Geographic Informa
 3. Integrating the contributions of other producers or suppliers.
 
 The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutional coordination the organization of Spanish SDI (IDEE) is based on 14 national and 17 regional nodes; each regional node establishes the necessary coordination with the local administration and other agents.
-Depending on CODIIGE:
-- There are some Thematic Working Groups (GTT), (one per INSPIRE Theme although some themes are grouped) with representation of all institutions with responsibility for data and/ or services under scope of INSPIRE. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
+**National and Regional SDI nodes**
+The Spanish SDI is made up of the following main nodes and more SDI nodes here.
+| National SDI nodes   |    |
+| ------------- | ------------- |
+| [National Cartographic System (SCN)](https://www.scne.es/)|Coordinated production and publication of data through the National Cartographic Plan |
+| Ministry of Finance |[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
+| Ministry of Transport, Mobility and Urban Agenda |[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
+|  |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
+|  |Directorate General for Architecture, Housing and Land | 
+|  |Spanish National Research Council (CSIC) | 
+| Ministry of Economic Affairs and Digital Transition |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
+| Ministry of Defense |[Marine Hydrographic Institute (IHM)](https://ideihm.covam.es/portal/) | 
+| Ministry of Science and Innovation |[Geological and Mining Institute of Spain](https://info.igme.es/catalogo)| 
+|  |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
+|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) | | 
+|[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) | | 
+| |[Petrol Station Geoportal](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
+| |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/ServiciosWeb)| 
+
+| Regional SDI nodes   |    |
+| ------------- | ------------- |
+|[Andalusia](https://www.ideandalucia.es/portal)|SDI of the Andalusian Regional Government. (**IDEAndalucia**) |
+|[Aragon](https://idearagon.aragon.es/portal)|Spatial Knowledge Infrastructure of Aragon. (**ICEARAGON**) |
+|[Balearic Islands](https://www.caib.es/sites/ideib/es/inicio/?campa=yes)|SDI of the Balearic Islands Government. (**IDEIB**)|
+|[Basque Country](https://www.geo.euskadi.eus/inicio/)|SDI Basque Country. (**Geoesukadi**)|
+| |SDI Provincial Council of Gipuzkoa. (**SDI Gipuzkoa**)|
+| |SDI Provincial Council of Álava. (**GeoAraba**)|
+| |SDI Gipuzkoa and SDI Bizkaia. (**GeoBizkaia**)|
+|[Canary](https://www.idecanarias.es/)|SDI of the Canary Islands Government. (**IDECanarias**) |
+|[Cantabria](https://www.territoriodecantabria.es/cartografia-sig)|SDI of Cantabria. (**IDE Cantabria**)|
+|[Castile and Leon](https://www.cartografia.jcyl.es)|SDI of the Castile-Leon Regional Government. (**IDEECyL**)|
+|[Castile–La Mancha](https://castillalamancha.maps.arcgis.com/home/index.html)|SDI of the Castilla la Mancha Regional Government. (**IDE-CLM**) |
+|[Catalonia](https://www.ide.cat/en)|SDI of Catalonia. (**IDEC**)|
+|[Extremadura](http://www.ideextremadura.es/Geoportal/)|SDI of the Extremadura Regional Government. (**IDEextremadura**) |
+|[Galicia](https://mapas.xunta.gal/gl/ide/ideg)|SDI of the Regional Government of Galicia. (**IDEG**) |
+|[La Rioja](https://www.iderioja.larioja.org/)|SDI of the Government of La Rioja. (**IDERioja**)|
+|[Madrid](https://www.comunidad.madrid/servicios/mapas/geoportal-comunidad-Madrid)|SDI of the Community of Madrid. (**IDEM**)|
+|[Murcia](https://sitmurcia.carm.es/)|SDI of the Region of Murcia. (**IDERM**)|
+|[Principality of Asturias](https://ideas.asturias.es/)|SDI of Asturias from the Principality of Asturias Government. (**SITPA-IDEAS**)|
+|[Regional Community of Navarra](https://geoportal.navarra.es/es/idena)|SDI of the Government of Navarre. (**IDENA**) |
+|[Valencian Community](http://idev.gva.es/en/inicio)|SDI of Valencia. (**IDEV**) |
+
+
+Depending on [**CODIIGE**](https://www.idee.es/en/web/idee/codiige):
+- There are some [Thematic Working Groups (GTT)](https://www.idee.es/en/web/idee/codiige#grupostt), (one per INSPIRE Theme although some themes are grouped) with representation of all institutions with responsibility for data and/ or services under scope of INSPIRE. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
 - Identification of priority data through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
 - Furthermore, there are four transversal Working Groups (Metadata and catalogue; Network services; Monitoring and reporting; Data and services policy).
 - Finally, there is a Working Group for the NSDI (GTIDEE) with representatives from public and private sector and academia. GTIDEE meets 2 times a year to discuss different aspects of the standars, Technical Guidance, open data and new technologies for the implementation of INSPIRE, Iberian Conference SDI and to coordinate the experts work on INSPIRE.
-- CODIIGE is responsible for Spanish SDI Geoportal and their catalogues.
+- Responsible for [**Spanish SDI Geoportal**](https://www.idee.es/en/web/idee/inicio) and their catalogues.
+  - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
+  - [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) 
 
 The [National Cartographic System](http://www.scne.es/productos.html), defined in Royal Decree 1545/2007 and promoted by Law 14/2010, which establishes the coordination of data production via the National Cartographic Plan and the sharing of data between the Autonomous Communities that sign the generic agreement and the General State Administration. The Geographic High Council is the management body of the National Cartographic System and and is made up of the following national and regional bodies, see here.
-- On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see here
+- On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see [here.](https://www.scne.es/miembros.html)
 ##### Progress
 
 < insert text >
