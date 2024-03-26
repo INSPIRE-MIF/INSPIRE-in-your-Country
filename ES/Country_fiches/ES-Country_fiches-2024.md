@@ -1,3 +1,35 @@
+#_ES-code_ - _2024r_: Country Fiche
+
+## Table of Contents
+1. [Introduction](#introduction)
+1. [State of Play](#state_of_play)
+   1. [Coordination](#Coordination)
+   2. [Functioning and coordination of the infrastructure](#functioning)
+   3. [Usage of the infrastructure for spatial information](#usage)
+   4. [Data Sharing Arrangements](#data)
+   5. [Costs and Benefits](#costs)
+
+
+## Introduction
+
+The INSPIRE Directive sets the minimum conditions for interoperable sharing and exchange of spatial data across Europe as part of a larger European Interoperability Framework and the e-Government Action Plan that contributes to the Digital Single Market Agenda. Article 21 of INSPIRE Directive defines the basic principles for monitoring and reporting. More detailed implementing rules regarding INSPIRE monitoring and reporting have been
+adopted as [Commission Implementing Decision (EU) 2019/1372](https://eur-lex.europa.eu/eli/dec_impl/2019/1372/oj) on the 19th August 2019.
+
+This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring 2023](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=es) acquired in December 2023 and Member States update.
+
+## State of Play
+
+Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)
+
+![Spanish SDI logo](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/IDEElogo.png)
+
+### Coordination
+
+#### National Contact Point
+
+- Name of Public Authority:
+- Postal Address:
+- Contact Email:
 - Telephone Number: 034915979646
 - Telefax Number: 034915979764
 - National INSPIRE Website: **Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)** https://www.idee.es/
