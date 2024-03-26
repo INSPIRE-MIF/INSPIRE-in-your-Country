@@ -155,6 +155,19 @@ All datasets (100 %) are available for re-use under the conditions of the Creati
 | Earth Observation and enviroment  | 184  | 253  |
 | Mobility  | 3  | 3 |
 
+**Spain’s recovery and resilience plan**
+Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11 052 000 € for the next 4 years (2021-2024). The contracts cover the following topics:
+- Technological platform on the cloud.
+- Adaptation of the IDEE to the new technological specifications such as the implementation and configuration of new network services compliant with INSPIRE Directive based on the API-OGC and development of client applications for their exploitation. (for example here)
+- Postal address service web management system: Working on the creation of national geocoder service to publish official addresses that will be the result of the harmonization and integration of official addresses the main suppliers of information about addresses at national, regional and local government organizations. In this project involves Directorate General for Cadastre, Basque Government, Government of Navarre and another regions like Valencia, Madrid, Andalucía... All of them are supported with the Postal Codes provided by the Post Office Group, names of streets of National Statistics Institute together with the official settlements of National Geographic Institute (IGN Spain).
+- Development of a national vector tile service: Creation of official base map multiscale from official sources national, regional and local sources. Its technology is based on vector tile services.
+- Design and implementation of the processes for the integration of traffic direction information from OSM into the transport network database of Spain.
+- Maintenance of national catalogues, validation of metadata and publication on the open data portal
+Strengthening the work carried out between the Cadastre and the Land Registry. The Spanish Law 13/2015 implements
+
+**Nex law**
+Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon and its organisational and instrumental mechanisms, through which coordination and collaboration between the different regional and local public administrations, as well as with the private sector, will be determined with regard to its production, dissemination and access, improving efficiency, transparency, interoperability and speed in its management. LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON) as the computer system made up of a set of resources dedicated to managing geographic information, available on the Internet, which meet the interoperability conditions (standards, specifications, protocols and interfaces) that allow them to be used, combined and related according to different needs.
+
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
 < insert text >
