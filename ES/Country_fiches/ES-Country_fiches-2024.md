@@ -74,10 +74,10 @@ The Spanish SDI is made up of the following main nodes and more SDI nodes [here]
 |[Aragon](https://idearagon.aragon.es/portal)|Spatial Knowledge Infrastructure of Aragon. (**ICEARAGON**) |
 |[Balearic Islands](https://www.caib.es/sites/ideib/es/inicio/?campa=yes)|SDI of the Balearic Islands Government. (**IDEIB**)|
 |[Basque Country](https://www.geo.euskadi.eus/inicio/)|SDI Basque Country. (**Geoesukadi**)|
-| |SDI Provincial Council of Gipuzkoa. (**SDI Gipuzkoa**)|
-| |SDI Provincial Council of Álava. (**GeoAraba**)|
-| |SDI Gipuzkoa and SDI Bizkaia. (**GeoBizkaia**)|
-|[Canary](https://www.idecanarias.es/)|SDI of the Canary Islands Government. (**IDECanarias**) |
+| - Provincial Council of Gipuzkoa|SDI Gipuzkoa. [(**SDI Gipuzkoa**)](https://b5m.gipuzkoa.eus/web5000/es)|
+| - Provincial Council of Araba|SDI Araba. [(**GeoAraba**)](https://geo.araba.eus/es/)|
+| - Provincial Council of Bizkaia|SDI Bizkaia. [(**GeoBizkaia**)](https://www.bizkaia.eus/es/web/geobizkaia)|
+|[Canary](https://www.idecanarias.es/)|SDI the Canary Islands Government. (**IDECanarias**) |
 |[Cantabria](https://www.territoriodecantabria.es/cartografia-sig)|SDI of Cantabria. (**IDE Cantabria**)|
 |[Castile and Leon](https://www.cartografia.jcyl.es)|SDI of the Castile-Leon Regional Government. (**IDEECyL**)|
 |[Castile–La Mancha](https://castillalamancha.maps.arcgis.com/home/index.html)|SDI of the Castilla la Mancha Regional Government. (**IDE-CLM**) |
