@@ -149,6 +149,12 @@ The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)**
 
 All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to Regulation (EC) No 1205/2008. Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
+|HVD accessible in the CODSI catalogue  | 2022 | 2023  |
+| ------------- | ------------- | ------------- |
+| Geospatial  | 29  | 32  |
+| Earth Observation and enviroment  | 184  | 253  |
+| Mobility  | 3  | 3 |
+
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
 < insert text >
