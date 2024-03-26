@@ -136,11 +136,16 @@ Depending on [**CODIIGE**](https://www.idee.es/en/web/idee/codiige):
   - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
   - [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) 
 
-The [National Cartographic System](http://www.scne.es/productos.html), defined in Royal Decree 1545/2007 and promoted by Law 14/2010, which establishes the coordination of data production via the National Cartographic Plan and the sharing of data between the Autonomous Communities that sign the generic agreement and the General State Administration. The Geographic High Council is the management body of the [National Cartographic System](https://www.scne.es/productos.php) and and is made up of the following national and regional bodies, see [here](https://www.scne.es/miembros.html).
+The [National Cartographic System](http://www.scne.es/productos.html), defined in Royal Decree 1545/2007 and promoted by Law 14/2010, which establishes the coordination of data production via the National Cartographic Plan and the sharing of data between the Autonomous Communities that sign the generic agreement and the General State Administration.
+- The data production are orthoimagery, hidrography, transport networks, land use and cover, elevation (DTM, DSM), etc.
+- The [National Cartographic System](https://www.scne.es/productos.php) is made up of the following national and regional bodies, see [here.](https://www.scne.es/miembros.html)
 - On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see [here.](https://www.scne.es/miembros.html)
+
 ##### Progress
 
-< insert text >
+The CODIIGE has carried out a preliminary study of high-value datasets to be made available for re-use according to Commision Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use.
+
+Almost all datasets (99 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use. Those datasets are accessible through their metadata in the CODSI catalogue and CODSI has 80 download services that allow access to the datasets.
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
