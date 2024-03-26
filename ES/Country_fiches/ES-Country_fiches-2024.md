@@ -158,19 +158,39 @@ All datasets (100 %) are available for re-use under the conditions of the Creati
 **Spain’s recovery and resilience plan**
 Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11 052 000 € for the next 4 years (2021-2024). The contracts cover the following topics:
 - Technological platform on the cloud.
-- Adaptation of the IDEE to the new technological specifications such as the implementation and configuration of new network services compliant with INSPIRE Directive based on the API-OGC and development of client applications for their exploitation. (for example here)
+- Adaptation of the IDEE to the new technological specifications such as the implementation and configuration of new network services compliant with INSPIRE Directive based on the API-OGC and development of client applications for their exploitation. (Examples of Spanish SDI OGC API [here](https://api-features.idee.es/))
 - Postal address service web management system: Working on the creation of national geocoder service to publish official addresses that will be the result of the harmonization and integration of official addresses the main suppliers of information about addresses at national, regional and local government organizations. In this project involves Directorate General for Cadastre, Basque Government, Government of Navarre and another regions like Valencia, Madrid, Andalucía... All of them are supported with the Postal Codes provided by the Post Office Group, names of streets of National Statistics Institute together with the official settlements of National Geographic Institute (IGN Spain).
-- Development of a national vector tile service: Creation of official base map multiscale from official sources national, regional and local sources. Its technology is based on vector tile services.
+- Development of a national vector tile service: Creation of [**official base map multiscale**](https://ideespain.github.io/mapabase/) from official sources national, regional and local sources. Its technology is based on vector tile services.
 - Design and implementation of the processes for the integration of traffic direction information from OSM into the transport network database of Spain.
 - Maintenance of national catalogues, validation of metadata and publication on the open data portal
-Strengthening the work carried out between the Cadastre and the Land Registry. The Spanish Law 13/2015 implements
+
+Strengthening the work carried out between the Cadastre and the Land Registry. The Spanish Law 13/2015 implements an effective coordination of transactions executed by Cadastre and the Property Rights Registry. These institutions are two separate organizations with differentiated mandates and competences, both working in the domain of land administration. The Cadastre, registries and notaries have worked together to design a technologically advanced model of institutional interaction for this coordination purpose based in the INSPIRE GML of the Cadastral Parcel and the position of the Building.
+
+Navarra Territorial Information System (SITNA) [Strategic Plan 2020-2023.](https://gobiernoabierto.navarra.es/es/gobernanza/planes-y-programas-accion-gobierno/plan-estrategico-del-sistema-informacion-territorial-2020-2023)
+
+**Conferences and workshops in 2023**
+The [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan "Contributions of spatial data infrastructures to high-value datasets” with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
+
+The [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
+
+Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
 
 **Nex law**
 Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon and its organisational and instrumental mechanisms, through which coordination and collaboration between the different regional and local public administrations, as well as with the private sector, will be determined with regard to its production, dissemination and access, improving efficiency, transparency, interoperability and speed in its management. LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON) as the computer system made up of a set of resources dedicated to managing geographic information, available on the Internet, which meet the interoperability conditions (standards, specifications, protocols and interfaces) that allow them to be used, combined and related according to different needs.
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
-< insert text >
+**Functioning**
+
+- To facilitate data and service sharing and use has been developed:
+ - Spanish SDI Geoportal (IDEE) provides access to around 46 catalogues from national, regional and local nodes.
+ - Official Catalogue of Inspire Data and Services (CODSI) provides access INSPIRE data sets and network services. This catalogue is connected via harvesting or file interchange with the catalogues of national and regional SDI nodes, is the base for the monitoring process and for feeding the INSPIRE Geoportal. All INSPIRE compliant services available in Spain are available in European INSPIRE Geoportal.
+ - Spanish Registry
+- Much more OGC services are available but not all are INSPIRE compliant services.
+- The list of key spatial data sets required for other environmental policies is already identified.
+- Big effort on training, seminars, events at regional and local levels; twitter @IDEESpain (2949 followers), electronic monthly bulletin “SobreIDEs” http://www.idee.es/boletin-sobre-ides and Spanish SDI Blog "Blog IDEE" with 88 articles in 2022 (120 articles in 2021, 201 articles in 2020, 238
+articles in 2019...)
+- Thematic Working Groups (GTT), was asked to produce Guides about how to make compliant with INSPIRE the identified datasets and the already implemented view and download services. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
