@@ -33,8 +33,19 @@ Spatial datasets contained in the SDI of Spain:
 [**Spanish SDI geoportal**](https://www.idee.es/en/web/idee/inicio) is the access point national and regional SDI have two catalogues, tools and publishes their information thought view and download services.
 - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
 - [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)
-- [Application Programming Interfaces](https://plataforma.idee.es/en/inicio)
 
+[**Spanish SDI paltform**](https://plataforma.idee.es/en/inicio) is meeting point for developers in the geospatial community, where different initiatives are brought together and their reuse is
+made easier:
+- Application Programming Interfaces (viewer):
+   - API SITNA of Navarre Government
+   - API CNIG of National Centre for Geographic Information.
+   - MAPEA of Regional Government of Andalusia
+   - Municipal Territorial Information System (SITMUN) of Diputació de Barcelona
+- Geocoding:
+   - Unified Digital Street Map of Andalusia of Regional Government of Andalusia
+   - Cartociudad geocoder of National Centre for Geographic Information.
+   - Street Map and Coordinate Converter Service. Cadastral
+   
 ![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalSpanishIDEE.png)
 
 ### Coordination
