@@ -19,7 +19,7 @@ This country fiche highlights the progress in the various areas of INSPIRE imple
 
 ## State of Play
 
-Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)
+**Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)**
 
 ![Spanish SDI logo](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/IDEE.png)
 
@@ -37,52 +37,17 @@ Spatial datasets contained in the SDI of Spain:
 [**Spanish SDI paltform**](https://plataforma.idee.es/en/inicio) is meeting point for developers in the geospatial community, where different initiatives are brought together and their reuse is
 made easier:
 - Application Programming Interfaces (viewer):
-   - API SITNA of Navarre Government
-   - API CNIG of National Centre for Geographic Information.
-   - MAPEA of Regional Government of Andalusia
-   - Municipal Territorial Information System (SITMUN) of Diputació de Barcelona
+   - [API SITNA](https://plataforma.idee.es/en/sitna-api) of Navarre Government
+   - [API CNIG](https://plataforma.idee.es/en/cnig-api) of National Centre for Geographic Information.
+   - [MAPEA](https://plataforma.idee.es/en/mapea) of Regional Government of Andalusia
+   - [Municipal Territorial Information System (SITMUN)](https://sitmun.diba.cat/sitmun2/visor.jsp?app=1&ter=80) of Diputació de Barcelona
 - Geocoding:
-   - Unified Digital Street Map of Andalusia of Regional Government of Andalusia
-   - Cartociudad geocoder of National Centre for Geographic Information.
-   - Street Map and Coordinate Converter Service. Cadastral
+   - [Unified Digital Street Map of Andalusia](https://www.callejerodeandalucia.es/portal/servicio-ws-cdau-soap) of Regional Government of Andalusia
+   - [Cartociudad geocoder](http://www.cartociudad.es/web/portal/directorio-de-servicios/geoprocesamiento) of National Centre for Geographic Information.
+   - [Street Map and Coordinate Converter Service. Cadastral](https://www.catastro.meh.es/ws/Webservices_Libres.pdf)
    
 ![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalSpanishIDEE.png)
 
-### Coordination
-
-#### National Contact Point
-
-- Name of Public Authority:
-- Postal Address:
-- Contact Email:
-- Telephone Number: 034915979646
-- Telefax Number: 034915979764
-- National INSPIRE Website: **Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)** https://www.idee.es/
-- MIG Contacts: 
-  - Contact Person: Emilio López Romero
-  - Email: Emilio.lopez@cnig.es
-  - Telephone Number: 034915979646
-  - Contact Person: Alberto Campos García
-  - Email: acampos@miteco.es
-- MIG T Contacts: 
-  - Contact Person: Paloma Abad Power
-  - Email: paloma.abad@cnig.es
-  - Telephone Number: 034915979660
-  - Contact Person: Soledad Gómez Andrés
-  - Email: msgomez@mapa.es
-  
-#### Coordination Structure & Progress: 
-
-##### Coordination structure
-
-[Geographic High Council](https://www.transportes.gob.es/organos-colegiados/consejo-superior-geografico/csg) is the director body of the National Cartographic System (SCN), having consultation and planning role for the official geographic information and cartography. Geographic High Council is the National Contact Point for INSPIRE and the coordination and direction for the Spanish SDI.
-![Spanish SDI coordination](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/CSG_CODIIGE.jpg)
-Geographic High Council created the **[Executive Board of the Geographic Information Infrastructure of Spain](https://www.idee.es/en/web/idee/codiige)** (CODIIGE) for managing and controlling IDEE. It takes responsibility for directing Spain's SDI, and immediately began to define the Technical WGs with the objective of analysing the application of the implementing rules of INSPIRE by the Spanish Public Administrations and helping their bodies and Organizations to achieve compliance. Furthermore, it is the body responsible for coordination and management of the SDI of Spain, owing to which it is responsible for its constitution and maintenance, being responsible for:
-1. Proposing to the competent Authorities the actions to be performed by the Administrations or Organizations of the public sector for the establishment of the IDEE.
-2. Guaranteeing its accessibility and interoperability.
-3. Integrating the contributions of other producers or suppliers.
-
-The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutional coordination the organization of Spanish SDI (IDEE) is based on 14 national and 17 regional nodes; each regional node establishes the necessary coordination with the local administration and other agents.
 **National and Regional SDI nodes**
 The Spanish SDI is made up of the following main nodes and more SDI nodes here.
 | National SDI nodes   |    |
@@ -124,6 +89,43 @@ The Spanish SDI is made up of the following main nodes and more SDI nodes here.
 |[Principality of Asturias](https://ideas.asturias.es/)|SDI of Asturias from the Principality of Asturias Government. (**SITPA-IDEAS**)|
 |[Regional Community of Navarra](https://geoportal.navarra.es/es/idena)|SDI of the Government of Navarre. (**IDENA**) |
 |[Valencian Community](http://idev.gva.es/en/inicio)|SDI of Valencia. (**IDEV**) |
+
+### Coordination
+
+#### National Contact Point
+
+- Name of Public Authority:
+- Postal Address:
+- Contact Email:
+- Telephone Number: 034915979646
+- Telefax Number: 034915979764
+- National INSPIRE Website: **Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)** https://www.idee.es/
+- MIG Contacts: 
+  - Contact Person: Emilio López Romero
+  - Email: Emilio.lopez@cnig.es
+  - Telephone Number: 034915979646
+  - Contact Person: Alberto Campos García
+  - Email: acampos@miteco.es
+- MIG T Contacts: 
+  - Contact Person: Paloma Abad Power
+  - Email: paloma.abad@cnig.es
+  - Telephone Number: 034915979660
+  - Contact Person: Soledad Gómez Andrés
+  - Email: msgomez@mapa.es
+  
+#### Coordination Structure & Progress: 
+
+##### Coordination structure
+
+[Geographic High Council](https://www.transportes.gob.es/organos-colegiados/consejo-superior-geografico/csg) is the director body of the National Cartographic System (SCN), having consultation and planning role for the official geographic information and cartography. Geographic High Council is the National Contact Point for INSPIRE and the coordination and direction for the Spanish SDI.
+![Spanish SDI coordination](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/CSG_CODIIGE.jpg)
+Geographic High Council created the **[Executive Board of the Geographic Information Infrastructure of Spain](https://www.idee.es/en/web/idee/codiige)** (CODIIGE) for managing and controlling IDEE. It takes responsibility for directing Spain's SDI, and immediately began to define the Technical WGs with the objective of analysing the application of the implementing rules of INSPIRE by the Spanish Public Administrations and helping their bodies and Organizations to achieve compliance. Furthermore, it is the body responsible for coordination and management of the SDI of Spain, owing to which it is responsible for its constitution and maintenance, being responsible for:
+1. Proposing to the competent Authorities the actions to be performed by the Administrations or Organizations of the public sector for the establishment of the IDEE.
+2. Guaranteeing its accessibility and interoperability.
+3. Integrating the contributions of other producers or suppliers.
+
+The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutional coordination the organization of Spanish SDI (IDEE) is based on 14 national and 17 regional nodes; each regional node establishes the necessary coordination with the local administration and other agents.
+
 
 
 Depending on [**CODIIGE**](https://www.idee.es/en/web/idee/codiige):
