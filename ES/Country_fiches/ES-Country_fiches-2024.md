@@ -183,18 +183,66 @@ Aragon government published the Law 3/2022, of 6 October, on Geographic Informat
 **Functioning**
 
 - To facilitate data and service sharing and use has been developed:
- - Spanish SDI Geoportal (IDEE) provides access to around 46 catalogues from national, regional and local nodes.
- - Official Catalogue of Inspire Data and Services (CODSI) provides access INSPIRE data sets and network services. This catalogue is connected via harvesting or file interchange with the catalogues of national and regional SDI nodes, is the base for the monitoring process and for feeding the INSPIRE Geoportal. All INSPIRE compliant services available in Spain are available in European INSPIRE Geoportal.
- - Spanish Registry
+  - Spanish SDI Geoportal (IDEE) provides access to around 46 catalogues from national, regional and local nodes.
+  - Official Catalogue of Inspire Data and Services (CODSI) provides access INSPIRE data sets and network services. This catalogue is connected via harvesting or file interchange with the catalogues of national and regional SDI nodes, is the base for the monitoring process and for feeding the INSPIRE Geoportal. All INSPIRE compliant services available in Spain are available in European INSPIRE Geoportal.
+  - [Spanish Registry](https://registro.idee.es/registry) based on [Re3gistry](https://ec.europa.eu/isa2/solutions/re3gistry_en/).
 - Much more OGC services are available but not all are INSPIRE compliant services.
+- Navarre, Catalonia and National Cartographic System services publish their spatial data via OGC APIs
 - The list of key spatial data sets required for other environmental policies is already identified.
-- Big effort on training, seminars, events at regional and local levels; twitter @IDEESpain (2949 followers), electronic monthly bulletin “SobreIDEs” http://www.idee.es/boletin-sobre-ides and Spanish SDI Blog "Blog IDEE" with 88 articles in 2022 (120 articles in 2021, 201 articles in 2020, 238
-articles in 2019...)
+- Big effort on training, seminars, events at regional and local levels; twitter @IDEESpain (2949 followers), electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with the following numbers of articles per year:
+  
+|2019|2020|2021|2022|2023|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|238|201|120|88|82 |
+  
 - Thematic Working Groups (GTT), was asked to produce Guides about how to make compliant with INSPIRE the identified datasets and the already implemented view and download services. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
+
+**INSPIRE priority dataset**
+
+- Identification of priority data through environment ministries: The Ministry of Agriculture, Fisheries and Food (MAPA) and the Ministry for the Ecological Transition and the Demographic Challenge (MITECO).
+- The MAPA and MITECO SDI Geoportal is the central access point to the INSPIRE priority data set provided for environmental reporting.
+
+**Cadastral Parcels, Addresses and buildings**
+- INSPIRE GML used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain. These themes are downloaded though ATOM service of General Directorate for Cadastre, Govern of Navarre and Basque government. These services allow the completed download by municipality of the INSPIRE data set.
+- The Spanish Mortgage Law and the revised text of the Law of Real Estate Cadastre, following its reform by Law 13/2015, of 24 June, establish a system of coordination between the Cadastre and the Property Rights Registry, so that Property Rights Registry incorporates the georeferenced graphic description of the registered properties, using the cadastral cartography as a basis.
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
-< insert text >
+**Some figures about metadata and catalogues**
+
+Registers are published through the following **national catalogues**:
+
+| National Catalogues (resources)  | 2019 | 2020 | 2021 | 2022 | 2023 | Comment|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+|[Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)|10500|11461|13120|14155|43387|Catalogue connected to each of the national, regional and local SDI node catalogues.|
+|[Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)|457|527|543|566|665|Catalogue prepared for the harvesting of the European Commission on the 15 th of December each year. (Contains the priority datasets)| 
+|[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|XX of out 80.760|Promoting the openig of public and development advanced services based on data.|
+|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) Catalogue|84|91|92|75|194|Publish priority dataset| 
+|[Geological and Mining Institute](http://catalogo.igme.es/geonetwork/srv/spa/catalog.search#/home)|-|-|1200|1300|1379|Geological datasets|
+|[Spanish Institute of Oceanography](http://datos.ieo.es/geonetwork/srv/spa/catalog.search#/home)|-|-|-|5300|6350|Ocenography datasets|
+|[Marine Hydrographic Institute](https://ideihm.covam.es/catalogo/srv/spa/catalog.search#/home)|-|-|-|112|131|Ocenography datasets|
+
+Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.0.
+
+| Regional Catalogues | 2022| 2023|
+| ------------- | ------------- |------------- |
+| Andalusia SDI  | 5610  |Content Cell  |
+| Aragón SDI  | 16725  |Content Cell  |
+| Balearic Islands SDI  | 208  |Content Cell  |
+| Canary SDI  | 505  |Content Cell  |
+| Cantabria SDI  | 150  |Content Cell  |
+| Castile and Leon SDI  | 128  |Content Cell  |
+| Castile–La Mancha SDI  | 154  |Content Cell  |
+| Catalonia SDI  | 4377  |Content Cell  |
+| Regional Community of Navarra SDI  | 1597  |Content Cell  |
+| Valencian Community SDI  | 1124  |Content Cell  |
+| Extremadura SDI  |309 |Content Cell  |
+| Galicia Community SDI  | 430  |Content Cell  |
+| La Rioja Community SDI  | 700  |Content Cell  |
+| Basque Country SDI  | 232  |Content Cell  |
+| Madrid SDI  |135 |Content Cell  |
+| Murcia SDI  | 225  |Content Cell  |
+| Principality of Asturias SDI  | 109  |Content Cell  |
 
 ### Data Sharing Arrangements <a name="data"></a>
 
