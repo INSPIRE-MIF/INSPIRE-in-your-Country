@@ -127,18 +127,16 @@ Geographic High Council created the **[Executive Board of the Geographic Informa
 
 The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutional coordination the organization of Spanish SDI (IDEE) is based on 14 national and 17 regional nodes; each regional node establishes the necessary coordination with the local administration and other agents.
 
-
-
 Depending on [**CODIIGE**](https://www.idee.es/en/web/idee/codiige):
 - There are some [Thematic Working Groups (GTT)](https://www.idee.es/en/web/idee/codiige#grupostt), (one per INSPIRE Theme although some themes are grouped) with representation of all institutions with responsibility for data and/ or services under scope of INSPIRE. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
 - Identification of priority data through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
 - Furthermore, there are four transversal Working Groups (Metadata and catalogue; Network services; Monitoring and reporting; Data and services policy).
-- Finally, there is a Working Group for the NSDI (GTIDEE) with representatives from public and private sector and academia. GTIDEE meets 2 times a year to discuss different aspects of the standars, Technical Guidance, open data and new technologies for the implementation of INSPIRE, Iberian Conference SDI and to coordinate the experts work on INSPIRE.
+- Finally, there is a Working Group for the NSDI (GTIDEE) with representatives from public and private sector and academia. GTIDEE meets 2 times a year to discuss different aspects of the standars, Technical Guidance, open data and new technologies for the implementation of INSPIRE, [Iberian Conference SDI](https://www.idee.es/en/web/idee/jiide) and to coordinate the experts work on INSPIRE.
 - Responsible for [**Spanish SDI Geoportal**](https://www.idee.es/en/web/idee/inicio) and their catalogues.
   - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
   - [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) 
 
-The [National Cartographic System](http://www.scne.es/productos.html), defined in Royal Decree 1545/2007 and promoted by Law 14/2010, which establishes the coordination of data production via the National Cartographic Plan and the sharing of data between the Autonomous Communities that sign the generic agreement and the General State Administration. The Geographic High Council is the management body of the National Cartographic System and and is made up of the following national and regional bodies, see here.
+The [National Cartographic System](http://www.scne.es/productos.html), defined in Royal Decree 1545/2007 and promoted by Law 14/2010, which establishes the coordination of data production via the National Cartographic Plan and the sharing of data between the Autonomous Communities that sign the generic agreement and the General State Administration. The Geographic High Council is the management body of the [National Cartographic System](https://www.scne.es/productos.php) and and is made up of the following national and regional bodies, see [here](https://www.scne.es/miembros.html).
 - On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see [here.](https://www.scne.es/miembros.html)
 ##### Progress
 
