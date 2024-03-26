@@ -143,7 +143,9 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 
 ##### Progress
 
-The CODIIGE has carried out a preliminary study of **high-value datasets (HVD)** to be made available for re-use according to [Commission Implementing Regulation (EU) 2023/138 of laying down a list of specific high-value datasets and the arrangements for their publication and re-use](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
+**High-Value Datasets (HVD)**
+
+The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)** to be made available for re-use according to [Commission Implementing Regulation (EU) 2023/138 of laying down a list of specific high-value datasets and the arrangements for their publication and re-use](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
 
 All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to Regulation (EC) No 1205/2008. Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
