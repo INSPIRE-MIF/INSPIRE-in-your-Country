@@ -21,7 +21,11 @@ This country fiche highlights the progress in the various areas of INSPIRE imple
 
 Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)
 
-![Spanish SDI logo](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/IDEElogo.png)
+![Spanish SDI logo](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/IDEE.png)
+
+Spain transposed INSPIRE Directive into national law since 2010, called [**LISIGE** "Law about Infrastructures and Services about Geographic information in Spain"](https://www.boe.es/boe/dias/2010/07/06/pdfs/BOE-A-2010-10707.pdf), and has been implemented and maintainted the national INSPIRE nodes and regional INSPIRE nodes since then.
+All Annex I dataset have been harmonised from the beginning and the harmonisazion of Annex II and III data has been planned in following years road map which is being transposed. All priority datasets have identified and published through view and download services.
+[**Spanish SDI geoportal**](https://www.idee.es/en/web/idee/inicio) is the access point national and regional SDI have a geoportal, tools, catalogues and publishes their information thought view and download services.
 
 ### Coordination
 
