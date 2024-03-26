@@ -32,7 +32,9 @@ Spatial datasets contained in the SDI of Spain:
 
 [**Spanish SDI geoportal**](https://www.idee.es/en/web/idee/inicio) is the access point national and regional SDI have two catalogues, tools and publishes their information thought view and download services.
 - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
-- [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) 
+- [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)
+
+![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalIDEE1.png)
 
 ### Coordination
 
