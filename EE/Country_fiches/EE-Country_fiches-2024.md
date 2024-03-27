@@ -18,8 +18,8 @@ Market Agenda. Article 21 of INSPIRE Directive defines the basic principles for 
 implementing rules regarding INSPIRE monitoring and reporting have been adopted as Commission Implementing Decision
 (EU) 2019/1372 on the 19th August 2019.
 
-This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on monitoring
-2023 acquired in December 2023 and Member States update.
+This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring
+2023](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee) acquired in December 2023 and Member States update.
 
 
 ## State of Play
@@ -140,3 +140,8 @@ to all users;
 - the cooperation between actors have increased (interinstitutional cooperation);
 - opportunities to use and implement new technical solutions nationally;
 - overall data discoverability and availability increase.
+
+## Key facts and figures
+
+Key facts and figures from monitoring 2023 can be found at:
+- https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee
