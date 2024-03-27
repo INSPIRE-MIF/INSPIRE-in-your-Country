@@ -229,13 +229,13 @@ Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.
 | [Andalusia SDI](https://www.ideandalucia.es/catalogo/inspire/srv/spa/catalog.search)| 5610  |5704 |
 | [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16725|16867|
 | [Balearic Islands SDI](http://ideib.caib.es/cataleg/srv/cat/catalog.search;jsessionid=86CD5730D78A433AD00F24A43B556CB0#/home)|208|215|
-| Canary SDI  | 505  |Content Cell  |
-| Cantabria SDI  | 150  |Content Cell  |
+| [Canary SDI](https://catalogo.idecanarias.es/geonetwork/srv/spa/catalog.search#/home)| 505|535|
+| [Cantabria SDI](https://mapas.cantabria.es/) | 150|150|
 | [Castile and Leon SDI](https://idecyl.jcyl.es/geonetwork/srv/spa/catalog.search#/home)|128|137|
 | [Castile–La Mancha SDI](https://castillalamancha.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=fb6f01f75c6a4dd194c55c0c19d94b7d)| 154  |24|
 | [Catalonia SDI](https://ide.cat/geonetwork/srv/spa/catalog.search#/home)|4377|5312|
 | [Regional Community of Navarra SDI](https://idena.navarra.es/catalogo/gn/srv/eng/search)|1597|1675|
-| Valencian Community SDI  | 1124  |Content Cell  |
+| [Valencian Community SDI]| 1124|1159|
 | [Extremadura SDI](http://ideextremadura.com/geonetwork/srv/spa/home)|309|583|
 | [Galicia Community SDI](https://xeocatalogo.xunta.gal/xeocatalogo/srv/glg/catalog.search#/home)|430|367|
 | [La Rioja Community SDI](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/search?resultType=details&sortBy=relevance&_cat=Regional%20-%20Rioja,%20La&from=1&to=20) |700|179|
@@ -243,6 +243,14 @@ Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.
 | [Madrid SDI](https://idem.comunidad.madrid/catalogocartografia/srv/spa/catalog.search;jsessionid=265E3C9FFA5843088A6EA7519741C23D.p13423306#/home)|135|240|
 | [Murcia SDI](https://mapas-gis-inter.carm.es/geonetwork/srv/spa/catalog.search#/home)|225|227|
 | [Principality of Asturias SDI](https://ideas.asturias.es/catalogo-de-metadatos) |109|119|
+
+Note: [On this website](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/catalogue) you can consult all the catalogues of the other Spanish SDI nodes.
+
+**Some figures on the use of netwrok services:**
+The number of service request always has been greater than the year before. Some examples:
+
+National Cartographic System (SCN)
+
 
 ### Data Sharing Arrangements <a name="data"></a>
 
