@@ -362,7 +362,7 @@ GeoEuskadi coordinates:
 |Total number of requests|2021|2022|2023|
 | ------------- | ------------- |------------- |------------- |
 |WMS, WMTS/TMS, WFS, WCS| 53.092.026|39.263.421|38.682.586|
-|Total number of GB download| 4.888,13|7.369,84|5.931,1|
+|GB download| 4.888,13|7.369,84|5.931,1|
 |Nº files GML download| 586|302|1.138|
 |Resources [(Catalogue)](https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos)| 18 datasets|18 datasets|22 datasets|
 
@@ -372,6 +372,16 @@ GeoEuskadi coordinates:
 | ------------- | ------------- |------------- |
 |WMS, WMTS, WFS, ATOM|-|-|
 |Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|
+
+Aragón Government (ICEARAGON): Spatial Knowledge Infrastructure of Aragon (ICEARAGON) is a technological solution developed by the Geographic Institute of Aragón (IGEAR). IGEAR is a dependent service of the Directorate General of Territory Planning of the Aragón Government. IGEAR is dedicated to manage the production, obtain and treatment of the territorial documentation, as well as the diffusion of territory planning information. At the beginning ICEARAGON was called IDEAragon.
+
+|Total number of requests|2020|2021|2022|2023|
+| ------------- | ------------- |------------- |------------- |------------- |
+|WMS/WFS (WMTS in 2022)|18.132.970|19.433.170|20.003.306|50.008.265|
+|CSW/WCS|928.669|824.119|951.563|2.380.393|
+|GB download (WMS, WFS)|9.027,42|8.174,67|18.148,23|4.988.400,2|
+|Features download (GML)|2.557|1.872|1.606|2.440|
+|Resources [(Catalogue)](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search)|-|-|16724|16867|
 
 ### Data Sharing Arrangements <a name="data"></a>
 
