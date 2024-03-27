@@ -230,7 +230,7 @@ Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.
 | [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16725|16867|
 | [Balearic Islands SDI](http://ideib.caib.es/cataleg/srv/cat/catalog.search;jsessionid=86CD5730D78A433AD00F24A43B556CB0#/home)|208|215|
 | [Canary SDI](https://catalogo.idecanarias.es/geonetwork/srv/spa/catalog.search#/home)| 505|535|
-| [Cantabria SDI](https://mapas.cantabria.es/) | 150|150|
+| [Cantabria SDI](https://mapas.cantabria.es/) | 150|201|
 | [Castile and Leon SDI](https://idecyl.jcyl.es/geonetwork/srv/spa/catalog.search#/home)|128|137|
 | [Castile–La Mancha SDI](https://castillalamancha.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=fb6f01f75c6a4dd194c55c0c19d94b7d)| 154  |24|
 | [Catalonia SDI](https://ide.cat/geonetwork/srv/spa/catalog.search#/home)|4377|5312|
@@ -247,9 +247,17 @@ Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.
 Note: [On this website](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/catalogue) you can consult all the catalogues of the other Spanish SDI nodes.
 
 **Some figures on the use of netwrok services:**
-The number of service request always has been greater than the year before. Some examples:
 
-National Cartographic System (SCN)
+INSPIRE services are increasingly used and included in the production processes of organisations and private companies. The following figures show that the number of requests for services has been consistently higher than in the previous year.
+
+[National Cartographic System (SCN)](https://www.scne.es/productos.php)
+Statistics on the publication of the spatial data of the National Cartographic System that coordinates the production of data through the National Cartographic Plan by means of the participation of the national and Autonomous Community bodies.
+
+|Total number of requests|Web service type|2019|2020 |2021 |2022 |2023 |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |
+| **Orthoimagery**| WMTS/WMS/TMS|5.403.392.858|6.717.946.340|8.231.541.907  | 8.319.996.970| 18.860.503.649|
+|**TN, HY, BU, AU, GN**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
+|**Land Cover / Land Use**| WMTS/WMS/TMS  |Content Cell  | Content Cell  |Content Cell  | Content Cell  | Content Cell  |
 
 
 ### Data Sharing Arrangements <a name="data"></a>
