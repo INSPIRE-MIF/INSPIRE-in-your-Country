@@ -155,7 +155,7 @@ All datasets (100 %) are available for re-use under the conditions of the Creati
 | Earth Observation and enviroment  | 184  | 253  |
 | Mobility  | 3  | 3 |
 
-In detail the published **geospatial HVD's**:
+In detail the published **geospatial HVD's** on CODSI, geoportal INSPIRE and European Data Portal:
 
 |Administrative units| Geographical names| Addresses| Buildings|Cadastral parcels|Agricultural parcels|
 | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
@@ -165,7 +165,7 @@ In detail the published **geospatial HVD's**:
 Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11 052 000 € for the next 4 years (2021-2024). The contracts cover the following topics:
 - Technological platform on the cloud.
 - Adaptation of the IDEE to the new technological specifications such as the implementation and configuration of new network services compliant with INSPIRE Directive based on the API-OGC and development of client applications for their exploitation. (Examples of Spanish SDI OGC API [here](https://api-features.idee.es/))
-- Postal address service web management system: Working on the creation of national geocoder service to publish official addresses that will be the result of the harmonization and integration of official addresses the main suppliers of information about addresses at national, regional and local government organizations. In this project involves Directorate General for Cadastre, Basque Government, Government of Navarre and another regions like Valencia, Madrid, Andalucía... All of them are supported with the Postal Codes provided by the Post Office Group, names of streets of National Statistics Institute together with the official settlements of National Geographic Institute (IGN Spain).
+- Postal address service web management system: Working on the creation of national geocoder service to publish official addresses that will be the result of the harmonization and integration of official addresses the main suppliers of information about addresses at national, regional and local government organizations. In this project involves Directorate General for Cadastre, Basque Government, Government of Navarre and another regions like Valencia, Madrid, Andalucía... All of them are supported with the Postal Codes provided by the Post Office Group, names of streets of National Statistics Institute together with the official settlements of National Geographic Institute (IGN).
 - Development of a national vector tile service: Creation of [**official base map multiscale**](https://ideespain.github.io/mapabase/) from official sources national, regional and local sources. Its technology is based on vector tile services.
 - Design and implementation of the processes for the integration of traffic direction information from OSM into the transport network database of Spain.
 - Maintenance of national catalogues, validation of metadata and publication on the open data portal
@@ -326,7 +326,7 @@ Statistics of **Agricultural parcels data sets**:
 - INSPIRE Atoms feeds of Administrative Units, Cadastral Parcels, Addresses and Buildings are included in Corda from EEA and Gisco(Eurostat) and now also in EuroGeographics Open Maps for Europe.
 - INSPIRE cadastral data are also included in the GEOE3 platform, where buildings are published in 2D and 3D through the OGC API Feature.
 
-Statistics of **Addresses, Buildings, Cadastral parcels data sets**:
+Figures of **Addresses, Buildings, Cadastral parcels data sets**:
 
 | Total number of requests|2023|
 | ------------- | ------------- |
@@ -334,8 +334,39 @@ Statistics of **Addresses, Buildings, Cadastral parcels data sets**:
 |WMS| 461.984.297 |
 |WFS| 6.927.886 |
 |Gazeteer (addresses)| 336.086.612 |
+
 *Land Registry Office.
 
+At the regional level, we highlight the Basque Government and Aragon.
+
+[**SDI Basque Country (geoEuskadi)**](www.geo.euskadi.eus) It facilitates the publication of geographic data and services to the bodies and entities of the public sector of Basque Country, as well as allowing easy and efficient access to this information and other information published by other SDI nodes at State, Foral and local level. 
+
+
+
+GeoEuskadi coordinates:
+- [SDI Provincial Council of Alava (GeoAraba)](https://geo.araba.eus/es/)
+
+| [Total number of requests](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/Figures_of_geoAraba.pdf)|2021|2022|2023|
+| ------------- | ------------- |
+|22 WMS| 19.129.597|26.505.980|36.011.584|
+|OI WMTS| -|-|8.665.300|
+|4 WFS| 50.368|43.704|104.874|
+|Resources [(Catalogue)](https://geo.araba.eus/geonetwork/srv/spa/catalog.search#/home)| 39 datasets/20 services|39 datasets/20 services|39 datasets/22 services|
+
+- [SDI Provincial Council of Gipuzkoa](https://b5m.gipuzkoa.eus/web5000/es)
+
+|Total number of requests|2021|2022|2023|
+| ------------- | ------------- |
+|WMS, WMTS, WFS, WCS| 53.092.026|39.263.421|-|
+|Total number of GB download| 4.888,13|7.369,84|-|
+|Resources [(Catalogue)](https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos)| 18 datasets|18 datasets|22 datasets|
+
+- [SDI  Provincial Council of Bizkaia (GeoBizkaia)](https://www.bizkaia.eus/es/inspirebizkaia)
+
+|Total number of requests|2022|2023|
+| ------------- | ------------- |
+|WMS, WMTS, WFS, ATOM|-|-|
+|Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|
 
 ### Data Sharing Arrangements <a name="data"></a>
 
