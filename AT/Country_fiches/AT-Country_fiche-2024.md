@@ -126,4 +126,4 @@ Member States are given some leeway as to how they deal with the technical imple
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2023 can be found ]here](https://inspire-geopor-tal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at).
+Key facts and figures from monitoring 2023 can be found [here](https://inspire-geopor-tal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at).
