@@ -400,10 +400,18 @@ There are hundreds agreements or conventions co-financed by the autonomous admin
 Some figures:
 A study performed in 2019 has roughly evaluated the annual cost of the national node of Spanish SDI in 120,000 € and the social benefits provide society with publishing viewing services in 1 M €, of a published map tile using its API. An approximated not very accurate estimation of cost-benefits ratio gives a result of at least 1:8 which must be only considered as an idea of the order of magnitude.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [**Spanish SDI (IDEE)**](https://www.idee.es) | 2020|2021|2022|2023|
+| ------------- | ------------- |------------- | ------------- |------------- |
+| Estimated annual cost per web service.  | 2.670 €  |2.670 €  |2.670 €  |2.670 €  |
+| Estimated annual cost of maintaining a [Spanish SDI geoportal](https://www.idee.es). | 50.000 € (new) |25.000 € |25.000 € |25.000 € |
+| Publication of SCNE datasets via OGC APIs | - |- |87.139 € |100.000 € |
+| [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076 €  |22.096 € |30.000 € |
+
+| [**MAPA and MITECO SDI is the central access point to the INSPIRE priority data set
+provided for environmental reporting.**](https://www.idee.es) | 2020|2021|2022|2023|
+| ------------- | ------------- |------------- | ------------- |------------- |
+| Estimated annual cost per web service.  | 1.047 €  |1.375 €  |1.375 € |1.192,53 €  |
+| Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837 €|1.371.837 € |1.465.620,56 €|
 
 
 [**Spain’s recovery and resilience plan**](https://commission.europa.eu/business-economy-euro/economic-recovery/recovery-and-resilience-facility/country-pages/spains-recovery-and-resilience-plan_en)
