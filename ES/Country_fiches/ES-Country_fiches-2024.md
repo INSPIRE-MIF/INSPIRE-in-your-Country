@@ -255,10 +255,23 @@ Statistics on the publication of the spatial data of the National Cartographic S
 
 |Total number of requests|Web service type|2019|2020 |2021 |2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |
-| **Orthoimagery**| WMTS/WMS/TMS|5.403.392.858|6.717.946.340|8.231.541.907  | 8.319.996.970| 18.860.503.649|
-|**TN, HY, BU, AU, GN**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
-|**Land Cover / Land Use**| WMTS/WMS/TMS  |Content Cell  | Content Cell  |Content Cell  | Content Cell  | Content Cell  |
+| **(PNOA) (OI)**| WMTS/WMS/TMS|5.403.392.858|6.717.946.340|8.231.541.907  | 8.319.996.970| 18.860.503.649|
+|**Base map (TN, HY, BU, AU, GN, AD, EL, LU)**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
+|**SIOSE/CORINE (LC/LU)**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
+|**DTM 5m/25m (EL)**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
 
+The most viewed INSPIRE themes are:
+
+| Theme  | Request (WMS/WMTS/TMS) |
+| ------------- | ------------- |
+| TN, HY, BU, AU, GN, AD, EL | 27.810.544.087  |
+| OI  | 18.860.503.649  |
+| EL  | 225.006.331  |
+| AU  | 208.028.175  |
+| TN  | 16.368.395 |
+| LC/LU  | 14.173.783  |
+| HY  | 10.677.031  |
+| GN  | 3.721.964  |
 
 ### Data Sharing Arrangements <a name="data"></a>
 
