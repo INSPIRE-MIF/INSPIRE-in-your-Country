@@ -2,13 +2,13 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-1. [State of Play](#state_of_play)
+1. [State of Play](#state-of-play)
    1. [Coordination](#coordination)
    2. [Functioning and coordination of the infrastructure](#functioning)
    3. [Usage of the infrastructure for spatial information](#usage)
    4. [Data Sharing Arrangements](#data)
    5. [Costs and Benefits](#costs)
-1. [Key facts and figures](#key_facts_and_figures)
+1. [Key facts and figures](#key-facts-and-figures)
 
 
 ## Introduction
