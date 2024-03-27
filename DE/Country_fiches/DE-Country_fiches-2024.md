@@ -51,7 +51,7 @@ A high-level view on the governance, use and impact of the INSPIRE Directive in 
 
 ##### Coordination structure
 
-< organigramm >
+<img src="https://github.com/hogredan/INSPIRE-in-your-Country/assets/18457212/56781c5d-d722-4670-aaf3-6b8278253200" alt="GDI-DE_Struktur und Zuständigkeiten" width="800" />
 
 The Spatial Data Infrastructure Germany (GDI-DE) is coordinated jointly by the federal level, the federal states and municipalities. Its central bodies are:
 - the Steering Committee SDI Germany (Lenkungsgremium GDIDE)
