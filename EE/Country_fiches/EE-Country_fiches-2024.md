@@ -8,6 +8,7 @@
    3. [Usage of the infrastructure for spatial information](#usage)
    4. [Data Sharing Arrangements](#data)
    5. [Costs and Benefits](#costs)
+1. [Key facts and figures](#key_facts_and_figures)
 
 
 ## Introduction
