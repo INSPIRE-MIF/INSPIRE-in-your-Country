@@ -402,16 +402,25 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 
 | [**Spanish SDI (IDEE)**](https://www.idee.es) | 2020|2021|2022|2023|
 | ------------- | ------------- |------------- | ------------- |------------- |
-| Estimated annual cost per web service.  | 2.670 €  |2.670 €  |2.670 €  |2.670 €  |
-| Estimated annual cost of maintaining a [Spanish SDI geoportal](https://www.idee.es). | 50.000 € (new) |25.000 € |25.000 € |25.000 € |
-| Publication of SCNE datasets via OGC APIs | - |- |87.139 € |100.000 € |
-| [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076 €  |22.096 € |30.000 € |
+| Estimated annual cost per web service.  | 2.670€  |2.670€  |2.670€  |2.670€  |
+| Estimated annual cost of maintaining a [Spanish SDI geoportal](https://www.idee.es). | 50.000€ (new) |25.000€ |25.000€ |25.000€ |
+| Publication of SCNE datasets via OGC APIs | - |- |87.139€ |100.000€ |
+| [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |
 
-| [**MAPA and MITECO SDI is the central access point to the INSPIRE priority data set
+| [**[MAPA SDI](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [MITECO SDI](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set
 provided for environmental reporting.**](https://www.idee.es) | 2020|2021|2022|2023|
 | ------------- | ------------- |------------- | ------------- |------------- |
-| Estimated annual cost per web service.  | 1.047 €  |1.375 €  |1.375 € |1.192,53 €  |
-| Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837 €|1.371.837 € |1.465.620,56 €|
+| Estimated annual cost per web service.  | 1.047€  |1.375€  |1.375€ |1.192,53€  |
+| Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837€|1.371.837€ |1.465.620,56€|
+
+| [**ICEARAGON.**]((https://idearagon.aragon.es/portal/) | 2020(savings)|2021(savings)|2022(savings)|2023(savings)|
+| ------------- | ------------- |------------- | ------------- |------------- |
+|EU average session cost: €6.11 according to EU/IGN source  | Gross savings: 111.873.667€  |Gross savings: 111.873.667€   |Gross savings: 12.240.199€  |Gross savings: 29.589.691,3€   |
+|  | Actual savings: 593.683€ |Actual savings: 593.683€  |Actual savings: 612,009€  |Actual savings: 1.479.484,6€|
+|Average session cost in Spain 5.5 € according to INE source  | Potential savings: 10.688.243€ |Potential savings: 10.688.243€  |Potential savings: 11.018.183€ |Potential savings: 26.635.565€  |
+|  | Actual savings: 534.412€ |Actual savings: 534.412€  |Actual savings: 550.909€  |Actual savings: 1.331.778,3€|
+|Services of ARAGEA|- |928.699€|1.132.088€|1.171.800€|
+|IGEAR estimates € per request/service|- |0,33€|0,33€|0,33€|
 
 
 [**Spain’s recovery and resilience plan**](https://commission.europa.eu/business-economy-euro/economic-recovery/recovery-and-resilience-facility/country-pages/spains-recovery-and-resilience-plan_en)
