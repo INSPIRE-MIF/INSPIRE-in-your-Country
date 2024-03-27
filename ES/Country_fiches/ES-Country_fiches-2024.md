@@ -272,14 +272,12 @@ The most viewed INSPIRE themes in 2023 are:
 | ------------- | ------------- |
 | TN, HY, BU, AU, GN, AD, EL | 27.810.544.087  |
 | OI  | 18.860.503.649  |
-| AD* | 6.168.647.743  |
 | EL  | 225.006.331  |
 | AU  | 208.028.175  |
 | TN  | 16.368.395 |
 | LC/LU  | 14.173.783  |
 | HY  | 10.677.031  |
 | GN  | 3.721.964  |
-*only on the portal of the D. G. de Catastro (Land Registry Office).
 
 |Total number of some requests|Download service type|2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |
@@ -288,7 +286,7 @@ The most viewed INSPIRE themes in 2023 are:
 |**DTM 5m/25m (EL)**| WCS/OGC API  |61.354.665/-|119.815.518/1.466|
 |**HY**| WCS/OGC API  |597.500/-|675.057/735.900|
 
-[National Geographic Institute (IGN) SDI node](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign)
+[**National Geographic Institute (IGN)**](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign)
 
 | Total number of requests|2019|2020|2021|2022|2023|
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
@@ -299,7 +297,8 @@ The most viewed INSPIRE themes in 2023 are:
 | 3 WCS| -|-|-|61.440.535|119.985.582|
 | OGC API| -|-|-|-|1.042.550|
 
-[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html)
+[**Ministry for the Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) and [**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/)
+
 Statistics of **priority data sets** services:
 
 | Total number of requests|2019|2020|2021|2022|2023|
@@ -310,14 +309,33 @@ Statistics of **priority data sets** services:
 | Total| -|-| 189.292.030|146.558.358|194.766.675|
 | CSW| -|-| 282.782|346.393|352.279|
 
-[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart)
+[**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart).
+FEGA is an independent body under the Ministry of Agriculture, Fisheries and Food (MAPA), whose main mission is to ensure that the EAGF (European Agricultural Guarantee Fund) funds and EAFRD (Agricultural Fund for Rural Development) of the Common Agricultural Policy (CAP) assigned to Spain are strictly applied in order to achieve this policy's objective, efficiently reaching the beneficiaries that comply with the requirements established for its concession, within the deadlines indicated in the regulations, promoting a homogeneous application of the CAP subsidies across the entire State, preventing fraud and minimising the risks of financial corrections arising from the incorrect management of these Funds.
+
 Statistics of **Agricultural parcels data sets**:
 
 | Total number of requests|2023|
 | ------------- | ------------- |
-|Visits to the viewer| 5 million users|
+|[Visits to the viewer](https://sigpac.mapa.gob.es/fega/visor/)| 5 million users|
 |Number of files downloaded| 593.118 files SHP and GPKG |
 |Number of GB downloaded| 2.628,71 GB |
+
+[**General Direction of Cadastre**](https://www.catastro.meh.es/) is responsible for the formation and maintenance of the Real Estate Cadastre as well as the dissemination of cadastral information (Addresses, Buildings, Cadastral parcels data sets).
+
+- INSPIRE GML (through WFS and ATOM services) continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law.
+- INSPIRE Atoms feeds of Administrative Units, Cadastral Parcels, Addresses and Buildings are included in Corda from EEA and Gisco(Eurostat) and now also in EuroGeographics Open Maps for Europe.
+- INSPIRE cadastral data are also included in the GEOE3 platform, where buildings are published in 2D and 3D through the OGC API Feature.
+
+Statistics of **Addresses, Buildings, Cadastral parcels data sets**:
+
+| Total number of requests|2023|
+| ------------- | ------------- |
+|[Visits to the viewer*](https://www.sedecatastro.gob.es)| 6.168.647.743|
+|WMS| 461.984.297 |
+|WFS| 6.927.886 |
+|Gazeteer (addresses)| 336.086.612 |
+*Land Registry Office.
+
 
 ### Data Sharing Arrangements <a name="data"></a>
 
