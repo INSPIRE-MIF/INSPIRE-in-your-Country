@@ -149,11 +149,17 @@ The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)**
 
 All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to Regulation (EC) No 1205/2008. Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
-|HVD accessible in the CODSI catalogue  | 2022 | 2023  |
+|HVD accessible in the CODSI catalogue  | 2022 (datasets)| 2023 (datasets)|
 | ------------- | ------------- | ------------- |
 | Geospatial  | 29  | 32  |
 | Earth Observation and enviroment  | 184  | 253  |
 | Mobility  | 3  | 3 |
+
+In detail the published **geospatial HVD's**:
+
+|Administrative units| Geographical names| Addresses| Buildings|Cadastral parcels|Agricultural parcels|
+| ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
+| 5 HVD  |7 HVD  | 7 HVD |6 HVD |5 HVD |2 HVD (GSAA, LPIS) |
 
 **Spain’s recovery and resilience plan**
 Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11 052 000 € for the next 4 years (2021-2024). The contracts cover the following topics:
@@ -293,6 +299,25 @@ The most viewed INSPIRE themes in 2023 are:
 | 3 WCS| -|-|-|61.440.535|119.985.582|
 | OGC API| -|-|-|-|1.042.550|
 
+[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html)
+Statistics of **priority data sets** services:
+
+| Total number of requests|2019|2020|2021|2022|2023|
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
+| WMS| -|-| 150.449.599|112.104.591|166.912.796|
+| WMTS| -|-| 38.262.839|34.003.746|27.799.441|
+| WFS| -|-| 579.592|447.999|52.415|
+| Total| -|-| 189.292.030|146.558.358|194.766.675|
+| CSW| -|-| 282.782|346.393|352.279|
+
+[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart)
+Statistics of **Agricultural parcels data sets**:
+
+| Total number of requests|2023|
+| ------------- | ------------- |
+|Visits to the viewer| 5 million users|
+|Number of files downloaded| 593.118 files SHP and GPKG |
+|Number of GB downloaded| 2.628,71 GB |
 
 ### Data Sharing Arrangements <a name="data"></a>
 
