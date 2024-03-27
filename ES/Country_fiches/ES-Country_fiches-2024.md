@@ -253,25 +253,46 @@ INSPIRE services are increasingly used and included in the production processes 
 [National Cartographic System (SCN)](https://www.scne.es/productos.php)
 Statistics on the publication of the spatial data of the National Cartographic System that coordinates the production of data through the National Cartographic Plan by means of the participation of the national and Autonomous Community bodies.
 
-|Total number of requests|Web service type|2019|2020 |2021 |2022 |2023 |
+|Total number of requests|View service type|2019|2020 |2021 |2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |
-| **(PNOA) (OI)**| WMTS/WMS/TMS|5.403.392.858|6.717.946.340|8.231.541.907  | 8.319.996.970| 18.860.503.649|
+| **(PNOA) (OI)**| WMTS/WMS/TMS|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.503.649|
 |**Base map (TN, HY, BU, AU, GN, AD, EL, LU)**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
 |**SIOSE/CORINE (LC/LU)**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
 |**DTM 5m/25m (EL)**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
 
-The most viewed INSPIRE themes are:
+The most viewed INSPIRE themes in 2023 are:
 
 | Theme  | Request (WMS/WMTS/TMS) |
 | ------------- | ------------- |
 | TN, HY, BU, AU, GN, AD, EL | 27.810.544.087  |
 | OI  | 18.860.503.649  |
+| AD* | 6.168.647.743  |
 | EL  | 225.006.331  |
 | AU  | 208.028.175  |
 | TN  | 16.368.395 |
 | LC/LU  | 14.173.783  |
 | HY  | 10.677.031  |
 | GN  | 3.721.964  |
+*only on the portal of the D. G. de Catastro (Land Registry Office).
+
+|Total number of some requests|Download service type|2022 |2023 |
+| ------------- | ------------- |------------- | ------------- |
+|**AU**  | WFS/OGC API |2.051.919.054/-|4.521.442.017/-|
+|**SIOSE/CORINE (LC/LU)**| WFS/OGC API |569.396/-| 459.461/68.973| 
+|**DTM 5m/25m (EL)**| WCS/OGC API  |61.354.665/-|119.815.518/1.466|
+|**HY**| WCS/OGC API  |597.500/-|675.057/735.900|
+
+[National Geographic Institute (IGN) SDI node](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign)
+
+| Total number of requests|2019|2020|2021|2022|2023|
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
+| 34 WMS| 386.792.657|1.086.603.543| 1.190.443.472|1.908.622.017|1.785.732.056|
+| 13 WMTS| 14.033.236.624|17.898.104.072| 16.642.860.898|6.733.287.150|5.800.622.917|
+| 7 TMS| -|-| 5.339.072.517|18.780.864.538|47.429.155.710|
+| 7 WFS| 31.010.430|41.859.494|19.589.574|10.453.976|4.668.732|
+| 3 WCS| -|-|-|61.440.535|119.985.582|
+| OGC API| -|-|-|-|1.042.550|
+
 
 ### Data Sharing Arrangements <a name="data"></a>
 
