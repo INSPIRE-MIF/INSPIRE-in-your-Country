@@ -341,13 +341,17 @@ At the regional level, we highlight the Basque Government and Aragon.
 
 [**SDI Basque Country (geoEuskadi)**](www.geo.euskadi.eus) It facilitates the publication of geographic data and services to the bodies and entities of the public sector of Basque Country, as well as allowing easy and efficient access to this information and other information published by other SDI nodes at State, Foral and local level. 
 
-
+| Total number of requests|2021|2022|2023|
+| ------------- | ------------- |------------- |------------- |
+|7 WMS, 5 WMTS, 1 WCS| 232.676.357|113.245.651|-|
+|16 WMS, 16 WCS (OI)|-|-|-|
+|Resources [(Catalogue)](https://www.geo.euskadi.eus/webgeo00-catalog/es/)| 232|232|233|
 
 GeoEuskadi coordinates:
 - [SDI Provincial Council of Alava (GeoAraba)](https://geo.araba.eus/es/)
 
 | [Total number of requests](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/Figures_of_geoAraba.pdf)|2021|2022|2023|
-| ------------- | ------------- |
+| ------------- | ------------- |------------- |------------- |
 |22 WMS| 19.129.597|26.505.980|36.011.584|
 |OI WMTS| -|-|8.665.300|
 |4 WFS| 50.368|43.704|104.874|
@@ -356,15 +360,16 @@ GeoEuskadi coordinates:
 - [SDI Provincial Council of Gipuzkoa](https://b5m.gipuzkoa.eus/web5000/es)
 
 |Total number of requests|2021|2022|2023|
-| ------------- | ------------- |
-|WMS, WMTS, WFS, WCS| 53.092.026|39.263.421|-|
-|Total number of GB download| 4.888,13|7.369,84|-|
+| ------------- | ------------- |------------- |------------- |
+|WMS, WMTS/TMS, WFS, WCS| 53.092.026|39.263.421|38.682.586|
+|Total number of GB download| 4.888,13|7.369,84|5.931,1|
+|Nº files GML download| 586|302|1.138|
 |Resources [(Catalogue)](https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos)| 18 datasets|18 datasets|22 datasets|
 
 - [SDI  Provincial Council of Bizkaia (GeoBizkaia)](https://www.bizkaia.eus/es/inspirebizkaia)
 
 |Total number of requests|2022|2023|
-| ------------- | ------------- |
+| ------------- | ------------- |------------- |
 |WMS, WMTS, WFS, ATOM|-|-|
 |Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|
 
