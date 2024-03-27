@@ -195,11 +195,7 @@ Aragon government published the Law 3/2022, of 6 October, on Geographic Informat
 - Much more OGC services are available but not all are INSPIRE compliant services.
 - Navarre, Catalonia and National Cartographic System services publish their spatial data via OGC APIs
 - The list of key spatial data sets required for other environmental policies is already identified.
-- Big effort on training, seminars, events at regional and local levels; twitter @IDEESpain (2949 followers), electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with the following numbers of articles per year:
-  
-|2019|2020|2021|2022|2023|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-|238|201|120|88|82 |
+- Big effort on training, seminars, events at regional and local levels; twitter @IDEESpain (2949 followers), electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with an average of 150 articles per year.
   
 - Thematic Working Groups (GTT), was asked to produce Guides about how to make compliant with INSPIRE the identified datasets and the already implemented view and download services. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
 
@@ -373,7 +369,7 @@ GeoEuskadi coordinates:
 |WMS, WMTS, WFS, ATOM|-|-|
 |Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|
 
-Aragón Government (ICEARAGON): Spatial Knowledge Infrastructure of Aragon (ICEARAGON) is a technological solution developed by the Geographic Institute of Aragón (IGEAR). IGEAR is a dependent service of the Directorate General of Territory Planning of the Aragón Government. IGEAR is dedicated to manage the production, obtain and treatment of the territorial documentation, as well as the diffusion of territory planning information. At the beginning ICEARAGON was called IDEAragon.
+[**Aragón Government (ICEARAGON)**](https://idearagon.aragon.es/portal/): Spatial Knowledge Infrastructure of Aragon (ICEARAGON) is a technological solution developed by the Geographic Institute of Aragón (IGEAR). IGEAR is a dependent service of the Directorate General of Territory Planning of the Aragón Government. IGEAR is dedicated to manage the production, obtain and treatment of the territorial documentation, as well as the diffusion of territory planning information. At the beginning ICEARAGON was called IDEAragon.
 
 |Total number of requests|2020|2021|2022|2023|
 | ------------- | ------------- |------------- |------------- |------------- |
@@ -383,10 +379,66 @@ Aragón Government (ICEARAGON): Spatial Knowledge Infrastructure of Aragon (ICEA
 |Features download (GML)|2.557|1.872|1.606|2.440|
 |Resources [(Catalogue)](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search)|-|-|16724|16867|
 
+The SDI of Aragon is working to include the knowledge graph in the geographic information search clients. Example [here](https://icearagon.aragon.es/Buscador/inicio).
+
+The above figures are a small sample of some of the organisations existing in Spain at national and regional level.  More than 4300 OGC services are listed in the [IDEE catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/home). 
+
 ### Data Sharing Arrangements <a name="data"></a>
 
-< insert text >
+There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the National Cartographic System (SCN). Another good example is agreements between environmental organisations and departments of MAPA and MITECO.
+
+[**National Cartographic System (SCN)**](https://www.scne.es/)
+
+- Existence of big projects of collaborative data production and harmonisation under the umbrella of National Cartographic System (SCN), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with IGN Spain.
+ - For example: The following national and regional organisations have collaborated in the capture of the orthoimagery: National Geographic Institute, Spanish Agrarian Guarantee Fund (FEGA), General Direction of Cadastre, Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
+ - Basque Country: Agreement signed on 17 May 2021, by which the Basque Country joins the National Cartographic System and no specific agreements, but there are several initiatives to share geographic data of different kinds between the administrations of the Autonomous Community of the Basque Country and other public entities.
 
 ### Costs and Benefits <a name="costs"></a>
 
-< insert text >
+**Costs:**
+
+Some figures:
+A study performed in 2019 has roughly evaluated the annual cost of the national node of Spanish SDI in 120,000 € and the social benefits provide society with publishing viewing services in 1 M €, of a published map tile using its API. An approximated not very accurate estimation of cost-benefits ratio gives a result of at least 1:8 which must be only considered as an idea of the order of magnitude.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+[**Spain’s recovery and resilience plan**](https://commission.europa.eu/business-economy-euro/economic-recovery/recovery-and-resilience-facility/country-pages/spains-recovery-and-resilience-plan_en)
+Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11.052.000 € for the next 4 years (2021-2024). The contracts cover the following topics.
+- Technological platform on the cloud
+- Adaptation of the IDEE to the new technological specifications such as the implementation and configuration of new network services compliant with INSPIRE Directive based on the API-OGC and development of client applications for their exploitation.
+- Postal address service web management system.
+- Development of a national vector tile service.
+- Development and implementation of integrated technological solutions for use cases.
+- Design and implementation of the processes for the integration of traffic direction information from OSM into the transport network database of Spain
+- Maintenance of national catalogues, validation of metadata and publication on the open data portal
+
+**Benefits:**
+[**Economic benefits of the SDI central node (CNIG and University of Leuven)**](https://www.idee.es/resources/documentos/CNIG-ES_Cost_Benefit_Central_SDI_Node_v018.pdf)
+A study about the benefits and value of the Central SDI-node of Spain by KU Leuven and CNIG to develop and test a methodology for quantifying the benefits or value of the central SDI-node of Spain by comparing WMS/WMTS using figures with the fee-models applied by some Member
+States (France, Finland and Sweden) and the feed-model applied by Google for its Google Maps API’s. Moreover, also the value of the geospatial datasets downloaded is quantified based on the fee-models applied in some of the Member States.
+
+Other benefits are:
+- Improving the access to geographic information, establishing core reference data, providing society with the skills and knowledge necessary for handling geographic information, transparency, transversality, be combined with other datasets.
+- Identify where official geographic information can be localised.
+- Official geographic information integrate with broader public data infrastructures and external data sources.
+- Adopt an open and collaborative methodology to design and improve digital public services.
+- Allow to reuse existing official data sets, networks services and relevant technical solutions where possible.
+- Facilitate the use official datasets and network services by non-governmental actors to stimulate innovation in products and services and enable job creation and growth.
+- Adopt an open and collaborative methodology to design and improve network services.
+- The balance cost/benefits are positive although in many cases the benefits are difficult or impossible to quantify.
+- Facilitating the availability and free access to the Administration's geographic information.
+Spanish network services becoming daily working tools in many public administration and private companies. Generalised culture of sharing data and information, increasing of open data available in the web, and a strong incentive to regularly and collaboratively to produce very expensive data (like the national coverage of LiDAR and ortophoto) are among the benefits.
+
+**The Data Economy in the Infomediary field**
+[ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following
+conclusions:
+- ASEDIE, brings together, among others, the main companies in the Economic and Financial Information subsector, this allows Asedie to have easier access to the most complete commercial information databases in the market, due to this for the elaboration of the report Asedie counts on an exhaustive universe of companies operating in Spain.
+- "Geographic Information" is the subsector that groups most of the infomediary companies. The "Geographic Information", "Market Research", "Economic & Financial" and "Infomediation Technology" subsectors account for 76% of the infomediary companies, uniting a total of 540 entities.
+- Sales: "Geographic Information" and "Economic & Financial" subsectors, account for 46% of the sales volume.
+- Employees: Four subsectors represent 75% of the total amount of employees in the Sector, "Geographic Information" stands out with 30% of the total. After that with silimar percentages are the "Economic & Financial", "Technical Consulting" and "Market Research" subsectors. The rest represent 25%, all having below 10% of the total amount of employees.
+- Subscribed Capital: The three most capitalized subsectors are "Market Research" , "Economic & Financial" and "Geographic Information", which account for 66% of the total capitalization. The two with the lowest are "Tourism" and "Meteorológical" with barely 0,4%.
+- 100% of those surveyed confirm positively that the standardization of geographic information is essential for the development of efficient geospatial solutions. With more than 60% strongly agreeing with the statement.
