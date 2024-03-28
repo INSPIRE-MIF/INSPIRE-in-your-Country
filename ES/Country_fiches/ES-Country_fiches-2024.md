@@ -424,7 +424,7 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 | Publication of SCNE datasets via OGC APIs | - |- |87.139€ |100.000€ |
 | [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |
 
-| [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.**](https://www.idee.es) | 2020|2021|2022|2023|
+| [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.| 2020|2021|2022|2023|
 | ------------- | ------------- |------------- | ------------- |------------- |
 | Estimated annual cost per web service.  | 1.047€  |1.375€  |1.375€ |1.192,53€  |
 | Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837€|1.371.837€ |1.465.620,56€|
@@ -459,7 +459,13 @@ A calculator has been designed to enable organisations to calculate the benefit 
 [**SDI of Aragon**](https://icearagon.aragon.es) has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
 - The [Geographic Institute of Aragon (IGEAR)](https://www.aragon.es/organismos/departamento-de-desarrollo-territorial-despoblacion-y-justicia/direccion-general-de-desarrollo-territorial/instituto-geografico-de-aragon-igear-) has been collecting statistics on the use of ICEARAGON and ARAGEA for three years with the aim of knowing the impact of its services and applications from an economic point of view. :
  - 4,842,830 visits to the website in 2023, an increase of 58.6% compared to 2022.
- - 47.8% of the information downloaded refers to environmental layers, 13.8% to administrative boundaries, 13.4% to maps of Aragon, 7% to energy or 4.7% to hunting grounds.  
+ - 47.8% of the information downloaded refers to environmental layers, 13.8% to administrative boundaries, 13.4% to maps of Aragon, 7% to energy or 4.7% to hunting grounds.
+The actual turnover that IGEAR would have achieved if it charged for its network services or products would be:
+- ICEARAGON service according to EU average 1.479.484,6+161.221= 1.640.705,6 € (52,9% increase compared to 2022).
+- ICEARAGON Service according to Spain average 1.331.778,3+161.221= 1.492.999,3 € (increase of 52,3% compared to 2022).
+And the total volume of costs saved for the company:
+- ICEARAGON service according to EU average + ARAGEA = 1.992.665,60 euros/year.
+- ICEARAGON service according to SPAIN + ARAGEA average = 1,844,959.30 euros/year.
 
 **The Data Economy in the Infomediary field**
 [ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following
