@@ -130,10 +130,8 @@ The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutio
 
 Depending on [**CODIIGE**](https://www.idee.es/en/web/idee/codiige):
 - There are some [Thematic Working Groups (GTT)](https://www.idee.es/en/web/idee/codiige#grupostt), (one per INSPIRE Theme although some themes are grouped) with representation of all institutions with responsibility for data and/ or services under scope of INSPIRE. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
-- Identification of priority data:
-   - Geoespatial
-   - Earth observation and environment through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
-   - Movility
+- Identification of high-value datasets: geospatial, Earth observation and environment and movility.
+- Identification of priority data through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
 - Furthermore, there are four transversal Working Groups (Metadata and catalogue; Network services; Monitoring and reporting; Data and services policy).
 - Finally, there is a Working Group for the NSDI (GTIDEE) with representatives from public and private sector and academia. GTIDEE meets 2 times a year to discuss different aspects of the standars, Technical Guidance, open data and new technologies for the implementation of INSPIRE, [Iberian Conference SDI](https://www.idee.es/en/web/idee/jiide) and to coordinate the experts work on INSPIRE.
 - Responsible for [**Spanish SDI Geoportal**](https://www.idee.es/en/web/idee/inicio) and their catalogues.
@@ -147,7 +145,12 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 
 [**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es)
 
-[**Ministry for Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es.html).
+
+[**Ministry for Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es.html) is  responsible for developing the government policy on fight against climate change, prevention of pollution, protecting the natural heritage, biodiversity, forests, sea, water and energy for a more ecological and productive social model. Depending on MITECO there are: 
+- [Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
+- [Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)
+- [Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html) 
+
 
 ##### Progress
 
