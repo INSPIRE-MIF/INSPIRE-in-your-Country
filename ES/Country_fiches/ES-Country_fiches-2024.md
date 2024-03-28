@@ -51,21 +51,22 @@ made easier:
 **National and Regional SDI nodes**
 
 The Spanish SDI is made up of the following main nodes and more SDI nodes [here](https://www.idee.es/en/web/idee/idee#proyectosidee).
+
 | National SDI nodes   |    |
 | ------------- | ------------- |
 | [National Cartographic System (SCN)](https://www.scne.es/)|Coordinated production and publication of data through the National Cartographic Plan |
 | Ministry of Finance |[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
-| Ministry of Transport, Mobility and Urban Agenda |[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
-|  |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
-|  |Directorate General for Architecture, Housing and Land | 
-|  |Spanish National Research Council (CSIC) | 
+| Ministry of Transport, Mobility and Urban Agenda|[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
+| |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
+||Directorate General for Architecture, Housing and Land | 
+||Spanish National Research Council (CSIC) | 
 | Ministry of Economic Affairs and Digital Transition |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
 | Ministry of Defense |[Marine Hydrographic Institute (IHM)](https://ideihm.covam.es/portal/) | 
 | Ministry of Science and Innovation |[Geological and Mining Institute of Spain](https://info.igme.es/catalogo)| 
 |  |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
 |[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) |[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart) |
 |[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) |[Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html)| 
-| |[Geoportal petrol stations and recharging pointsl](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
+| |[Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
 | |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)| 
 
 | Regional SDI nodes   |    |
