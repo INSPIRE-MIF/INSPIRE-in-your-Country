@@ -147,10 +147,11 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 
 
 [**Ministry for Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es.html) is  responsible for developing the government policy on fight against climate change, prevention of pollution, protecting the natural heritage, biodiversity, forests, sea, water and energy for a more ecological and productive social model. Depending on MITECO there are: 
-- [Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
-  - Enables geospatial queries of fuel prices at petrol stations and electric recharging points.
+- [Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio) enables geospatial queries of fuel prices at petrol stations and electric recharging points.
+  - The Petrol Stations Geoportal is based on the information submitted on the basis of Order ITC/2308/2007, of 25 July, which determines the form of submission of information to the Ministry of Industry, Tourism and Trade on the supply activities of petroleum products, which is the development of Art. 5 of Royal Decree Law 6/2000 of 23 June, on urgent measures to intensify competition in goods and services markets.
+  - The electric recharging points is based on Order TED/445/2023, of 28 April, which regulates the information to be sent by energy recharging service providers to the MITECO, the Autonomous Communities and the Cities of Ceuta and Melilla, which is the development of article 48 of Law 24/2013, of 26 December, on the Electricity Sector. 
   - Recharging points can only be downloaded directly from the control access [RIPREE](https://sedeaplicaciones.minetur.gob.es/Ripree) website.
-- [Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)
+- [Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica): The Mining Register is a permanently updated public archive of all existing mining rights in the national territory, territorial sea and continental shelf, with their corresponding map. The competence over mining rights lies with the Autonomous Communities, which manage the data in their respective mining cadastres.
 - [Integrated Information System of the Spanish Natural Heritage and Biodiversity Inventory (IEPNB)](https://www.miteco.gob.es/en/biodiversidad/temas/inventarios-nacionales/inventario-espanol-patrimonio-natural-biodiv.html)
 - [Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html) 
 
