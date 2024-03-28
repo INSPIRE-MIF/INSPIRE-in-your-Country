@@ -477,6 +477,7 @@ This report is based on 43 surveys of companies in the infomediary sector, which
 - 77% of the companies state that with the opening of data in 2015, they are devoting more effort to working with geospatial information of [National Cartographic System (SCN)](https://www.scne.es/) products.
 - 80% use aerial and satellite images, 67% use maps and topographic bases and 62% use LiDAR data. The average number of products used by companies is between 6 and 8.
 - 16.3% of the companies state that more than 50% of their turnover depends on [National Cartographic System (SCN)](https://www.scne.es/) products.
+Report is available [here.](https://www.ign.es/resources/cnig/Datos-geoespaciales-IGN-CNIG-ASEDIE.pdf)
 
 **Other benefits** are:
 - Encourage the reuitilisation of geospatial datasets through services.
