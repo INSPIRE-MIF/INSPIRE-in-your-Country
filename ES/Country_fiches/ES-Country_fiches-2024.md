@@ -51,11 +51,7 @@ made easier:
    
 ![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalSpanishIDEE.png)
 
-The SDI of Spain is made up of the following SDI nodes at the national, regional and local levels.
-
-**National and Regional SDI nodes**
-
-The Spanish SDI is made up of the following main nodes and more SDI nodes [here](https://www.idee.es/en/web/idee/idee#proyectosidee).
+The SDI of Spain is made up of the following SDI nodes at the national and regional levels (see SDI local nodes [here](https://www.idee.es/en/web/idee/idee#proyectosidee).)
 
 | National SDI nodes   |    |
 | ------------- | ------------- |
