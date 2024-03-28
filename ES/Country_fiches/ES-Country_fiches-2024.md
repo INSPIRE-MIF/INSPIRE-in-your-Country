@@ -164,13 +164,13 @@ The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)**
 
 All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to Regulation (EC) No 1205/2008. Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
-|HVD accessible in the CODSI catalogue  | 2022 (datasets)| 2023 (datasets)|
+|HVD accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
 | ------------- | ------------- | ------------- |
 | Geospatial  | 29  | 32  |
 | Earth Observation and enviroment  | 184  | 253  |
 | Mobility  | 3  | 3 |
 
-In detail the published **geospatial HVD's** on CODSI, geoportal INSPIRE and European Data Portal:
+In detail the published **geospatial HVD's** on [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal:
 
 |Administrative units| Geographical names| Addresses| Buildings|Cadastral parcels|Agricultural parcels|
 | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
@@ -208,7 +208,7 @@ The [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/em
 
 - To facilitate data and service sharing and use has been developed:
   - Spanish SDI Geoportal (IDEE) provides access to around 46 catalogues from national, regional and local nodes.
-  - Official Catalogue of Inspire Data and Services (CODSI) provides access INSPIRE data sets and network services. This catalogue is connected via harvesting or file interchange with the catalogues of national and regional SDI nodes, is the base for the monitoring process and for feeding the INSPIRE Geoportal. All INSPIRE compliant services available in Spain are available in European INSPIRE Geoportal.
+  - [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) provides access INSPIRE data sets and network services. This catalogue is connected via harvesting or file interchange with the catalogues of national and regional SDI nodes, is the base for the monitoring process and for feeding the INSPIRE Geoportal. All INSPIRE compliant services available in Spain are available in European INSPIRE Geoportal.
   - [Spanish Registry](https://registro.idee.es/registry) based on [Re3gistry](https://ec.europa.eu/isa2/solutions/re3gistry_en/).
 - Much more OGC services are available but not all are INSPIRE compliant services.
 - Navarre, Catalonia and National Cartographic System services publish their spatial data via OGC APIs
