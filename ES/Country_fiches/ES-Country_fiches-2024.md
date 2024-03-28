@@ -226,6 +226,9 @@ The [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/em
 - INSPIRE ATOM feeds of Administrative Units, Cadastral Parcels, Addresses and Buildings are included in Corda from EEA and Gisco(Eurostat) and now also in EuroGeographics Open Maps for Europe.
 - 2D and 3D building cadastral data are available through the OGC API Feature included in the [Geospatially Enabled Ecosystem for Europe (GeoE3)] platform (https://geoe3.eu/).
 
+**High-Value Datasets (HVD)**
+
+The CODIIGE monitors that INSPIRE HVDs comply with the conditions set out in the [Commission Implementing Regulation (EU) 2023/138 of laying down a list of specific high-value datasets and the arrangements for their publication and re-use](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
