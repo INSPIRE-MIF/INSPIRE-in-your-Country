@@ -37,7 +37,7 @@ on the INSPIRE knowledge base.
 
 - Name of Public Authority: Estonian Land Board
 - Contact Email: inspire@maaamet.ee
-- National INSPIRE Website: https://geoportaal.ee/
+- National INSPIRE Website: [https://geoportaal.ee/](https://geoportaal.ee/)
 - MIG Contacts:
    - Contact Person: Mart Randmäe
    - Email: mart.randmae@maaamet.ee
@@ -144,5 +144,4 @@ to all users;
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2023 can be found at:
-- https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee
+Key facts and figures from monitoring 2023 can be found at [here](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee)
