@@ -155,7 +155,6 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 - [Integrated Information System of the Spanish Natural Heritage and Biodiversity Inventory (IEPNB)](https://www.miteco.gob.es/en/biodiversidad/temas/inventarios-nacionales/inventario-espanol-patrimonio-natural-biodiv.html)
 - [Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html) 
 
-
 ##### Progress
 
 **High-Value Datasets (HVD)**
@@ -223,8 +222,10 @@ The [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/em
 - The MAPA and MITECO SDI Geoportal is the central access point to the INSPIRE priority data set provided for environmental reporting.
 
 **Cadastral Parcels, Addresses and buildings**
-- INSPIRE GML used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain. These themes are downloaded though ATOM service of General Directorate for Cadastre, Govern of Navarre and Basque government. These services allow the completed download by municipality of the INSPIRE data set.
-- The Spanish Mortgage Law and the revised text of the Law of Real Estate Cadastre, following its reform by Law 13/2015, of 24 June, establish a system of coordination between the Cadastre and the Property Rights Registry, so that Property Rights Registry incorporates the georeferenced graphic description of the registered properties, using the cadastral cartography as a basis.
+- INSPIRE GML continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law in Spain. These themes are downloaded though ATOM service of General Directorate for Cadastre, Govern of Navarre and Basque government. These services allow the completed download by municipality of the INSPIRE data set
+- INSPIRE ATOM feeds of Administrative Units, Cadastral Parcels, Addresses and Buildings are included in Corda from EEA and Gisco(Eurostat) and now also in EuroGeographics Open Maps for Europe.
+- 2D and 3D building cadastral data are available through the OGC API Feature included in the [Geospatially Enabled Ecosystem for Europe (GeoE3)] platform (https://geoe3.eu/).
+
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
@@ -338,9 +339,7 @@ Statistics of **Agricultural parcels data sets**:
 
 [**General Direction of Cadastre**](https://www.catastro.meh.es/) is responsible for the formation and maintenance of the Real Estate Cadastre as well as the dissemination of cadastral information (Addresses, Buildings, Cadastral parcels data sets).
 
-- INSPIRE GML (through WFS and ATOM services) continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law.
-- INSPIRE Atoms feeds of Administrative Units, Cadastral Parcels, Addresses and Buildings are included in Corda from EEA and Gisco(Eurostat) and now also in EuroGeographics Open Maps for Europe.
-- INSPIRE cadastral data are also included in the GEOE3 platform, where buildings are published in 2D and 3D through the OGC API Feature.
+- INSPIRE GML (through WFS and ATOM services) continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law and buildings are published in 2D and 3D through the OGC API Feature on [GeoE3 proyect](https://geoe3.eu/). 
 
 Figures of **Addresses, Buildings, Cadastral parcels data sets**:
 
