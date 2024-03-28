@@ -459,19 +459,6 @@ A calculator has been designed to enable organisations to calculate the benefit 
 
 [**SDI of Aragon**] has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
 
-
-Other benefits are:
-- Improving the access to geographic information, establishing core reference data, providing society with the skills and knowledge necessary for handling geographic information, transparency, transversality, be combined with other datasets.
-- Identify where official geographic information can be localised.
-- Official geographic information integrate with broader public data infrastructures and external data sources.
-- Adopt an open and collaborative methodology to design and improve digital public services.
-- Allow to reuse existing official data sets, networks services and relevant technical solutions where possible.
-- Facilitate the use official datasets and network services by non-governmental actors to stimulate innovation in products and services and enable job creation and growth.
-- Adopt an open and collaborative methodology to design and improve network services.
-- The balance cost/benefits are positive although in many cases the benefits are difficult or impossible to quantify.
-- Facilitating the availability and free access to the Administration's geographic information.
-Spanish network services becoming daily working tools in many public administration and private companies. Generalised culture of sharing data and information, increasing of open data available in the web, and a strong incentive to regularly and collaboratively to produce very expensive data (like the national coverage of LiDAR and ortophoto) are among the benefits.
-
 **The Data Economy in the Infomediary field**
 [ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following
 conclusions:
@@ -481,3 +468,10 @@ conclusions:
 - Employees: Four subsectors represent 75% of the total amount of employees in the Sector, "Geographic Information" stands out with 30% of the total. After that with silimar percentages are the "Economic & Financial", "Technical Consulting" and "Market Research" subsectors. The rest represent 25%, all having below 10% of the total amount of employees.
 - Subscribed Capital: The three most capitalized subsectors are "Market Research" , "Economic & Financial" and "Geographic Information", which account for 66% of the total capitalization. The two with the lowest are "Tourism" and "Meteorológical" with barely 0,4%.
 - 100% of those surveyed confirm positively that the standardization of geographic information is essential for the development of efficient geospatial solutions. With more than 60% strongly agreeing with the statement.
+
+**Other benefits** are:
+- Encourage the reuitilisation of geospatial datasets through services.
+ -Saving costs for administrations, businesses and citizens.
+ -Identify where official geographic information can be located.
+ -Integrate official geographic information with wider public data infrastructures and external data sources.
+ -Adopt an open and collaborative methodology to design and improve digital public services.
