@@ -434,9 +434,11 @@ Procurement for the modernisation of the Spatial Data Infrastructure for Spain (
 - Maintenance of national catalogues, validation of metadata and publication on the open data portal
 
 **Benefits:**
+
 [**Economic benefits of the SDI central node (CNIG and University of Leuven)**](https://www.idee.es/resources/documentos/CNIG-ES_Cost_Benefit_Central_SDI_Node_v018.pdf)
 A study about the benefits and value of the Central SDI-node of Spain by KU Leuven and CNIG to develop and test a methodology for quantifying the benefits or value of the central SDI-node of Spain by comparing WMS/WMTS using figures with the fee-models applied by some Member
 States (France, Finland and Sweden) and the feed-model applied by Google for its Google Maps API’s. Moreover, also the value of the geospatial datasets downloaded is quantified based on the fee-models applied in some of the Member States.
+A calculator has been designed to enable organisations to calculate the benefit of publishing data through OGC services.
 
 Other benefits are:
 - Improving the access to geographic information, establishing core reference data, providing society with the skills and knowledge necessary for handling geographic information, transparency, transversality, be combined with other datasets.
