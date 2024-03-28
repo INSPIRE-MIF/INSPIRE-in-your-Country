@@ -440,6 +440,9 @@ A study about the benefits and value of the Central SDI-node of Spain by KU Leuv
 States (France, Finland and Sweden) and the feed-model applied by Google for its Google Maps API’s. Moreover, also the value of the geospatial datasets downloaded is quantified based on the fee-models applied in some of the Member States.
 A calculator has been designed to enable organisations to calculate the benefit of publishing data through OGC services.
 
+[**SDI of Aragon**] has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
+
+
 Other benefits are:
 - Improving the access to geographic information, establishing core reference data, providing society with the skills and knowledge necessary for handling geographic information, transparency, transversality, be combined with other datasets.
 - Identify where official geographic information can be localised.
