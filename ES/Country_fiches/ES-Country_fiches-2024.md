@@ -169,7 +169,7 @@ All datasets (100 %) are available for re-use under the conditions of the Creati
 | Earth Observation and enviroment  | 184  | 253  |
 | Mobility  | 3  | 3 |
 
-In detail the published **geospatial HVD's** on [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal:
+In detail the published **geospatial HVD's** on [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal in 2023:
 
 |Administrative units| Geographical names| Addresses| Buildings|Cadastral parcels|Agricultural parcels|
 | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
@@ -195,7 +195,7 @@ The [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an ini
 
 Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
 
-The products of the National Cartographic System the SDI of Catalonia and Navarre are published through the OGC APIs. (see OGC API [here](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?facet.q=type%2Fservice%26serviceType%2Fdownload&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20))
+The products of the National Cartographic System, SDI Catalonia and SDI Navarre are published through the OGC APIs. (see OGC API [here](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?facet.q=type%2Fservice%26serviceType%2Fdownload&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20))
 
 **New law**: Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon and its organisational and instrumental mechanisms, through which coordination and collaboration between the different regional and local public administrations, as well as with the private sector, will be determined with regard to its production, dissemination and access, improving efficiency, transparency, interoperability and speed in its management. LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON) as the computer system made up of a set of resources dedicated to managing geographic information, available on the Internet, which meet the interoperability conditions (standards, specifications, protocols and interfaces) that allow them to be used, combined and related according to different needs.
 
