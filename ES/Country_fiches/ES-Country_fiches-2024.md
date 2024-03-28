@@ -151,6 +151,7 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
   - Enables geospatial queries of fuel prices at petrol stations and electric recharging points.
   - Recharging points can only be downloaded directly from the control access [RIPREE](https://sedeaplicaciones.minetur.gob.es/Ripree) website.
 - [Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)
+- [Integrated Information System of the Spanish Natural Heritage and Biodiversity Inventory (IEPNB)](https://www.miteco.gob.es/en/biodiversidad/temas/inventarios-nacionales/inventario-espanol-patrimonio-natural-biodiv.html)
 - [Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html) 
 
 
