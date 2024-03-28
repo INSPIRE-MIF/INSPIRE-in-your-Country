@@ -471,10 +471,10 @@ And the total volume of costs saved for the company:
 - ICEARAGON service according to SPAIN + ARAGEA average = 1,844,959.30 euros/year.
 
 **The Data Economy in the Infomediary field**
-[ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following conclusions:
-
+[ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. 
+This report is based on 43 surveys of companies in the infomediary sector, which analyse and process information from the public and private sectors to create value-added products for third party companies or the general public. ASEDIE's annual report (2023)highlights has the following conclusions:
 - 100% of companies use information from the national administrationa, 88% from the Autonomous Regions and 72% from regional administration and 72% of local entities.
-- 77% of the companies state that with the opening of data in 2015, they are devoting more effort to working with geospatial information.
+- 77% of the companies state that with the opening of data in 2015, they are devoting more effort to working with geospatial information of [National Cartographic System (SCN)](https://www.scne.es/) products.
 - 80% use aerial and satellite images, 67% use maps and topographic bases and 62% use LiDAR data. The average number of products used by companies is between 6 and 8.
 - 16.3% of the companies state that more than 50% of their turnover depends on [National Cartographic System (SCN)](https://www.scne.es/) products.
 
