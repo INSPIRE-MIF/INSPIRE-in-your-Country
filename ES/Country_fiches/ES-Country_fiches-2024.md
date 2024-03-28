@@ -120,7 +120,7 @@ The Spanish SDI is made up of the following main nodes and more SDI nodes [here]
 ##### Coordination structure
 
 [**Geographic High Council**](https://www.transportes.gob.es/organos-colegiados/consejo-superior-geografico/csg) is the director body of the [National Cartographic System (SCN)](https://www.scne.es/), having consultation and planning role for the official geographic information and cartography. Geographic High Council is the National Contact Point for INSPIRE and the coordination and direction for the Spanish SDI.
-![Spanish SDI coordination](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/CSG-CODIIGE.jpg)
+![Spanish SDI coordination](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/CSGCODIIGE.jpg)
 
 Geographic High Council created the **[Executive Board of the Geographic Information Infrastructure of Spain](https://www.idee.es/en/web/idee/codiige)** (CODIIGE) for managing and controlling IDEE. It takes responsibility for directing Spain's SDI, and immediately began to define the Technical WGs with the objective of analysing the application of the implementing rules of INSPIRE by the Spanish Public Administrations and helping their bodies and Organizations to achieve compliance. Furthermore, it is the body responsible for coordination and management of the SDI of Spain, owing to which it is responsible for its constitution and maintenance, being responsible for:
 1. Proposing to the competent Authorities the actions to be performed by the Administrations or Organizations of the public sector for the establishment of the IDEE.
