@@ -212,10 +212,10 @@ Aragon government published the Law 3/2022, of 6 October, on Geographic Informat
 
 **Some figures about metadata and catalogues**
 
-Registers are published through the following **national catalogues**:
+Resources are published through the following **national catalogues**:
 
-| National Catalogues (resources)  | 2019 | 2020 | 2021 | 2022 | 2023 | Comment|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+|National Catalogues (resources)| 2019 | 2020 | 2021 | 2022 | 2023 | Comment|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |[Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)|10500|11461|13120|14155|43387|Catalogue connected to each of the national, regional and local SDI node catalogues.|
 |[Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)|457|527|543|566|665|Catalogue prepared for the harvesting of the European Commission on the 15 th of December each year. (Contains the priority datasets)| 
 |[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|XX of out 80.760|Promoting the openig of public and development advanced services based on data.|
@@ -226,7 +226,9 @@ Registers are published through the following **national catalogues**:
 
 Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.0.
 
-| Regional Catalogues | 2022| 2023|
+Resources are published through the following **regional catalogues**:
+
+| Regional Catalogues (resources) | 2022| 2023|
 | ------------- | ------------- |------------- |
 | [Andalusia SDI](https://www.ideandalucia.es/catalogo/inspire/srv/spa/catalog.search)| 5610  |5704 |
 | [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16725|16867|
