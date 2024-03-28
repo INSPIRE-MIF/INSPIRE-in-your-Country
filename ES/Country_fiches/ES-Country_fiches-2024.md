@@ -458,6 +458,9 @@ States (France, Finland and Sweden) and the feed-model applied by Google for its
 A calculator has been designed to enable organisations to calculate the benefit of publishing data through OGC services.
 
 [**SDI of Aragon**] has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
+- The [Geographic Institute of Aragon (IGEAR)](https://www.aragon.es/organismos/departamento-de-desarrollo-territorial-despoblacion-y-justicia/direccion-general-de-desarrollo-territorial/instituto-geografico-de-aragon-igear-) has been collecting statistics on the use of ICEARAGON and ARAGEA for three years with the aim of knowing the impact of its services and applications from an economic point of view. :
+ - 4,842,830 visits to the website in 2023, an increase of 58.6% compared to 2022.
+ - 47.8% of the information downloaded refers to environmental layers, 13.8% to administrative boundaries, 13.4% to maps of Aragon, 7% to energy or 4.7% to hunting grounds.  
 
 **The Data Economy in the Infomediary field**
 [ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following
