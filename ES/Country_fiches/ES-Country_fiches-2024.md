@@ -29,13 +29,13 @@ Spain transposed INSPIRE Directive into national law since 2010, called [**LISIG
 - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
 - [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)
 
-Classification of the spatial datasets contained in the Spanish SDI:
+The spatial data is published in the above catalogs and is classified as follows:
 
 - **Annex I, II and III datasets** have been published and most of them are harmonized according to INSPIRE.
 - **Priority datasets** referring to environmental regulations have been identified and published.
 - **High value datasets** defined in Regulation (EU) 2023/138 classified as geospatial, Earth observation and environment and mobility.
 
-All of them are published through visualization and download services.
+All of them are published through view and download services.
 
 [**Spanish SDI paltform**](https://plataforma.idee.es/en/inicio) is meeting point for developers in the geospatial community, where different initiatives are brought together and their reuse is
 made easier:
@@ -50,6 +50,8 @@ made easier:
    - [Street Map and Coordinate Converter Service. Cadastral](https://www.catastro.meh.es/ws/Webservices_Libres.pdf)
    
 ![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalSpanishIDEE.png)
+
+The SDI of Spain is made up of the following SDI nodes at the national, regional and local levels.
 
 **National and Regional SDI nodes**
 
