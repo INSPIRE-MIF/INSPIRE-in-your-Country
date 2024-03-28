@@ -96,9 +96,9 @@ The Spanish SDI is made up of the following main nodes and more SDI nodes [here]
 
 #### National Contact Point
 
-- Name of Public Authority:National Center of Geographic Information (National Geographic Institute)
-- Postal Address:C/ General Ibáñez de Íbero 3, 28003 Madrid - España
-- Contact Email:emilio.lopez@cnig.es
+- Name of Public Authority: [National Center of Geographic Information](https://www.ign.es/web/ign/portal/qsm-cnig) ([National Geographic Institute](https://www.ign.es))
+- Postal Address: C/ General Ibáñez de Íbero 3, 28003 Madrid - España
+- Contact Email: emilio.lopez@cnig.es
 - Telephone Number: 034915979646
 - Telefax Number: 034915979764
 - National INSPIRE Website: **Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)** https://www.idee.es/
