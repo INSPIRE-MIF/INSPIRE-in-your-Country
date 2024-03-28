@@ -55,8 +55,10 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 
 | National SDI nodes   |    |
 | ------------- | ------------- |
-| [National Cartographic System (SCN)](https://www.scne.es/)|Coordinated production and publication of data through the National Cartographic Plan |
-| Ministry of Finance |[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
+| [National Cartographic System (SCN)](https://www.scne.es/) 
+- Coordinated production and publication of data through the National Cartographic Plan | |
+| Ministry of Finance
+- [Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) | |
 | Ministry of Transport, Mobility and Urban Agenda|[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
 | |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
 ||Directorate General for Architecture, Housing and Land | 
