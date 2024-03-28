@@ -424,13 +424,12 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 | Publication of SCNE datasets via OGC APIs | - |- |87.139€ |100.000€ |
 | [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |
 
-| [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set
-provided for environmental reporting.**](https://www.idee.es) | 2020|2021|2022|2023|
+| [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.**](https://www.idee.es) | 2020|2021|2022|2023|
 | ------------- | ------------- |------------- | ------------- |------------- |
 | Estimated annual cost per web service.  | 1.047€  |1.375€  |1.375€ |1.192,53€  |
 | Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837€|1.371.837€ |1.465.620,56€|
 
-| [**ICEARAGON.**](https://idearagon.aragon.es/portal/) | 2020(savings)|2021(savings)|2022(savings)|2023(savings)|
+| [**ICEARAGON**](https://idearagon.aragon.es/portal) | 2020(savings)|2021(savings)|2022(savings)|2023(savings)|
 | ------------- | ------------- |------------- | ------------- |------------- |
 |EU average session cost: €6.11 according to EU/IGN source  | Gross savings: 111.873.667€  |Gross savings: 111.873.667€   |Gross savings: 12.240.199€  |Gross savings: 29.589.691,3€   |
 |  | Actual savings: 593.683€ |Actual savings: 593.683€  |Actual savings: 612,009€  |Actual savings: 1.479.484,6€|
@@ -457,7 +456,7 @@ A study about the benefits and value of the Central SDI-node of Spain by KU Leuv
 States (France, Finland and Sweden) and the feed-model applied by Google for its Google Maps API’s. Moreover, also the value of the geospatial datasets downloaded is quantified based on the fee-models applied in some of the Member States.
 A calculator has been designed to enable organisations to calculate the benefit of publishing data through OGC services.
 
-[**SDI of Aragon**] has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
+[**SDI of Aragon**](https://icearagon.aragon.es) has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
 - The [Geographic Institute of Aragon (IGEAR)](https://www.aragon.es/organismos/departamento-de-desarrollo-territorial-despoblacion-y-justicia/direccion-general-de-desarrollo-territorial/instituto-geografico-de-aragon-igear-) has been collecting statistics on the use of ICEARAGON and ARAGEA for three years with the aim of knowing the impact of its services and applications from an economic point of view. :
  - 4,842,830 visits to the website in 2023, an increase of 58.6% compared to 2022.
  - 47.8% of the information downloaded refers to environmental layers, 13.8% to administrative boundaries, 13.4% to maps of Aragon, 7% to energy or 4.7% to hunting grounds.  
