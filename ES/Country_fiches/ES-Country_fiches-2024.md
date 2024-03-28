@@ -25,10 +25,13 @@ This country fiche highlights the progress in the various areas of INSPIRE imple
 
 Spain transposed INSPIRE Directive into national law since 2010, called [**LISIGE** "Law about Infrastructures and Services about Geographic information in Spain"](https://www.boe.es/boe/dias/2010/07/06/pdfs/BOE-A-2010-10707.pdf), and has been implemented and maintainted the national INSPIRE nodes and regional INSPIRE nodes since then.
 
-Spatial datasets contained in the SDI of Spain:
-- All annex I dataset have been harmonised from the beginning and the harmonisazion of Annex II and III data has been planned in following years road map which is being transposed.
-- Priority datasets have identified and published through view and download services.
-- High-value datasets defined in Regulation (EU) 2023/138 classified as geoespatial, earth observation and environment and mobility.
+Classification of the spatial datasets contained in the Spanish SDI:
+
+- **Annex I, II and III datasets** have been published and most of them are harmonized according to INSPIRE.
+- **Priority datasets** referring to environmental regulations have been identified and published.
+- **High value datasets** defined in Regulation (EU) 2023/138 classified as geospatial, Earth observation and environment and mobility.
+
+All of them are published through visualization and download services.
 
 [**Spanish SDI geoportal**](https://www.idee.es/en/web/idee/inicio) is the access point national and regional SDI have two catalogues, tools and publishes their information thought view and download services.
 - [Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)
