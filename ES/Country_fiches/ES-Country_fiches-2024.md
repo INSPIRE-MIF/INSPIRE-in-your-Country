@@ -130,7 +130,10 @@ The [CODIIGE](https://www.idee.es/en/web/idee/codiige) deal with interinstitutio
 
 Depending on [**CODIIGE**](https://www.idee.es/en/web/idee/codiige):
 - There are some [Thematic Working Groups (GTT)](https://www.idee.es/en/web/idee/codiige#grupostt), (one per INSPIRE Theme although some themes are grouped) with representation of all institutions with responsibility for data and/ or services under scope of INSPIRE. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
-- Identification of priority data through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
+- Identification of priority data:
+   - Geoespatial
+   - Earth observation and environment through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es) and the [Ministry for Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es.html).
+   - Movility
 - Furthermore, there are four transversal Working Groups (Metadata and catalogue; Network services; Monitoring and reporting; Data and services policy).
 - Finally, there is a Working Group for the NSDI (GTIDEE) with representatives from public and private sector and academia. GTIDEE meets 2 times a year to discuss different aspects of the standars, Technical Guidance, open data and new technologies for the implementation of INSPIRE, [Iberian Conference SDI](https://www.idee.es/en/web/idee/jiide) and to coordinate the experts work on INSPIRE.
 - Responsible for [**Spanish SDI Geoportal**](https://www.idee.es/en/web/idee/inicio) and their catalogues.
@@ -141,6 +144,10 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 - The data production are orthoimagery, hidrography, transport networks, land use and cover, elevation (DTM, DSM), etc.
 - The [National Cartographic System](https://www.scne.es/productos.php) is made up of the following national and regional bodies, see [here.](https://www.scne.es/miembros.html)
 - On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see [here.](https://www.scne.es/miembros.html)
+
+[**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es)
+
+[**Ministry for Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es.html).
 
 ##### Progress
 
