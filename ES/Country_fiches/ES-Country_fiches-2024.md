@@ -471,14 +471,12 @@ And the total volume of costs saved for the company:
 - ICEARAGON service according to SPAIN + ARAGEA average = 1,844,959.30 euros/year.
 
 **The Data Economy in the Infomediary field**
-[ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following
-conclusions:
-- ASEDIE, brings together, among others, the main companies in the Economic and Financial Information subsector, this allows Asedie to have easier access to the most complete commercial information databases in the market, due to this for the elaboration of the report Asedie counts on an exhaustive universe of companies operating in Spain.
-- "Geographic Information" is the subsector that groups most of the infomediary companies. The "Geographic Information", "Market Research", "Economic & Financial" and "Infomediation Technology" subsectors account for 76% of the infomediary companies, uniting a total of 540 entities.
-- Sales: "Geographic Information" and "Economic & Financial" subsectors, account for 46% of the sales volume.
-- Employees: Four subsectors represent 75% of the total amount of employees in the Sector, "Geographic Information" stands out with 30% of the total. After that with silimar percentages are the "Economic & Financial", "Technical Consulting" and "Market Research" subsectors. The rest represent 25%, all having below 10% of the total amount of employees.
-- Subscribed Capital: The three most capitalized subsectors are "Market Research" , "Economic & Financial" and "Geographic Information", which account for 66% of the total capitalization. The two with the lowest are "Tourism" and "Meteorológical" with barely 0,4%.
-- 100% of those surveyed confirm positively that the standardization of geographic information is essential for the development of efficient geospatial solutions. With more than 60% strongly agreeing with the statement.
+[ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. ASEDIE's annual report highlights the following conclusions:
+
+- 100% of companies use information from the national administrationa, 88% from the Autonomous Regions and 72% from regional administration and 72% of local entities.
+- 77% of the companies state that with the opening of data in 2015, they are devoting more effort to working with geospatial information.
+- 80% use aerial and satellite images, 67% use maps and topographic bases and 62% use LiDAR data. The average number of products used by companies is between 6 and 8.
+- 16.3% of the companies state that more than 50% of their turnover depends on [National Cartographic System (SCN)](https://www.scne.es/) products.
 
 **Other benefits** are:
 - Encourage the reuitilisation of geospatial datasets through services.
