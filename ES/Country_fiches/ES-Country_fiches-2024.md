@@ -56,13 +56,16 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 | National SDI nodes   |    |
 | ------------- | ------------- |
 | **Ministry** | **Organization** |
-|[National Cartographic System (SCN)](https://www.scne.es/) |Coordinated production and publication of data through the National Cartographic Plan |
-|Ministry of Finance|[Directorate General for Cadastre] (https://www.catastro.minhap.es/webinspire/index.html) |
-| Ministry of Transport, Mobility and Urban Agenda|[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
+|[National Cartographic System (SCN)](https://www.scne.es/) |Coordinated production and publication of data through the National Cartographic Plan. SCN publishes the following datasets for the following INSPIRE themes: OI. TN, HY, GN, AU, CP, BU, AD, EL, LU, LC... involving national and regional bodies responsible for the data.|
+|Ministry of Finance|Main responsible for AD, BU, CP |
+||[Directorate General for Cadastre] (https://www.catastro.minhap.es/webinspire/index.html) |
+| Ministry of Transport, Mobility and Urban Agenda|Responsible for TN, HY, GN, AU, LC, LU, EL, OI, NZ, etc | 
+||[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
 | |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
 ||Directorate General for Architecture, Housing and Land | 
 ||Spanish National Research Council (CSIC) | 
-| Ministry of Economic Affairs and Digital Transition |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
+| Ministry of Economic Affairs and Digital Transition |Responsible for SU, PD, etc. | 
+| |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
 | Ministry of Defense |[Marine Hydrographic Institute (IHM)](https://ideihm.covam.es/portal/) | 
 | Ministry of Science and Innovation |[Geological and Mining Institute of Spain](https://info.igme.es/catalogo)| 
 |  |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
