@@ -65,8 +65,8 @@ The Spanish SDI is made up of the following main nodes and more SDI nodes [here]
 |  |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
 |[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) |[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart) |
 |[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) |[Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html)| 
-| |[Petrol Station Geoportal](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
-| |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/ServiciosWeb)| 
+| |[Geoportal petrol stations and recharging pointsl](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
+| |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)| 
 
 | Regional SDI nodes   |    |
 | ------------- | ------------- |
@@ -179,7 +179,7 @@ The [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.id
 
 The [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
 
-Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
+Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
 
 **Nex law**
 Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon and its organisational and instrumental mechanisms, through which coordination and collaboration between the different regional and local public administrations, as well as with the private sector, will be determined with regard to its production, dissemination and access, improving efficiency, transparency, interoperability and speed in its management. LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON) as the computer system made up of a set of resources dedicated to managing geographic information, available on the Internet, which meet the interoperability conditions (standards, specifications, protocols and interfaces) that allow them to be used, combined and related according to different needs.
