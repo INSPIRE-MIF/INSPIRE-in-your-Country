@@ -79,7 +79,7 @@ layers.
 of the priorities was the implementation of INSPIRE Annexes I and II services on the new technical platform. This
 priority continued in 2022 as well, and from September 2022 all our services can be found under the
 inspire.geoportaal.ee domain. The Estonian Land Board participated also in the Geo3E project, which resulted in the
-creation of the first OGC API Features services on the INSPIRE data model in 2022. Testing took place in 2023 and will continue. The landing page of the Estonian INSPIRE OGC API can be found here https://inspire.geoportaal.ee/geoserver/ogc/features/v1/
+creation of the first OGC API Features services on the INSPIRE data model in 2022. Testing took place in 2023 and will continue. The landing page of the Estonian INSPIRE OGC API can be found [here](https://inspire.geoportaal.ee/geoserver/ogc/features/v1/).
 - INSPIRE coordinating and technical workgroup was established in 2019 inside Estonian Land Board. It is still
 fluently working and supporting INSPIRE spatial data owners.
 
@@ -94,8 +94,8 @@ available spatial data sets and services on the EU geoportal.
 - Estonian Land Board is responsible for maintaining [Estonian Geoportal](https://geoportaal.ee/eng/) (INSPIRE geoportal) and [Estonian Land Board
 geoportal](https://geoportaal.maaamet.ee/eng/) (National SDI that represents through INSPIRE services also INSPIRE data).
 - The metadata of all the databases and spatial data services introduced to the Estonian National Geoportal can also be
-found through the relevant user interface https://metadata.geoportaal.ee.
-- More information about Estonian Geoportal can be obtained at https://geoportaal.ee/eng
+found through the relevant user interface [https://metadata.geoportaal.ee](https://metadata.geoportaal.ee]).
+- More information about Estonian Geoportal can be obtained at [https://geoportaal.ee/eng](https://geoportaal.ee/eng).
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
@@ -144,4 +144,4 @@ to all users;
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2023 can be found at [here](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee)
+Key facts and figures from monitoring 2023 can be found at [here](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee).
