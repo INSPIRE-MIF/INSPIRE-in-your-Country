@@ -413,6 +413,17 @@ GeoEuskadi coordinates:
 
 The SDI of Aragon is working to include the knowledge graph in the geographic information search clients. Example [here](https://icearagon.aragon.es/Buscador/inicio).
 
+[**SDI La Rioja (IDERioja)**](https://www4.iderioja.larioja.org/index.php?id=28&lang=es):
+
+|Total number of requests|2023|
+| ------------- | ------------- |
+|WMS (GetCapaabilities)|158.536|
+|WMS (GetMap)|455.896|
+|WFS (GetCapabilities)| 60.175|
+|WFS (GetFeature)| 95.182|
+|WCS (GetFeature)| 5.849|
+|WCS (GetCoverage)|8.951|
+
 The above figures are a small sample of some of the organisations existing in Spain at national and regional level.  More than 4300 OGC services are listed in the [IDEE catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/home). 
 
 ### Data Sharing Arrangements <a name="data"></a>
