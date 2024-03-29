@@ -78,6 +78,7 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 | |[Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
 | |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)| 
 | |[State Meteorological Agency (AEMET)](https://www.aemet.es/es/datos_abiertos/catalogo)| 
+| |[Hydrographic Confederations](https://www.miteco.gob.es/es/ministerio/funciones-estructura/organismos-publicos/confederaciones-hidrograficas.html)|
 
 | Regional SDI nodes   |    |
 | ------------- | ------------- |
