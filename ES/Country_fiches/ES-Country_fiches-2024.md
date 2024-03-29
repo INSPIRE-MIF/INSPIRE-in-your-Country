@@ -57,23 +57,23 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 | ------------- | ------------- |
 | **Ministry** | **Organization** |
 |[National Cartographic System (SCN)](https://www.scne.es/) |Coordinated production and publication of data through the National Cartographic Plan. SCN publishes the following datasets for the following INSPIRE themes: OI. TN, HY, GN, AU, CP, BU, AD, EL, LU, LC... involving national and regional bodies responsible for the data.|
-|Ministry of Finance|Main responsible for [AD](https://inspire.ec.europa.eu/theme/ad), [BU](https://inspire.ec.europa.eu/theme/bu), [CP](https://inspire.ec.europa.eu/theme/cp) |
+|Ministry of Finance|Main responsible for the following INSPIRE themes: [AD](https://inspire.ec.europa.eu/theme/ad), [BU](https://inspire.ec.europa.eu/theme/bu), [CP](https://inspire.ec.europa.eu/theme/cp) |
 ||[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
-| Ministry of Transport, Mobility and Urban Agenda|Responsible for [TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [GN](https://inspire.ec.europa.eu/theme/gn), [AU](https://inspire.ec.europa.eu/theme/au), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu), [EL](https://inspire.ec.europa.eu/theme/el), [OI](https://inspire.ec.europa.eu/theme/oi), [NZ](https://inspire.ec.europa.eu/theme/nz), etc | 
+| Ministry of Transport, Mobility and Urban Agenda|Responsible for the following INSPIRE themes: [TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [GN](https://inspire.ec.europa.eu/theme/gn), [AU](https://inspire.ec.europa.eu/theme/au), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu), [EL](https://inspire.ec.europa.eu/theme/el), [OI](https://inspire.ec.europa.eu/theme/oi), [NZ](https://inspire.ec.europa.eu/theme/nz), etc | 
 ||[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
 | |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
 ||Directorate General for Architecture, Housing and Land | 
 ||Spanish National Research Council (CSIC) | 
-| Ministry of Economic Affairs and Digital Transition |Responsible for [SU](https://inspire.ec.europa.eu/theme/su), [PD](https://inspire.ec.europa.eu/theme/pd), etc. | 
+| Ministry of Economic Affairs and Digital Transition |Responsible for the following INSPIRE themes: [SU](https://inspire.ec.europa.eu/theme/su), [PD](https://inspire.ec.europa.eu/theme/pd), etc. | 
 | |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
-| Ministry of Defense |Responsible for [AU](https://inspire.ec.europa.eu/theme/au), [US](https://inspire.ec.europa.eu/theme/us), etc.| 
+| Ministry of Defense |Responsible for the following INSPIRE themes: [AU](https://inspire.ec.europa.eu/theme/au), [US](https://inspire.ec.europa.eu/theme/us), etc.| 
 | |[Marine Hydrographic Institute (IHM)](https://ideihm.covam.es/portal/)| 
-| Ministry of Science and Innovation |Main responsible for [GE](https://inspire.ec.europa.eu/theme/ge), [SO](https://inspire.ec.europa.eu/theme/so), [OF](https://inspire.ec.europa.eu/theme/of),[SR](https://inspire.ec.europa.eu/theme/sr), etc. | 
+| Ministry of Science and Innovation |Main responsible for the following INSPIRE themes: [GE](https://inspire.ec.europa.eu/theme/ge), [SO](https://inspire.ec.europa.eu/theme/so), [OF](https://inspire.ec.europa.eu/theme/of),[SR](https://inspire.ec.europa.eu/theme/sr), etc. | 
 | |[Geological and Mining Institute of Spain](https://info.igme.es/catalogo)| 
-|  |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
-|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) |Main responsible for [AF](https://inspire.ec.europa.eu/theme/af), [PF](https://inspire.ec.europa.eu/theme/pf), [AM](https://inspire.ec.europa.eu/theme/am), [EF](https://inspire.ec.europa.eu/theme/ef), etc. |
+| |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
+|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) |Main responsible for the following INSPIRE themes: [AF](https://inspire.ec.europa.eu/theme/af), [PF](https://inspire.ec.europa.eu/theme/pf), [AM](https://inspire.ec.europa.eu/theme/am), [EF](https://inspire.ec.europa.eu/theme/ef), etc. |
 | |[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart) |
-|[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) |Main responsible for [SD](https://inspire.ec.europa.eu/theme/sd), [HY](https://inspire.ec.europa.eu/theme/hy), [HB](https://inspire.ec.europa.eu/theme/hb), [EF](https://inspire.ec.europa.eu/theme/ef), [MF](https://inspire.ec.europa.eu/theme/mf), [AC](https://inspire.ec.europa.eu/theme/ac), [PS](https://inspire.ec.europa.eu/theme/ps), [ER](https://inspire.ec.europa.eu/theme/er), etc.| 
+|[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) |Main responsible for the following INSPIRE themes: [SD](https://inspire.ec.europa.eu/theme/sd), [HY](https://inspire.ec.europa.eu/theme/hy), [HB](https://inspire.ec.europa.eu/theme/hb), [EF](https://inspire.ec.europa.eu/theme/ef), [MF](https://inspire.ec.europa.eu/theme/mf), [AC](https://inspire.ec.europa.eu/theme/ac), [PS](https://inspire.ec.europa.eu/theme/ps), [ER](https://inspire.ec.europa.eu/theme/er), etc.| 
 | |[Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html)| 
 | |[Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
 | |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)| 
@@ -251,7 +251,7 @@ Resources are published through the following **national catalogues**:
 |[Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)|10500|11461|13120|14155|43387|Catalogue connected to each of the national, regional and local SDI node catalogues.|
 |[Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)|457|527|543|566|665|Catalogue prepared for the harvesting of the European Commission on the 15 th of December each year. (Contains the priority datasets)| 
 |[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|XX of out 80.760|Promoting the openig of public and development advanced services based on data.|
-|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) Catalogue|84|91|92|75|194|Publish priority dataset| 
+|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) catalogues|84|91|92|75|194|Publish priority dataset| 
 |[Geological and Mining Institute](http://catalogo.igme.es/geonetwork/srv/spa/catalog.search#/home)|-|-|1200|1300|1379|Geological datasets|
 |[Spanish Institute of Oceanography](http://datos.ieo.es/geonetwork/srv/spa/catalog.search#/home)|-|-|-|5300|6350|Ocenography datasets|
 |[Marine Hydrographic Institute](https://ideihm.covam.es/catalogo/srv/spa/catalog.search#/home)|-|-|-|112|131|Ocenography datasets|
@@ -280,7 +280,7 @@ Resources are published through the following **regional catalogues**:
 | [Murcia SDI](https://mapas-gis-inter.carm.es/geonetwork/srv/spa/catalog.search#/home)|225|227|
 | [Principality of Asturias SDI](https://ideas.asturias.es/catalogo-de-metadatos) |109|119|
 
-Note: [On this website](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/catalogue) you can consult all the catalogues of the other Spanish SDI nodes.
+Note: _[On this website](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/catalogue) you can consult all the catalogues of the other Spanish SDI nodes._
 
 **Some figures on the use of netwrok services:**
 
@@ -296,8 +296,9 @@ Statistics on the publication of the spatial data of the National Cartographic S
 |**SIOSE(2)/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
 |**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
 
-(1) _[PNOA](https://pnoa.ign.es/) is Spanish National Orthophoto Program_
-(2) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
+Notes:
+- (1) _[PNOA](https://pnoa.ign.es/) is Spanish National Orthophoto Program_
+- (2) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
 
 The most viewed INSPIRE themes in 2023 are:
 
@@ -322,8 +323,8 @@ The most downloaded INSPIRE themes in 2023 are:
 |**[HY](https://inspire.ec.europa.eu/theme/hy)**| WCS/OGC API  |597.500/-|675.057/735.900|
 
 Notes:
-_OGC API Feature are only for 2023_
-(1) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
+- _OGC API Feature are only for 2023_
+- (1) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
 
 [**National Geographic Institute (IGN)**](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign)
 
