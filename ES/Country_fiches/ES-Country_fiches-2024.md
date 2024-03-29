@@ -57,7 +57,7 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 | ------------- | ------------- |
 | **Ministry** | **Organization** |
 |[National Cartographic System (SCN)](https://www.scne.es/) |Coordinated production and publication of data through the National Cartographic Plan. SCN publishes the following datasets for the following INSPIRE themes: OI. TN, HY, GN, AU, CP, BU, AD, EL, LU, LC... involving national and regional bodies responsible for the data.|
-|Ministry of Finance|Main responsible for AD, BU, CP |
+|Ministry of Finance|Main responsible for [AD](https://inspire.ec.europa.eu/theme/ad), [BU](https://inspire.ec.europa.eu/theme/bu), [CP](https://inspire.ec.europa.eu/theme/cp) |
 ||[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
 | Ministry of Transport, Mobility and Urban Agenda|Responsible for TN, HY, GN, AU, LC, LU, EL, OI, NZ, etc | 
 ||[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
@@ -66,13 +66,14 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 ||Spanish National Research Council (CSIC) | 
 | Ministry of Economic Affairs and Digital Transition |Responsible for SU, PD, etc. | 
 | |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
-| Ministry of Defense |Responsible for AU, US, etc.| 
+| Ministry of Defense |Responsible for [AU](https://inspire.ec.europa.eu/theme/au), [US](https://inspire.ec.europa.eu/theme/us), etc.| 
 | |[Marine Hydrographic Institute (IHM)](https://ideihm.covam.es/portal/)| 
-| Ministry of Science and Innovation |Main responsible for GE, SO| 
+| Ministry of Science and Innovation |Main responsible for [GE](https://inspire.ec.europa.eu/theme/ge), [SO](https://inspire.ec.europa.eu/theme/so)| 
 | |[Geological and Mining Institute of Spain](https://info.igme.es/catalogo)| 
 |  |[Oceanographic Spanish Institute SDI](https://www.ieo.es/es_ES/web/ieo/servicios) | 
 |[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) |[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart) |
-|[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) |[Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html)| 
+|[Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) |Main responsible for [SD](https://inspire.ec.europa.eu/theme/sd), [HY](https://inspire.ec.europa.eu/theme/hy), [HB](https://inspire.ec.europa.eu/theme/hb), [EF](https://inspire.ec.europa.eu/theme/ef)| 
+| |[Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html)| 
 | |[Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
 | |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)| 
 
