@@ -296,8 +296,8 @@ Statistics on the publication of the spatial data of the National Cartographic S
 |**SIOSE(2)/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
 |**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
 
-(1) _PNNOA is Spanish National Orthophoto Program_
-(2) _SIOSE is Land Cover Information System of Spain_
+(1) _[PNOA](https://pnoa.ign.es/) is Spanish National Orthophoto Program_
+(2) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
 
 The most viewed INSPIRE themes in 2023 are:
 
@@ -308,16 +308,22 @@ The most viewed INSPIRE themes in 2023 are:
 |[EL](https://inspire.ec.europa.eu/theme/el)  | 225.006.331  |
 |[AU](https://inspire.ec.europa.eu/theme/au)  | 208.028.175  |
 |[TN](https://inspire.ec.europa.eu/theme/tn)  | 16.368.395 |
-| [LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu)  | 14.173.783  |
+|[LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu)  | 14.173.783  |
 |[HY](https://inspire.ec.europa.eu/theme/hy)  | 10.677.031  |
 |[GN](https://inspire.ec.europa.eu/theme/gn)  | 3.721.964  |
 
+The most downloaded INSPIRE themes in 2023 are:
+
 |Total number of some requests|Download service type|2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |
-|**AU**  | WFS/OGC API |2.051.919.054/-|4.521.442.017/-|
-|**SIOSE/CORINE (LC/LU)**| WFS/OGC API |569.396/-| 459.461/68.973| 
-|**DTM 5m/25m (EL)**| WCS/OGC API  |61.354.665/-|119.815.518/1.466|
-|**HY**| WCS/OGC API  |597.500/-|675.057/735.900|
+|**[AU](https://inspire.ec.europa.eu/theme/au)**  | WFS/OGC API |2.051.919.054/-|4.521.442.017/-|
+|**SIOSE(1)/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WFS/OGC API |569.396/-| 459.461/68.973| 
+|**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WCS/OGC API  |61.354.665/-|119.815.518/1.466|
+|**[HY](https://inspire.ec.europa.eu/theme/hy)**| WCS/OGC API  |597.500/-|675.057/735.900|
+
+Notes:
+_OGC API Feature are only for 2023_
+(1) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
 
 [**National Geographic Institute (IGN)**](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign)
 
