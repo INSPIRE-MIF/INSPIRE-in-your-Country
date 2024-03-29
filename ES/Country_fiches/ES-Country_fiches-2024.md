@@ -262,16 +262,16 @@ Resources are published through the following **regional catalogues**:
 
 | Regional Catalogues (resources) | 2022| 2023|
 | ------------- | ------------- |------------- |
-| [Andalusia SDI](https://www.ideandalucia.es/catalogo/inspire/srv/spa/catalog.search)| 5610  |5704 |
-| [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16725|16867|
+| [Andalusia SDI](https://www.ideandalucia.es/catalogo/inspire/srv/spa/catalog.search)| 5.610  |5.704 |
+| [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16.725|16.867|
 | [Balearic Islands SDI](http://ideib.caib.es/cataleg/srv/cat/catalog.search;jsessionid=86CD5730D78A433AD00F24A43B556CB0#/home)|208|215|
 | [Canary SDI](https://catalogo.idecanarias.es/geonetwork/srv/spa/catalog.search#/home)| 505|535|
 | [Cantabria SDI](https://mapas.cantabria.es/) | 150|201|
 | [Castile and Leon SDI](https://idecyl.jcyl.es/geonetwork/srv/spa/catalog.search#/home)|128|137|
 | [Castile–La Mancha SDI](https://castillalamancha.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=fb6f01f75c6a4dd194c55c0c19d94b7d)| 154  |24|
-| [Catalonia SDI](https://ide.cat/geonetwork/srv/spa/catalog.search#/home)|4377|5312|
-| [Regional Community of Navarra SDI](https://idena.navarra.es/catalogo/gn/srv/eng/search)|1597|1675|
-| [Valencian Community SDI](https://geocataleg.gva.es/#/?lang=spa)| 1124|1159|
+| [Catalonia SDI](https://ide.cat/geonetwork/srv/spa/catalog.search#/home)|4.377|5.312|
+| [Regional Community of Navarra SDI](https://idena.navarra.es/catalogo/gn/srv/eng/search)|1.597|1.675|
+| [Valencian Community SDI](https://geocataleg.gva.es/#/?lang=spa)| 1.124|1.159|
 | [Extremadura SDI](http://ideextremadura.com/geonetwork/srv/spa/home)|309|583|
 | [Galicia Community SDI](https://xeocatalogo.xunta.gal/xeocatalogo/srv/glg/catalog.search#/home)|430|367|
 | [La Rioja Community SDI](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/search?resultType=details&sortBy=relevance&_cat=Regional%20-%20Rioja,%20La&from=1&to=20) |700|179|
@@ -291,10 +291,13 @@ Statistics on the publication of the spatial data of the National Cartographic S
 
 |Total number of requests|View service type|2019|2020 |2021 |2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |
-| **(PNOA) (OI)**| WMTS/WMS/TMS|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.503.649|
-|**Base map (TN, HY, BU, AU, GN, AD, EL, LU)**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
-|**SIOSE/CORINE (LC/LU)**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
-|**DTM 5m/25m (EL)**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
+| **PNOA(1) ([OI](https://inspire.ec.europa.eu/theme/oi))**| WMTS/WMS/TMS|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.503.649|
+|**Base map ([TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [BU](https://inspire.ec.europa.eu/theme/bu), [AU](https://inspire.ec.europa.eu/theme/au), [GN](https://inspire.ec.europa.eu/theme/gn), [AD](https://inspire.ec.europa.eu/theme/ad), [EL](https://inspire.ec.europa.eu/theme/el), [LU](https://inspire.ec.europa.eu/theme/lu), [LC](https://inspire.ec.europa.eu/theme/lc))**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
+|**SIOSE(2)/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
+|**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
+
+(1) _PNNOA is Spanish National Orthophoto Program_
+(2) _SIOSE is Land Cover Information System of Spain_
 
 The most viewed INSPIRE themes in 2023 are:
 
@@ -331,13 +334,13 @@ The most viewed INSPIRE themes in 2023 are:
 
 Statistics of **priority data sets** services:
 
-| Total number of requests|2019|2020|2021|2022|2023|
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| WMS| -|-| 150.449.599|112.104.591|166.912.796|
-| WMTS| -|-| 38.262.839|34.003.746|27.799.441|
-| WFS| -|-| 579.592|447.999|52.415|
-| Total| -|-| 189.292.030|146.558.358|194.766.675|
-| CSW| -|-| 282.782|346.393|352.279|
+| Total number of requests|2021|2022|2023|
+| ------------- | ------------- |------------- | ------------- |
+| WMS| 150.449.599|112.104.591|166.912.796|
+| WMTS| 38.262.839|34.003.746|27.799.441|
+| WFS| 579.592|447.999|52.415|
+| Total| 189.292.030|146.558.358|194.766.675|
+| CSW| 282.782|346.393|352.279|
 
 [**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart).
 FEGA is an independent body under the Ministry of Agriculture, Fisheries and Food (MAPA), whose main mission is to ensure that the EAGF (European Agricultural Guarantee Fund) funds and EAFRD (Agricultural Fund for Rural Development) of the Common Agricultural Policy (CAP) assigned to Spain are strictly applied in order to achieve this policy's objective, efficiently reaching the beneficiaries that comply with the requirements established for its concession, within the deadlines indicated in the regulations, promoting a homogeneous application of the CAP subsidies across the entire State, preventing fraud and minimising the risks of financial corrections arising from the incorrect management of these Funds.
