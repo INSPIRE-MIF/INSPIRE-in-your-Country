@@ -368,14 +368,12 @@ Figures of **Addresses, Buildings, Cadastral parcels data sets**:
 
 | Total number of requests|2023|
 | ------------- | ------------- |
-|[Visits to the viewer*](https://www.sedecatastro.gob.es)| 6.168.647.743|
+|[Visits to the viewer ([Land Registry Office](https://www.sedecatastro.gob.es/))](https://www.sedecatastro.gob.es)| 6.168.647.743|
 |WMS| 461.984.297 |
 |WFS| 6.927.886 |
 |Gazeteer (addresses)| 336.086.612 |
 
-*Land Registry Office.
-
-At the regional level, we highlight the Basque Government and Aragon.
+At the regional level, we highlight the Basque Government, Aragon, Extremadura and La Rioja.
 
 [**SDI Basque Country (geoEuskadi)**](www.geo.euskadi.eus) It facilitates the publication of geographic data and services to the bodies and entities of the public sector of Basque Country, as well as allowing easy and efficient access to this information and other information published by other SDI nodes at State, Foral and local level. 
 
