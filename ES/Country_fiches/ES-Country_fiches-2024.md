@@ -135,6 +135,7 @@ SDIs at regional level are regulated by a law or decree that establishes their f
 ##### Coordination structure
 
 [**Geographic High Council**](https://www.transportes.gob.es/organos-colegiados/consejo-superior-geografico/csg) is the director body of the [National Cartographic System (SCN)](https://www.scne.es/), having consultation and planning role for the official geographic information and cartography. Geographic High Council is the National Contact Point for INSPIRE and the coordination and direction for the Spanish SDI.
+
 ![Spanish SDI coordination](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/CSGCODIIGE.jpg)
 
 Geographic High Council created the **[Executive Board of the Geographic Information Infrastructure of Spain](https://www.idee.es/en/web/idee/codiige)** (CODIIGE) for managing and controlling IDEE. It takes responsibility for directing Spain's SDI, and immediately began to define the Technical WGs with the objective of analysing the application of the implementing rules of INSPIRE by the Spanish Public Administrations and helping their bodies and Organizations to achieve compliance. Furthermore, it is the body responsible for coordination and management of the SDI of Spain, owing to which it is responsible for its constitution and maintenance, being responsible for:
@@ -203,7 +204,7 @@ Strengthening the work carried out between the Cadastre and the Land Registry. T
 **Conferences and workshops in 2023**
 The [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan "Contributions of spatial data infrastructures to high-value datasets” with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
 
-The [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
+[**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
 
 Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
 
@@ -258,7 +259,7 @@ Resources are published through the following **national catalogues**:
 |[Spanish Institute of Oceanography](http://datos.ieo.es/geonetwork/srv/spa/catalog.search#/home)|-|-|-|5300|6350|Ocenography datasets|
 |[Marine Hydrographic Institute](https://ideihm.covam.es/catalogo/srv/spa/catalog.search#/home)|-|-|-|112|131|Ocenography datasets|
 
-Note: The licence for most of the datasets in the Spanish catalogues is CC BY 4.0.
+Note: All of them (resources) have an open license and and most of the datasets have the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence.
 
 Resources are published through the following **regional catalogues**:
 
@@ -302,7 +303,7 @@ Notes:
 - (1) _[PNOA](https://pnoa.ign.es/) is Spanish National Orthophoto Program_
 - (2) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
 
-The most viewed INSPIRE themes in 2023 are:
+The most **viewed** INSPIRE themes in 2023 are:
 
 | INSPIRE Theme  | Request (WMS/WMTS/TMS) |
 | ------------- | ------------- |
@@ -315,7 +316,7 @@ The most viewed INSPIRE themes in 2023 are:
 |[HY](https://inspire.ec.europa.eu/theme/hy)  | 10.677.031  |
 |[GN](https://inspire.ec.europa.eu/theme/gn)  | 3.721.964  |
 
-The most downloaded INSPIRE themes in 2023 are:
+The most **downloaded** INSPIRE themes in 2023 are:
 
 |Total number of some requests|Download service type|2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |
