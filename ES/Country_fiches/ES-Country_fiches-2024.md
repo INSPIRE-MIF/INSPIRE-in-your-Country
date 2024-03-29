@@ -413,7 +413,14 @@ GeoEuskadi coordinates:
 
 The SDI of Aragon is working to include the knowledge graph in the geographic information search clients. Example [here](https://icearagon.aragon.es/Buscador/inicio).
 
-[**SDI La Rioja (IDERioja)**](https://www4.iderioja.larioja.org/index.php?id=28&lang=es):
+[**SDI Extremadura (IDEEX)**](http://www.ideextremadura.com/Geoportal/)
+
+|Total number of requests|2021|2022|2023|
+| ------------- | ------------- |------------- |------------- |
+|WMS|136.903.721|175.640.326|147.581.203|
+|WFS (GB download)|12.014,57|14.886,15|13.376,17|
+
+[**SDI La Rioja (IDERioja)**](https://www4.iderioja.larioja.org/index.php?id=28&lang=es)
 
 |Total number of requests|2023|
 | ------------- | ------------- |
