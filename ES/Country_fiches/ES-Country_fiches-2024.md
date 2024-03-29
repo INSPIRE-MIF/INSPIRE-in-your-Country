@@ -201,19 +201,19 @@ Strengthening the work carried out between the Cadastre and the Land Registry. T
 
 [**Navarra Territorial Information System (SITNA)**](https://geoportal.navarra.es/es/) has developed a [**Strategic Plan 2020-2023**](https://gobiernoabierto.navarra.es/es/gobernanza/planes-y-programas-accion-gobierno/plan-estrategico-del-sistema-informacion-territorial-2020-2023) manages the official geographic information for the Government of Navarra. Activities include: Maintenance and management of the geographic database and its metadata, mechanisms for updating information and integrating systems, developing desktop applications for different user profiles (consultation, analysis, fieldwork), development and maintenance of the Navarra Geoportal: including development of necessary applications and services to operate this website, exploitation of the system’s information, dissemination and participation in national and international events, participation in SITNA coordination bodies. Now, Navarre are working on the new Strategic [**Plan 2024-2028**](https://participa.navarra.es/processes/plan-sitna-2024-2028).
 
-**Conferences and workshops in 2023**
-The [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan "Contributions of spatial data infrastructures to high-value datasets” with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
-
-[**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
-
-Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
-
-**GeoE3: Geospatially Enabled Ecosystem for Europe**
+[**Geospatially Enabled Ecosystem for Europe (GeoE3)**]((https://geoe3.eu/)): 
 [National Cartographic System (SCN)](https://www.scne.es/) of Spain co-operated with Estonia, Netherlands, Norway, Finalnd and [OGC](https://www.ogc.org/) in the project co-financed by the Connecting Europe Facility of the European Union, [GeoE3 project](https://geoe3.eu/), since 2020-02 until 2024, providing a connection between existing and emerging national, regional and cross-border digital services. It provided a dynamic integration of high-value data sets and services (e.g. meteorological or statistical data) with geospatial features from existing national geospatial data platforms (e.g. building data or road network data).
 
 The products of the National Cartographic System, SDI Catalonia and SDI Navarre are published through the OGC APIs in GeoJSON format. (see OGC APIs [here](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?facet.q=type%2Fservice%26serviceType%2Fdownload&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20))
 
-The [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
+[**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
+
+**Conferences, meetings**
+
+**Conferences and workshops in 2023**
+- [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan "Contributions of spatial data infrastructures to high-value datasets” with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
+- [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
+- Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
