@@ -177,15 +177,11 @@ All datasets (100 %) are available for re-use under the conditions of the Creati
 
 |HVD accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
 | ------------- | ------------- | ------------- |
-| Geospatial  | 29  | 32  |
+| Geospatial  | 29  | 32: (5 of AU, 7 of GN, 7 of AD, 6 of BU, 5 of CP, 2 of GSAA, LPIS |
 | Earth Observation and enviroment  | 184  | 253  |
 | Mobility  | 3  | 3 |
 
-In detail the published **geospatial HVD's** on [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal in 2023:
-
-|Administrative units| Geographical names| Addresses| Buildings|Cadastral parcels|Agricultural parcels|
-| ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
-| 5 HVD  |7 HVD  | 7 HVD |6 HVD |5 HVD |2 HVD (GSAA, LPIS) |
+**HVD's** on [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal in 2023:
 
 **Spain’s recovery and resilience plan**
 Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11 052 000 € for the next 4 years (2021-2024). The contracts cover the following topics:
