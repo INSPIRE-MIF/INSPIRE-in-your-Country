@@ -298,16 +298,16 @@ Statistics on the publication of the spatial data of the National Cartographic S
 
 The most viewed INSPIRE themes in 2023 are:
 
-| Theme  | Request (WMS/WMTS/TMS) |
+| INSPIRE Theme  | Request (WMS/WMTS/TMS) |
 | ------------- | ------------- |
-| TN, HY, BU, AU, GN, AD, EL | 27.810.544.087  |
-| OI  | 18.860.503.649  |
-| EL  | 225.006.331  |
-| AU  | 208.028.175  |
-| TN  | 16.368.395 |
-| LC/LU  | 14.173.783  |
-| HY  | 10.677.031  |
-| GN  | 3.721.964  |
+|[TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [BU](https://inspire.ec.europa.eu/theme/bu), [AU](https://inspire.ec.europa.eu/theme/au), [GN](https://inspire.ec.europa.eu/theme/gn), [AD](https://inspire.ec.europa.eu/theme/ad), [EL](https://inspire.ec.europa.eu/theme/el) | 27.810.544.087  |
+|[OI](https://inspire.ec.europa.eu/theme/oi)  | 18.860.503.649  |
+|[EL](https://inspire.ec.europa.eu/theme/el)  | 225.006.331  |
+|[AU](https://inspire.ec.europa.eu/theme/au)  | 208.028.175  |
+|[TN](https://inspire.ec.europa.eu/theme/tn)  | 16.368.395 |
+| [LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu)  | 14.173.783  |
+|[HY](https://inspire.ec.europa.eu/theme/hy)  | 10.677.031  |
+|[GN](https://inspire.ec.europa.eu/theme/gn)  | 3.721.964  |
 
 |Total number of some requests|Download service type|2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |
@@ -461,6 +461,12 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 | ------------- | ------------- |------------- | ------------- |------------- |
 | Estimated annual cost per web service.  | 1.047€  |1.375€  |1.375€ |1.192,53€  |
 | Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837€|1.371.837€ |1.465.620,56€|
+
+|[**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es)|2023|
+| ------------- | ------------- |
+| Estimated annual cost of WMS.  | 7.600€  |
+| Estimated annual cost of [ATOM](https://www.fega.gob.es/orig/).  | 6.650€  |
+| Estimated annual cost of [viewer](https://sigpac.mapama.gob.es/fega/visor/).  | 48.600€  |
 
 | [**ICEARAGON**](https://idearagon.aragon.es/portal) | 2020(savings)|2021(savings)|2022(savings)|2023(savings)|
 | ------------- | ------------- |------------- | ------------- |------------- |
