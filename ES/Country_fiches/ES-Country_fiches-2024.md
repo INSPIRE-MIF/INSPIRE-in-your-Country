@@ -61,8 +61,10 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 ||[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
 | Ministry of Transport, Mobility and Urban Agenda|Responsible for the following INSPIRE themes: [TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [GN](https://inspire.ec.europa.eu/theme/gn), [AU](https://inspire.ec.europa.eu/theme/au), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu), [EL](https://inspire.ec.europa.eu/theme/el), [OI](https://inspire.ec.europa.eu/theme/oi), [NZ](https://inspire.ec.europa.eu/theme/nz), etc | 
 ||[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/) | 
+||[Government agency Puertos del Estado](https://www.puertos.es/en-us/nosotrospuertos/Pages/Nosotros.aspx) | 
 | |[National Geographic Institute (IGN)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20IGN)| 
-||Directorate General for Architecture, Housing and Land | 
+||[Trans-European Transport Network (TEN-T) of Spain (HERMES proyect)](https://mapas.fomento.gob.es/VisorTENT/) | 
+||[Directorate General for Architecture, Housing and Land (Urban Information System)](https://www.mivau.gob.es/urbanismo-y-suelo/suelo/sistema-de-informacion-urbana) | 
 ||Spanish National Research Council (CSIC) | 
 | Ministry of Economic Affairs and Digital Transition |Responsible for the following INSPIRE themes: [SU](https://inspire.ec.europa.eu/theme/su), [PD](https://inspire.ec.europa.eu/theme/pd), etc. | 
 | |[National Statistics Institute](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?_cat=Nacional%20-%20INE) | 
