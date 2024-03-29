@@ -80,6 +80,8 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 | |[State Meteorological Agency (AEMET)](https://www.aemet.es/es/datos_abiertos/catalogo)| 
 | |[Hydrographic Confederations](https://www.miteco.gob.es/es/ministerio/funciones-estructura/organismos-publicos/confederaciones-hidrograficas.html)|
 
+SDIs at regional level are regulated by a law or decree that establishes their functions to publish geographic information. For example, in 2022, Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon.  LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON).
+
 | Regional SDI nodes   |    |
 | ------------- | ------------- |
 |[Andalusia](https://www.ideandalucia.es/portal)|SDI of the Andalusian Regional Government. (**IDEAndalucia**) |
@@ -203,9 +205,10 @@ The [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an ini
 
 Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
 
-The products of the National Cartographic System, SDI Catalonia and SDI Navarre are published through the OGC APIs. (see OGC APIs [here](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?facet.q=type%2Fservice%26serviceType%2Fdownload&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20))
+**GeoE3: Geospatially Enabled Ecosystem for Europe**
+[National Cartographic System (SCN)](https://www.scne.es/) of Spain co-operated with Estonia, Netherlands, Norway, Finalnd and [OGC](https://www.ogc.org/) in the project co-financed by the Connecting Europe Facility of the European Union, [GeoE3 project](https://geoe3.eu/), since 2020-02 until 2024, providing a connection between existing and emerging national, regional and cross-border digital services. It provided a dynamic integration of high-value data sets and services (e.g. meteorological or statistical data) with geospatial features from existing national geospatial data platforms (e.g. building data or road network data).
 
-**New law**: Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon and its organisational and instrumental mechanisms, through which coordination and collaboration between the different regional and local public administrations, as well as with the private sector, will be determined with regard to its production, dissemination and access, improving efficiency, transparency, interoperability and speed in its management. LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON) as the computer system made up of a set of resources dedicated to managing geographic information, available on the Internet, which meet the interoperability conditions (standards, specifications, protocols and interfaces) that allow them to be used, combined and related according to different needs.
+The products of the National Cartographic System, SDI Catalonia and SDI Navarre are published through the OGC APIs in GeoJSON format. (see OGC APIs [here](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?facet.q=type%2Fservice%26serviceType%2Fdownload&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20))
 
 The [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
 
