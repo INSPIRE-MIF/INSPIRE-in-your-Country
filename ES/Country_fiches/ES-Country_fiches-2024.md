@@ -182,13 +182,13 @@ The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)**
 
 All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to [Regulation (EC) Nº 1205/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
 
-Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
+Those HVDs are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
-|HVD accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
+|HVDs accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
 | ------------- | ------------- | ------------- |
-| Geospatial  | 29  | 32: 5 of AU, 7 of GN, 7 of AD, 6 of BU, 5 of CP, 2 of GSAA, LPIS |
+| Geospatial  | 29  | 32: 5 of [AU](https://inspire.ec.europa.eu/theme/au), 7 of [GN](https://inspire.ec.europa.eu/theme/gn), 7 of [AD](https://inspire.ec.europa.eu/theme/ad), 6 of [BU](https://inspire.ec.europa.eu/theme/bu), 5 of [CP](https://inspire.ec.europa.eu/theme/cp), 2 of [GSAA](https://inspire.ec.europa.eu/metadata-codelist/IACSData/gsaa:1), [LPIS](https://inspire.ec.europa.eu/metadata-codelist/IACSData/lpis) |
 | Earth Observation and enviroment  | 184  | 253  |
-| Mobility  | 3  | 3 of TN |
+| Mobility  | 3  | 3 of [TN](https://inspire.ec.europa.eu/theme/tn) |
 
 **Spanish HVD's** are published in [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal in 2023:
 
