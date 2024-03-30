@@ -160,17 +160,19 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 - The [National Cartographic System](https://www.scne.es/productos.php) is made up of the following national and regional bodies, see [here.](https://www.scne.es/miembros.html)
 - On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see [here.](https://www.scne.es/miembros.html)
 
-[**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es) is responsible for the implementation of the government's policy on agricultural, livestock and fisheries resources, agri-food industry and food and charged withtasks within the framework of the agricultural and fisheries community policy.
+[**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es) is responsible for the implementation of the government's policy on agricultural, livestock and fisheries resources, agri-food industry and food and charged withtasks within the framework of the agricultural and fisheries community policy. Depending on MAPA there is: 
+- |[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart)
 
 [**Ministry for Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es.html) is  responsible for developing the government policy on fight against climate change, prevention of pollution, protecting the natural heritage, biodiversity, forests, sea, water and energy for a more ecological and productive social model. Depending on MITECO there are: 
 - [Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio) enables geospatial queries of fuel prices at petrol stations and electric recharging points.
   - The Petrol Stations Geoportal is based on the information submitted on the basis of Order ITC/2308/2007, of 25 July, which determines the form of submission of information to the Ministry of Industry, Tourism and Trade on the supply activities of petroleum products, which is the development of Art. 5 of Royal Decree Law 6/2000 of 23 June, on urgent measures to intensify competition in goods and services markets.
-  - The electric recharging points is based on Order TED/445/2023, of 28 April, which regulates the information to be sent by energy recharging service providers to the MITECO, the Autonomous Communities and the Cities of Ceuta and Melilla, which is the development of article 48 of Law 24/2013, of 26 December, on the Electricity Sector. 
+  - The electric recharging points is based on Order TED/445/2023, of 28 April, which regulates the information to be sent by energy recharging service providers to the [MITECO](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html), the Autonomous Communities and the Cities of Ceuta and Melilla, which is the development of article 48 of Law 24/2013, of 26 December, on the Electricity Sector. 
   - Recharging points can only be downloaded directly from the control access [RIPREE](https://sedeaplicaciones.minetur.gob.es/Ripree) website.
 - [Hydrocarbon Technical Archive](https://geoportal.minetur.gob.es/ATHv2/welcome.do): This archive is regulated in article 12 of Law 34/1998, of 7 October, on the hydrocarbons sector and in section 2.3 of article 11 of Royal Decree 2362/1976, of 30 July, approving the Regulations for the application of the Law on hydrocarbon research and exploitation of 27 June 1974, applicable in accordance with the Second Transitional Provision of Law 34/1998, of 7 October. The infrastructure associated with the archive also allows compliance with the provisions of Article 3 of Directive 94/22/EC of the European Parliament and of the Council of 30 May 1994.
 - [Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica): The Mining Register is a permanently updated public archive of all existing mining rights in the national territory, territorial sea and continental shelf, with their corresponding map. The competence over mining rights lies with the Autonomous Communities, which manage the data in their respective mining cadastres.
 - [Integrated Information System of the Spanish Natural Heritage and Biodiversity Inventory (IEPNB)](https://www.miteco.gob.es/en/biodiversidad/temas/inventarios-nacionales/inventario-espanol-patrimonio-natural-biodiv.html)
-- [Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html) 
+- [Nature Database](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza.html)
+- [State Meteorological Agency (AEMET)](https://www.aemet.es/es/datos_abiertos/catalogo)
 
 ##### Progress
 
@@ -236,8 +238,8 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
 
 **INSPIRE priority dataset**
 
-- Identification of priority data through environment ministries: The Ministry of Agriculture, Fisheries and Food (MAPA) and the Ministry for the Ecological Transition and the Demographic Challenge (MITECO).
-- The MAPA and MITECO SDI Geoportal is the central access point to the INSPIRE priority data set provided for environmental reporting.
+- Identification of priority data through environment ministries: The [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and the [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html).
+- The [MAPA](https://www.mapa.gob.es/es/cartografia-y-sig/ide/)and [MITECO](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) SDI Geoportal is the central access point to the INSPIRE priority data set provided for environmental reporting.
 
 **Cadastral Parcels, Addresses and buildings**
 - INSPIRE GML continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law in Spain. These themes are downloaded though ATOM Feed services of [General Directorate for Cadastre](https://www.catastro.meh.es/) , [Govern of Navarre](https://www.navarra.es/eu/hasiera) and [Basque government](https://www.euskadi.eus/gobierno-vasco/inicio/). These services allow the completed download by municipality of the INSPIRE data set
@@ -358,7 +360,7 @@ Statistics of **priority data sets** services:
 | CSW| 282.782|346.393|352.279|
 
 [**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart).
-FEGA is an independent body under the Ministry of Agriculture, Fisheries and Food (MAPA), whose main mission is to ensure that the EAGF (European Agricultural Guarantee Fund) funds and EAFRD (Agricultural Fund for Rural Development) of the Common Agricultural Policy (CAP) assigned to Spain are strictly applied in order to achieve this policy's objective, efficiently reaching the beneficiaries that comply with the requirements established for its concession, within the deadlines indicated in the regulations, promoting a homogeneous application of the CAP subsidies across the entire State, preventing fraud and minimising the risks of financial corrections arising from the incorrect management of these Funds.
+FEGA is an independent body under the [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/), whose main mission is to ensure that the EAGF (European Agricultural Guarantee Fund) funds and EAFRD (Agricultural Fund for Rural Development) of the Common Agricultural Policy (CAP) assigned to Spain are strictly applied in order to achieve this policy's objective, efficiently reaching the beneficiaries that comply with the requirements established for its concession, within the deadlines indicated in the regulations, promoting a homogeneous application of the CAP subsidies across the entire State, preventing fraud and minimising the risks of financial corrections arising from the incorrect management of these Funds.
 
 Statistics of **Agricultural parcels data sets**:
 
@@ -453,12 +455,12 @@ The above figures are a small sample of some of the organisations existing in Sp
 
 [**National Cartographic System (SCN)**](https://www.scne.es/)
 
-- Existence of big projects of collaborative data production and harmonisation under the umbrella of National Cartographic System (SCN), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal) of Spain.
+- Existence of big projects of collaborative data production and harmonisation under the umbrella of [National Cartographic System (SCN)](https://www.scne.es/), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal) of Spain.
  - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery]((https://inspire.ec.europa.eu/theme/oi)): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)]((https://www.fega.gob.es/en)), [General Directorate for Cadastre]((https://www.catastro.meh.es/)), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
 
 **Agreements or conventions co-financed by the autonomous administrations and national organizations**
 
-There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the National Cartographic System (SCN). Another good example is agreements between environmental organisations and departments of MAPA and MITECO. We highlight the following agreements:
+There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the [National Cartographic System (SCN)](https://www.scne.es/). Another good example is agreements between environmental organisations and departments of [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html). We highlight the following agreements:
 
 - Agreement between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of geographic information within the framework of the National Plan for Territory Observation: _[PNOA](https://pnoa.ign.es/)-IMAGEN_ and _National Remote Sensing Plan_. Document [here.](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
 - Protocol between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of [OI](https://inspire.ec.europa.eu/theme/oi), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu) and LiDAR. Information [here.](https://sede.administracionespublicas.gob.es/valida) CSV: GEISER-786a-f6e2-f3d6-4034-87fa-bb07-d502-a9ef
@@ -477,7 +479,7 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 | ------------- | ------------- |------------- | ------------- |------------- |
 | Estimated annual cost per web service.  | 2.670€  |2.670€  |2.670€  |2.670€  |
 | Estimated annual cost of maintaining a [Spanish SDI geoportal](https://www.idee.es). | 50.000€ (new) |25.000€ |25.000€ |25.000€ |
-| Publication of SCNE datasets via OGC APIs | - |- |87.139€ |100.000€ |
+| Publication of [SCN](https://www.scne.es/) datasets via OGC APIs | - |- |87.139€ |100.000€ |
 | [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |
 
 | [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.| 2020|2021|2022|2023|
