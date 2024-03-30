@@ -447,13 +447,18 @@ The above figures are a small sample of some of the organisations existing in Sp
 
 ### Data Sharing Arrangements <a name="data"></a>
 
-There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the National Cartographic System (SCN). Another good example is agreements between environmental organisations and departments of MAPA and MITECO.
-
 [**National Cartographic System (SCN)**](https://www.scne.es/)
 
 - Existence of big projects of collaborative data production and harmonisation under the umbrella of National Cartographic System (SCN), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with IGN Spain.
  - For example: The following national and regional organisations have collaborated in the capture of the orthoimagery: National Geographic Institute, Spanish Agrarian Guarantee Fund (FEGA), General Direction of Cadastre, Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
  - Basque Country: Agreement signed on 17 May 2021, by which the Basque Country joins the National Cartographic System and no specific agreements, but there are several initiatives to share geographic data of different kinds between the administrations of the Autonomous Community of the Basque Country and other public entities.
+
+**Agreements or conventions co-financed by the autonomous administrations and national organizations**
+
+There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the National Cartographic System (SCN). Another good example is agreements between environmental organisations and departments of MAPA and MITECO. We highlight the following agreements:
+
+- Agreement between [FEGA](https://www.fega.gob.es/en) and [IGN](https://www.ign.es/web/ign/portal). Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
+- Agreement with Sociedad Estatal Correos y Telégrafos, SA, S.M.E., for the visualization and reuse of the supplied postal codes contained in the CartoCiudad database of [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig). Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11522)
 
 ### Costs and Benefits <a name="costs"></a>
 
