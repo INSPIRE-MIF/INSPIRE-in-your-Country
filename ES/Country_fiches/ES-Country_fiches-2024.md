@@ -208,12 +208,13 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
 
 [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
 
-**Conferences, meetings**
-
-**Conferences and workshops in 2023**
+**Conferences, meetings and workshops in 2023**
 - [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan "Contributions of spatial data infrastructures to high-value datasets” with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
 - [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
-- Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as API-OGC are disseminated. (the number of attendees by meeting is around 140).
+- Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as OGC APIs or company activities are disseminated (the number of attendees per meeting is around 140).
+  - [May meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual18052023/20230518_GTIDEE-virtual.pdf)
+  - [December meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual12122023/20231212_GTIDEE-virtual.pdf)
+- Meetings of thematic groups such as the Biodiversity Bank or FEGA.
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
