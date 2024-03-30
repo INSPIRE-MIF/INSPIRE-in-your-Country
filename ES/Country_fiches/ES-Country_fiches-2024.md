@@ -206,6 +206,8 @@ Strengthening the work carried out between the Cadastre and the Land Registry. T
 
 The products of the National Cartographic System, SDI Catalonia and SDI Navarre are published through the OGC APIs in GeoJSON format. (see OGC APIs [here](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/search?facet.q=type%2Fservice%26serviceType%2Fdownload&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20))
 
+[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart) participates in **DG AGRI process for IACS data sharing** under INSPIRE
+
 [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
 
 **Conferences, meetings and workshops in 2023**
@@ -458,6 +460,8 @@ There are hundreds agreements or conventions co-financed by the autonomous admin
 
 - Agreement between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of geographic information within the framework of the National Plan for Territory Observation: _[PNOA](https://pnoa.ign.es/)-IMAGEN_ and _National Remote Sensing Plan_. Document [here.](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
 - Protocol between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of [OI](https://inspire.ec.europa.eu/theme/oi), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu) and LiDAR. Information [here.](https://sede.administracionespublicas.gob.es/valida) CSV: GEISER-786a-f6e2-f3d6-4034-87fa-bb07-d502-a9ef
+- Agreement between [D.G. of Cadastre](https://www.catastro.meh.es/) and [FEGA](https://www.fega.gob.es/en) for the exchange of information related to agricultural parcels. Document [here.](https://www.boe.es/boe/dias/2022/11/12/pdfs/BOE-A-2022-18587.pdf)
+- Agreement between [FEGA](https://www.fega.gob.es/en) and [IGN](https://www.ign.es/web/ign/portal) for improving access to historical geographic information.
 - Agreement with Sociedad Estatal Correos y Telégrafos, SA, S.M.E., for the visualization and reuse of the supplied postal codes contained in the [CartoCiudad](https://www.cartociudad.es/web/portal) database of [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig). Document [here.](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11522)
 
 ### Costs and Benefits <a name="costs"></a>
