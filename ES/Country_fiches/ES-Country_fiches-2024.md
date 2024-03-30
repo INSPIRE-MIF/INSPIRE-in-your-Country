@@ -550,3 +550,4 @@ Report is available [here.](https://www.ign.es/resources/cnig/Datos-geoespaciale
 - Identify where official geographic information can be located.
 - Integrate official geographic information with wider public data infrastructures and external data sources.
 - Adopt an open and collaborative methodology to design and improve digital public services.
+- The Spanish SDI complies with the recommendations of the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en/).
