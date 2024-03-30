@@ -161,7 +161,7 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 - On the following web page, you can consult the dates of the agreements of each of the autonomous organisations. see [here.](https://www.scne.es/miembros.html)
 
 [**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es) is responsible for the implementation of the government's policy on agricultural, livestock and fisheries resources, agri-food industry and food and charged withtasks within the framework of the agricultural and fisheries community policy. Depending on MAPA there is: 
-- |[Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart)
+- [Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart)
 
 [**Ministry for Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es.html) is  responsible for developing the government policy on fight against climate change, prevention of pollution, protecting the natural heritage, biodiversity, forests, sea, water and energy for a more ecological and productive social model. Depending on MITECO there are: 
 - [Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio) enables geospatial queries of fuel prices at petrol stations and electric recharging points.
@@ -232,7 +232,7 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
   - [Spanish Registry](https://registro.idee.es/registry) based on [Re3gistry](https://ec.europa.eu/isa2/solutions/re3gistry_en/).
 - Much more OGC services are available but not all are INSPIRE compliant services and SDI Navarre, SDI Catalonia and National Cartographic System services publish their spatial data via OGC APIs
 - The list of key spatial data sets required for other environmental policies is already identified.
-- Big effort on training, seminars, events at regional and local levels; twitter @IDEESpain (2949 followers), electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with an average of 150 articles per year.
+- Big effort on training, seminars, events at regional and local levels; [twitter @IDEESpain](https://twitter.com/ideespain?lang=es) with 3340 followers, electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with an average of 150 articles per year.
   
 - Thematic Working Groups (GTT), was asked to produce Guides about how to make compliant with INSPIRE the identified datasets and the already implemented view and download services. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
 
@@ -542,7 +542,7 @@ Report is available [here.](https://www.ign.es/resources/cnig/Datos-geoespaciale
 
 **Other benefits** are:
 - Encourage the reuitilisation of geospatial datasets through services.
- -Saving costs for administrations, businesses and citizens.
- -Identify where official geographic information can be located.
- -Integrate official geographic information with wider public data infrastructures and external data sources.
- -Adopt an open and collaborative methodology to design and improve digital public services.
+- Saving costs for administrations, businesses and citizens.
+- Identify where official geographic information can be located.
+- Integrate official geographic information with wider public data infrastructures and external data sources.
+- Adopt an open and collaborative methodology to design and improve digital public services.
