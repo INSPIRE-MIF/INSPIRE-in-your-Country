@@ -178,7 +178,9 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 
 The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)** to be made available for re-use according to [Commission Implementing Regulation (EU) 2023/138 of laying down a list of specific high-value datasets and the arrangements for their publication and re-use](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
 
-All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to Regulation (EC) No 1205/2008. Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
+All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to [Regulation (EC) Nº 1205/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
+
+Those HVD are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
 |HVD accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
 | ------------- | ------------- | ------------- |
@@ -451,8 +453,8 @@ The above figures are a small sample of some of the organisations existing in Sp
 
 [**National Cartographic System (SCN)**](https://www.scne.es/)
 
-- Existence of big projects of collaborative data production and harmonisation under the umbrella of National Cartographic System (SCN), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with IGN Spain.
- - For example: The following national and regional organisations have collaborated in the capture of the orthoimagery: National Geographic Institute, Spanish Agrarian Guarantee Fund (FEGA), General Direction of Cadastre, Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
+- Existence of big projects of collaborative data production and harmonisation under the umbrella of National Cartographic System (SCN), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal) of Spain.
+ - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery]((https://inspire.ec.europa.eu/theme/oi)): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)]((https://www.fega.gob.es/en)), [General Direction of Cadastre]((https://www.catastro.meh.es/)), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
 
 **Agreements or conventions co-financed by the autonomous administrations and national organizations**
 
