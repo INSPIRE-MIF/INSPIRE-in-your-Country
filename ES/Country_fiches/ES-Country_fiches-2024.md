@@ -182,7 +182,7 @@ The CODIIGE has carried out a preliminary study of **High-Value Datasets (HVD)**
 
 All datasets (100 %) are available for re-use under the conditions of the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence allowing for unrestricted re-use and their metadata elements set out in the Annex to [Regulation (EC) Nº 1205/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138).
 
-Those HVDs are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
+Those HVDs with **national scope** are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
 |HVDs accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
 | ------------- | ------------- | ------------- |
