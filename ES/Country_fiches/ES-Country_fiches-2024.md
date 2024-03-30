@@ -222,6 +222,11 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
   - [December meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual12122023/20231212_GTIDEE-virtual.pdf)
 - Meetings of thematic groups such as the Biodiversity Bank or FEGA.
 
+Training:
+- [On line courses on Spatial Insfrascture Data](https://cursos.cnig.es/) since 2005 to the general public. One or two courses are given each year.
+- Specific on line courses on OGC services, metadata, open data, etc. for public administration.
+- Translation into Spanish and dissemination of the on line course on OGC API. The course is called [Location Innovation Academy](https://academy.ogc.org/) and has been developed within the [GeoE3](https://geoe3.eu/) project.
+
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
 **Functioning**
@@ -349,20 +354,20 @@ Notes:
 
 [**Ministry for the Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) and [**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/)
 
-Statistics of **priority data sets** services:
+Figures of **priority data sets** and **HVD** services:
 
 | Total number of requests|2021|2022|2023|
 | ------------- | ------------- |------------- | ------------- |
-| WMS| 150.449.599|112.104.591|166.912.796|
-| WMTS| 38.262.839|34.003.746|27.799.441|
-| WFS| 579.592|447.999|52.415|
-| Total| 189.292.030|146.558.358|194.766.675|
-| CSW| 282.782|346.393|352.279|
+| All WMS| 150.449.599|112.104.591|166.912.796|
+| All WMTS| 38.262.839|34.003.746|27.799.441|
+| All WFS| 579.592|447.999|52.415|
+| 1 CSW| 282.782|346.393|352.279|
+| Total| 189.574.812|146.904.751|195.118.954|
 
 [**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart).
 FEGA is an independent body under the [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/), whose main mission is to ensure that the EAGF (European Agricultural Guarantee Fund) funds and EAFRD (Agricultural Fund for Rural Development) of the Common Agricultural Policy (CAP) assigned to Spain are strictly applied in order to achieve this policy's objective, efficiently reaching the beneficiaries that comply with the requirements established for its concession, within the deadlines indicated in the regulations, promoting a homogeneous application of the CAP subsidies across the entire State, preventing fraud and minimising the risks of financial corrections arising from the incorrect management of these Funds.
 
-Statistics of **Agricultural parcels data sets**:
+Figures of **Agricultural parcels data sets**:
 
 | Total number of requests|2023|
 | ------------- | ------------- |
