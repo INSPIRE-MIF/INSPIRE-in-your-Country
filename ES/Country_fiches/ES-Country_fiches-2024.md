@@ -264,7 +264,7 @@ Resources are published through the following **national catalogues**:
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |[Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)|10500|11461|13120|14155|43387|Catalogue connected to each of the national, regional and local SDI node catalogues.|
 |[Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)|457|527|543|566|665|Catalogue prepared for the harvesting of the European Commission on the 15 th of December each year. (Contains the priority datasets)| 
-|[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|XX of out 80.760|Promoting the openig of public and development advanced services based on data.|
+|[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|522 of out 80.760|Promoting the openig of public and development advanced services based on data.|
 |[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) catalogues|84|91|92|75|194|Publish priority dataset| 
 |[Geological and Mining Institute](http://catalogo.igme.es/geonetwork/srv/spa/catalog.search#/home)|-|-|1200|1300|1379|Geological datasets|
 |[Spanish Institute of Oceanography](http://datos.ieo.es/geonetwork/srv/spa/catalog.search#/home)|-|-|-|5300|6350|Ocenography datasets|
