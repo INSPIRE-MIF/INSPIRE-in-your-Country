@@ -209,7 +209,7 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
 [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
 
 **Conferences, meetings and workshops in 2023**
-- [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan "Contributions of spatial data infrastructures to high-value datasets” with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
+- [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan _"Contributions of spatial data infrastructures to high-value datasets”_ with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
 - [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
 - Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as OGC APIs or company activities are disseminated (the number of attendees per meeting is around 140).
   - [May meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual18052023/20230518_GTIDEE-virtual.pdf)
@@ -457,7 +457,7 @@ The above figures are a small sample of some of the organisations existing in Sp
 
 There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the National Cartographic System (SCN). Another good example is agreements between environmental organisations and departments of MAPA and MITECO. We highlight the following agreements:
 
-- Agreement between [FEGA](https://www.fega.gob.es/en) and [IGN](https://www.ign.es/web/ign/portal). Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
+- Agreement between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of geographic information within the framework of the National Plan for Territory Observation: _[PNOA](https://pnoa.ign.es/)-IMAGEN_ and _National Remote Sensing Plan_. Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
 - Agreement with Sociedad Estatal Correos y Telégrafos, SA, S.M.E., for the visualization and reuse of the supplied postal codes contained in the CartoCiudad database of [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig). Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11522)
 
 ### Costs and Benefits <a name="costs"></a>
