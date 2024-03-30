@@ -306,9 +306,9 @@ Statistics on the publication of the spatial data of the National Cartographic S
 
 |Total number of requests|View service type|2019|2020 |2021 |2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |
-| **PNOA(<sup>1</sup>) ([OI](https://inspire.ec.europa.eu/theme/oi))**| WMTS/WMS/TMS|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.503.649|
+| **PNOA<sup>1</sup> ([OI](https://inspire.ec.europa.eu/theme/oi))**| WMTS/WMS/TMS|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.503.649|
 |**Base map ([TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [BU](https://inspire.ec.europa.eu/theme/bu), [AU](https://inspire.ec.europa.eu/theme/au), [GN](https://inspire.ec.europa.eu/theme/gn), [AD](https://inspire.ec.europa.eu/theme/ad), [EL](https://inspire.ec.europa.eu/theme/el), [LU](https://inspire.ec.europa.eu/theme/lu), [LC](https://inspire.ec.europa.eu/theme/lc))**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
-|**SIOSE(<sup>2</sup>)/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
+|**SIOSE<sup>2</sup>/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
 |**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
 
 Notes:
@@ -333,7 +333,7 @@ The most **downloaded** INSPIRE themes in 2023 are:
 |Total number of some requests|Download service type|2022 |2023 |
 | ------------- | ------------- |------------- | ------------- |
 |**[AU](https://inspire.ec.europa.eu/theme/au)**  | WFS/OGC API |2.051.919.054/-|4.521.442.017/-|
-|**SIOSE(<sup>1</sup>)/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WFS/OGC API |569.396/-| 459.461/68.973| 
+|**SIOSE<sup>1</sup>/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WFS/OGC API |569.396/-| 459.461/68.973| 
 |**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WCS/OGC API  |61.354.665/-|119.815.518/1.466|
 |**[HY](https://inspire.ec.europa.eu/theme/hy)**| WCS/OGC API  |597.500/-|675.057/735.900|
 
