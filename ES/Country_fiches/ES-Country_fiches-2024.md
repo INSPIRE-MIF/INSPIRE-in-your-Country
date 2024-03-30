@@ -240,9 +240,9 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
 - The MAPA and MITECO SDI Geoportal is the central access point to the INSPIRE priority data set provided for environmental reporting.
 
 **Cadastral Parcels, Addresses and buildings**
-- INSPIRE GML continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law in Spain. These themes are downloaded though ATOM service of General Directorate for Cadastre, Govern of Navarre and Basque government. These services allow the completed download by municipality of the INSPIRE data set
+- INSPIRE GML continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law in Spain. These themes are downloaded though ATOM Feed services of [General Directorate for Cadastre](https://www.catastro.meh.es/) , [Govern of Navarre](https://www.navarra.es/eu/hasiera) and [Basque government](https://www.euskadi.eus/gobierno-vasco/inicio/). These services allow the completed download by municipality of the INSPIRE data set
 - INSPIRE ATOM feeds of Administrative Units, Cadastral Parcels, Addresses and Buildings are included in Corda from EEA and Gisco(Eurostat) and now also in EuroGeographics Open Maps for Europe.
-- 2D and 3D building cadastral data are available through the OGC API Feature included in the [Geospatially Enabled Ecosystem for Europe (GeoE3)] platform (https://geoe3.eu/).
+- 2D and 3D building cadastral data are available through the OGC API Feature included in the [Geospatially Enabled Ecosystem for Europe (GeoE3)](https://geoe3.eu/) platform.
 
 **High-Value Datasets (HVD)**
 
@@ -368,7 +368,7 @@ Statistics of **Agricultural parcels data sets**:
 |Number of files downloaded| 593.118 files SHP and GPKG |
 |Number of GB downloaded| 2.628,71 GB |
 
-[**General Direction of Cadastre**](https://www.catastro.meh.es/) is responsible for the formation and maintenance of the Real Estate Cadastre as well as the dissemination of cadastral information (Addresses, Buildings, Cadastral parcels data sets).
+[**General Directorate for Cadastre**](https://www.catastro.meh.es/) is responsible for the formation and maintenance of the Real Estate Cadastre as well as the dissemination of cadastral information (Addresses, Buildings, Cadastral parcels data sets).
 
 - INSPIRE GML (through WFS and ATOM services) continuing being used as exchange format of Cadastral Parcels, Addresses and buildings in the real estate traffic in Spain by law and buildings are published in 2D and 3D through the OGC API Feature on [GeoE3 proyect](https://geoe3.eu/). 
 
@@ -454,7 +454,7 @@ The above figures are a small sample of some of the organisations existing in Sp
 [**National Cartographic System (SCN)**](https://www.scne.es/)
 
 - Existence of big projects of collaborative data production and harmonisation under the umbrella of National Cartographic System (SCN), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal) of Spain.
- - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery]((https://inspire.ec.europa.eu/theme/oi)): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)]((https://www.fega.gob.es/en)), [General Direction of Cadastre]((https://www.catastro.meh.es/)), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
+ - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery]((https://inspire.ec.europa.eu/theme/oi)): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)]((https://www.fega.gob.es/en)), [General Directorate for Cadastre]((https://www.catastro.meh.es/)), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
 
 **Agreements or conventions co-financed by the autonomous administrations and national organizations**
 
