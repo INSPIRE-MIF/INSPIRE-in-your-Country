@@ -35,7 +35,7 @@ A high-level view on the governance, use and impact of the INSPIRE Directive in 
 - Telephone Number: +49 69 6333-258
 - National INSPIRE Website: https://www.gdi-de.org/INSPIRE 
 - MIG Contacts: 
-  - Contact Person: Lukas Vollmer
+  - Contact Person: Dr. Michael Lutz
   - Email: TI2-UI@bmuv.bund.de
   - Contact Person: Dr. Eckart Brauer
   - Email: HII5@bmi.bund.de
