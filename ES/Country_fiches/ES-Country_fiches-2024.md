@@ -393,8 +393,8 @@ At the regional level, we highlight the Basque Government, Aragon, Extremadura a
 
 | Total number of requests|2021|2022|2023|
 | ------------- | ------------- |------------- |------------- |
-|7 WMS, 5 WMTS, 1 WCS| 232.676.357|113.245.651|-|
-|16 WMS, 16 WCS (OI)|-|-|-|
+|WMS, WMTS, WCS| 232.676.357|113.245.651|116.248.132|
+|Other services|-|-|56.514.979|
 |Resources [(Catalogue)](https://www.geo.euskadi.eus/webgeo00-catalog/es/)| 232|232|233|
 
 GeoEuskadi coordinates:
@@ -413,14 +413,15 @@ GeoEuskadi coordinates:
 | ------------- | ------------- |------------- |------------- |
 |WMS, WMTS/TMS, WFS, WCS| 53.092.026|39.263.421|38.682.586|
 |GB download| 4.888,13|7.369,84|5.931,1|
-|Nº files GML download| 586|302|1.138|
+|Nº files GML download|586|302|1.138|
 |Resources [(Catalogue)](https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos)| 18 datasets|18 datasets|22 datasets|
 
 - [SDI  Provincial Council of Bizkaia (GeoBizkaia)](https://www.bizkaia.eus/es/inspirebizkaia)
 
-|Total number of requests|2022|2023|
+New SDI geoportal with 7 WMS, 8 WMTS and 3 WFS: www.bizkaia.eus/geobizkaia (5,567 sessions with an average length of 3:47 minutes) 
+
+|Total number of resorces|2022|2023|
 | ------------- | ------------- |------------- |
-|WMS, WMTS, WFS, ATOM|-|-|
 |Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|
 
 [**Aragón Government (ICEARAGON)**](https://idearagon.aragon.es/portal/): Spatial Knowledge Infrastructure of Aragon (ICEARAGON) is a technological solution developed by the Geographic Institute of Aragón (IGEAR). IGEAR is a dependent service of the Directorate General of Territory Planning of the Aragón Government. IGEAR is dedicated to manage the production, obtain and treatment of the territorial documentation, as well as the diffusion of territory planning information. At the beginning ICEARAGON was called IDEAragon.
