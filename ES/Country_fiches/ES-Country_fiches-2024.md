@@ -507,6 +507,7 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 |Services of ARAGEA|- |928.699€|1.132.088€|1.171.800€|
 |IGEAR estimates € per request/service|- |0,33€|0,33€|0,33€|
 
+D.F. Bizkaia: Cost in euros of the technical staff developing the project who are in charge of the publication of the datasets 32.960,10€. 
 
 [**Spain’s recovery and resilience plan**](https://commission.europa.eu/business-economy-euro/economic-recovery/recovery-and-resilience-facility/country-pages/spains-recovery-and-resilience-plan_en)
 Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11.052.000 € for the next 4 years (2021-2024). The contracts cover the following topics.
