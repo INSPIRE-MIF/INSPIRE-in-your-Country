@@ -82,7 +82,9 @@ In addition, cooperation was intensified by the above mentioned meetings with re
 
 The integration into „Maintenance and Implementation Framework“ has established a closer cooperation with other Member States.
 
-The cooperation between different administrations has been improved through the creation of a web-based collaboration platform (GDI-DE Wiki).
+The cooperation between different administrations has been improved through the creation of a web-based collaboration platform ([GDI-DE Wiki](https://wiki.gdi-de.org/)).
+
+In the context of developing guidance for the implementation of the Implementing Act on High-value Datasets, the Coordination Office and Working Groups have actively contributed to the [FAQ pages for data providers](https://www.govdata.de/web/guest/hochwertige-datensaetze) on the GovData portal.
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
@@ -105,7 +107,7 @@ Both public administrations and the private sector are still not widely using th
 The documentation of spatial data sets and services through metadata has however made people more aware of the spatial data available in public administration and has thus improved data sharing and use through conventional methods or OGC services. It has also led to an increase in data being made available in digital form.
 
 In the light of recital 6 and 27 of the INSPIRE Directive and to improve domain-specific access and transparency on INSPIRE data sets, the responsible administrations in some thematic domains have agreed on providing national data on a national level, e.g.
-- in the water domain, the Federal Institute for Hydrography (BfG) provides data for the Flood Directive, Water Framework Directive, Bathing Water Directive and Marine Strategy Framework Directive (http://geoportal.bafg.de/INSPIRETabelle/)
+- in the water domain, the Federal Institute for Hydrography (BfG) provides data for the Flood Directive, Water Framework Directive, Bathing Water Directive and Marine Strategy Framework Directive ([overview INSPIRE services](http://geoportal.bafg.de/INSPIRETabelle/))
 - in the geology domain, the Federal Institute for Geosciences and Natural Ressources (BGR) and the state geological surveys have agreed that the INSPIRE harmonisation of the German borehole data will be carried out by BGR for 14 of the 16 German states
 - in the air quality domain, the Federal Environmental Agency (UBA) was mandated by the federal states to provide data asked for in the Air Quality Directive and
 - in the soil domain, the Federal Environmental Agency (UBA) was mandated by the federal states to provide data of the permant soil observation.
