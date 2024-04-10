@@ -116,7 +116,7 @@ SDIs at regional level are regulated by a law or decree that establishes their f
 - Contact Email: emilio.lopez@cnig.es
 - Telephone Number: 034915979646
 - Telefax Number: 034915979764
-- National INSPIRE Website: **Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)** https://www.idee.es/
+- National INSPIRE Website: [**Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)**[(https://www.idee.es/)
 - MIG Contacts: 
   - Contact Person: Emilio López Romero
   - Email: Emilio.lopez@cnig.es
@@ -296,7 +296,7 @@ Resources are published through the following **regional catalogues**:
 
 Note: _[On this website](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/catalogue) you can consult all the catalogues of the other Spanish SDI nodes._
 
-**Some figures on the use of netwrok services:**
+**Some figures on the use of network services:**
 
 INSPIRE services are increasingly used and included in the production processes of organisations and private companies. The following figures show that the number of requests for services has been consistently higher than in the previous year.
 
@@ -461,17 +461,17 @@ The above figures are a small sample of some of the organisations existing in Sp
 [**National Cartographic System (SCN)**](https://www.scne.es/)
 
 - Existence of big projects of collaborative data production and harmonisation under the umbrella of [National Cartographic System (SCN)](https://www.scne.es/), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal) of Spain.
- - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery]((https://inspire.ec.europa.eu/theme/oi)): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)]((https://www.fega.gob.es/en)), [General Directorate for Cadastre]((https://www.catastro.meh.es/)), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
+ - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery](https://inspire.ec.europa.eu/theme/oi): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en), [General Directorate for Cadastre](https://www.catastro.meh.es/), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
 
 **Agreements or conventions co-financed by the autonomous administrations and national organizations**
 
 There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the [National Cartographic System (SCN)](https://www.scne.es/). Another good example is agreements between environmental organisations and departments of [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html). We highlight the following agreements:
 
-- Agreement between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of geographic information within the framework of the National Plan for Territory Observation: _[PNOA](https://pnoa.ign.es/)-IMAGEN_ and _National Remote Sensing Plan_. Document [here.](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
+- Agreement between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of geographic information within the framework of the National Plan for Territory Observation: _[PNOA](https://pnoa.ign.es/)-IMAGEN_ and _National Remote Sensing Plan_. Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
 - Protocol between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of [OI](https://inspire.ec.europa.eu/theme/oi), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu) and LiDAR. Information [here.](https://sede.administracionespublicas.gob.es/valida) CSV: GEISER-786a-f6e2-f3d6-4034-87fa-bb07-d502-a9ef
 - Agreement between [D.G. of Cadastre](https://www.catastro.meh.es/) and [FEGA](https://www.fega.gob.es/en) for the exchange of information related to agricultural parcels. Document [here.](https://www.boe.es/boe/dias/2022/11/12/pdfs/BOE-A-2022-18587.pdf)
 - Agreement between [FEGA](https://www.fega.gob.es/en) and [IGN](https://www.ign.es/web/ign/portal) for improving access to historical geographic information.
-- Agreement with Sociedad Estatal Correos y Telégrafos, SA, S.M.E., for the visualization and reuse of the supplied postal codes contained in the [CartoCiudad](https://www.cartociudad.es/web/portal) database of [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig). Document [here.](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11522)
+- Agreement with Sociedad Estatal Correos y Telégrafos, SA, S.M.E., for the visualization and reuse of the supplied postal codes contained in the [CartoCiudad](https://www.cartociudad.es/web/portal) database of [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig). Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11522).
 
 ### Costs and Benefits <a name="costs"></a>
 
