@@ -443,6 +443,13 @@ The SDI of Aragon is working to include the knowledge graph in the geographic in
 |WMS|136.903.721|175.640.326|147.581.203|
 |WFS (GB download)|12.014,57|14.886,15|13.376,17|
 
+[**Territorial Information System and Spatial Data Infrastructure of Asturias (SITPA--IDEAS)**](https://ideas.asturias.es)
+
+|Total number of requests|2021|2022|2023|
+| ------------- | ------------- |------------- |------------- |
+|WMTS|1.273.510|1.531.647|1.965.065|
+|WMS|3.808.501|7.460.261|8.303.497|
+
 [**SDI La Rioja (IDERioja)**](https://www4.iderioja.larioja.org/index.php?id=28&lang=es)
 
 |Total number of requests|2023|
@@ -536,6 +543,20 @@ The actual turnover that IGEAR would have achieved if it charged for its network
 And the total volume of costs saved for the company:
 - ICEARAGON service according to EU average + ARAGEA = 1.992.665,60 euros/year.
 - ICEARAGON service according to SPAIN + ARAGEA average = 1,844,959.30 euros/year.
+
+[**Territorial Information System and Spatial Data Infrastructure of Asturias (SITPA--IDEAS)**](https://ideas.asturias.es)
+
+|Benefit/Value|2021|2022|2023|
+| ------------- | ------------- |------------- |------------- |
+|**Parameter 1 (tiles/WMS) - to be entered**|36|36|36|
+|Number of requests per year, WMS, weighted|1.273.510|1.531.647|1.965.065|
+|Total number of requests per year, WMTS+WMS, weighted|3.808.501|7.460.261|8.303.497|
+|**Parameter 2 (tiles/user session) - to be entered**|200|200|200|
+|Number of user sessions per year|691.898|1.350.505|1.504.455|
+|Number of user sessions per month|57.658|112.542|125.371|
+|Parameter 3 (price/1000 sessions/month) - to be entered|7|7|7|
+|Value per month|404|788|878|
+|Value per year|4.843|9.454|10.531|
 
 **The Data Economy in the Infomediary field**
 [ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. 
