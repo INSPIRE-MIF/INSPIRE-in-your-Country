@@ -65,7 +65,7 @@ This normative act establishes the legal framework for the establishment of the 
 
 The Presidency and Secretariat of the INIS Council are provided by the National Agency for Cadastre and Land Registration (ANCPI), while the Vice-President is provided by the Ministry of Environment, Water and Forests. As shown above, the INIS Council is assisted in its work by 4 expert groups.
 
-![Coordination structure](RO/Country_fiches/INIS_structure.png)
+![Coordination structure](images/INIS_structure.png)
 
 
 ##### Progress
