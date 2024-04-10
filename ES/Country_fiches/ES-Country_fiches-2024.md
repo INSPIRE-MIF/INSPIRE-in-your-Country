@@ -89,7 +89,7 @@ SDIs at regional level are regulated by a law or decree that establishes their f
 |[Andalusia](https://www.ideandalucia.es/portal)|SDI of the Andalusian Regional Government. (**IDEAndalucia**) |
 |[Aragon](https://idearagon.aragon.es/portal)|Spatial Knowledge Infrastructure of Aragon. (**ICEARAGON**) |
 |[Balearic Islands](https://www.caib.es/sites/ideib/es/inicio/?campa=yes)|SDI of the Balearic Islands Government. (**IDEIB**)|
-|[Basque Country](https://www.geo.euskadi.eus/inicio/)|SDI Basque Country. (**Geoesukadi**)|
+|[Basque Country](https://www.geo.euskadi.eus/inicio/)|SDI Basque Country. (**geoEuskadi**)|
 | - Provincial Council of Gipuzkoa|SDI Gipuzkoa. [(**SDI Gipuzkoa**)](https://b5m.gipuzkoa.eus/web5000/es)|
 | - Provincial Council of Araba|SDI Araba. [(**GeoAraba**)](https://geo.araba.eus/es/)|
 | - Provincial Council of Bizkaia|SDI Bizkaia. [(**GeoBizkaia**)](https://www.bizkaia.eus/es/web/geobizkaia)|
@@ -387,7 +387,7 @@ Figures of **Addresses, Buildings, Cadastral parcels data sets**:
 |WFS| 6.927.886 |
 |Gazeteer (addresses)| 336.086.612 |
 
-At the regional level, we highlight the Basque Government, Aragon, Extremadura and La Rioja.
+At the regional level, we highlight the Basque Government, Aragon, Extremadura, Asturias and La Rioja.
 
 [**SDI Basque Country (geoEuskadi)**](www.geo.euskadi.eus) It facilitates the publication of geographic data and services to the bodies and entities of the public sector of Basque Country, as well as allowing easy and efficient access to this information and other information published by other SDI nodes at State, Foral and local level. 
 
@@ -554,7 +554,7 @@ And the total volume of costs saved for the company:
 |**Parameter 2 (tiles/user session) - to be entered**|200|200|200|
 |Number of user sessions per year|691.898|1.350.505|1.504.455|
 |Number of user sessions per month|57.658|112.542|125.371|
-|Parameter 3 (price/1000 sessions/month) - to be entered|7|7|7|
+|**Parameter 3 (price/1000 sessions/month) - to be entered**|7|7|7|
 |Value per month|404|788|878|
 |Value per year|4.843|9.454|10.531|
 
