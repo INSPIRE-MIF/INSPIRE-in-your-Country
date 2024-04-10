@@ -100,7 +100,7 @@ Figure 1. Progress in conformity of metadata between 2019 and 2023.
 * Broad access to spatial information is provided to the users by many different map services, web applications serving specific use cases including municipal maps, routing and planning services, nationwide routing services, geography education, public points of interest, cultural heritage, agricultural applications and environmental applications. Examples are:
 ** the national geoportal [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/)
 *** [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/) provides a map interface, where the user can access and use over 3000 map layers in a comprehensive way offered by about 70 national data provides. The geoportal is developed as open-source code on the basis of the established geographic reference architecture and is available for reuse supporting a wide range of user interfaces and map publication. The geoportal is used daily by 3000-6000 different users.
-** the national National Discovery Service: [Paikkatietohakemisto](https://www.paikkatietohakemisto.fi/geonetwork/srv/eng/catalog.search#/home)
+** the National Discovery Service: [Paikkatietohakemisto](https://www.paikkatietohakemisto.fi/geonetwork/srv/eng/catalog.search#/home)
 *** There are 1800 published metadata in the National Discovery Service by 300 different users. About 850 of them describe INSPIRE datasets and services. 
 ** the national INSPIRE registry: [INSPIRE-rekisteripalvelu](https://www.luettelopalvelu.fi/registry)
 ** the national codelist: [Luettelopalvelu](https://www.luettelopalvelu.fi/codelist)
@@ -124,30 +124,30 @@ For fee-charged data, the tariff developed by each authority apply.
 
 ### Costs and Benefits <a name="costs"></a>
 
-* Costs
+#### Costs
 
-  The costs regarding the implementation of the INSPIRE Directive vary between actors and are difficult to estimate. According to surveys conducted in 2016 and 2019, the key causes of costs can be summed up as: 
-    * establishment and maintenance of network services, procurement of software, preparation of metadata, information harmonisation (estimated costs between 2013-2015: EUR 4.4 million) 
-    * coordination, support, training, monitoring and development of centralized systems (estimated costs between 2013-2015: EUR 3.4 million).  
+The costs regarding the implementation of the INSPIRE Directive vary between actors and are difficult to estimate. According to surveys conducted in 2016 and 2019, the key causes of costs can be summed up as: 
+ * establishment and maintenance of network services, procurement of software, preparation of metadata, information harmonisation (estimated costs between 2013-2015: EUR 4.4 million) 
+ * coordination, support, training, monitoring and development of centralized systems (estimated costs between 2013-2015: EUR 3.4 million).  
 
-* Benefits
+#### Benefits
 
-  According to a [survey](https://www.maanmittauslaitos.fi/sites/maanmittauslaitos.fi/files/attachments/2021/03/Implementation_of_INSPIRE_in_Finland_evaluation_report.pdf) conducted in 2020, the key benefits can be summed up as:
-** INSPIRE showed the purpose and benefits of standard APIs
-*** Open APIs from as-is spatial datasets 
-** Spatial datasets have been described and can be easily found
-*** Increased understanding of existing data sources 
-** Finnish geoportal [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/) with 3000 map layers from 70 data providers visualises concretely the benefits of interoperability of spatial data.
-*** Easier access to data 
-*** Increased (re)use of data 
-*** Increased discoverability and availability of data  
-*** Increased quality of data 
-*** Better conditions have been created for decision-making
-** [Oskari](https://oskari.org/) software which is an open-source platform originally developed for Paikkatietoikkuna. Oskari is used in several organisations in Finland and worldwide.
-** Implementation of INSPIRE has advanced the opening of spatial data and created technical means to use open data.
-*** More services for citizens are being developed 
-** Development of networks
-*** Increased cooperation between actors
+According to a [survey](https://www.maanmittauslaitos.fi/sites/maanmittauslaitos.fi/files/attachments/2021/03/Implementation_of_INSPIRE_in_Finland_evaluation_report.pdf) conducted in 2020, the key benefits can be summed up as:
+ * INSPIRE showed the purpose and benefits of standard APIs
+   * Open APIs from as-is spatial datasets 
+ * Spatial datasets have been described and can be easily found
+   * Increased understanding of existing data sources 
+ * Finnish geoportal [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/) with 3000 map layers from 70 data providers visualises concretely the benefits of interoperability of spatial data.
+   * Easier access to data 
+   * Increased (re)use of data 
+   * Increased discoverability and availability of data  
+   * Increased quality of data 
+   * Better conditions have been created for decision-making
+ * [Oskari](https://oskari.org/) software which is an open-source platform originally developed for Paikkatietoikkuna. Oskari is used in several organisations in Finland and worldwide.
+ * Implementation of INSPIRE has advanced the opening of spatial data and created technical means to use open data.
+   * More services for citizens are being developed 
+ * Development of networks
+   * Increased cooperation between actors
 
 ## Key facts and figures
 
