@@ -133,16 +133,75 @@ Considering SNIG entities participation in JIIDE 2023:
     - Instituto do Financiamento da Agricultura e Pescas (IFAP) presented a communication on IFAP data from diferent perspectives “A informação geográfica do IFAP. As diversas abordagens. Directiva INSPIRE, Partilha de dados, dados de elevado valor, regulamentos do PEPAC: a perspectiva conciliadora”, J. Falcão (IFAP)).
 
 - The organization of courses on SNIG started during 2023 and will proceed in 2024 (https://www.dgterritorio.gov.pt/Curso-pratico-line-sobre-o-SNIG), a capacity building initiative that aims to increase the use of SNIG capabilities.
-- The organization of courses on SMOS - Sistema de Monitorização da Ocupação do Solo occurred during 2023 (https://smos.dgterritorio.gov.pt/index.php/cursos-e-seminarios) and involved several users of the Portuguese SDI, more interested on the data related to Land use/Land cover.   
+- The organization of courses on SMOS - Sistema de Monitorização da Ocupação do Solo occurred during 2023 (https://smos.dgterritorio.gov.pt/index.php/cursos-e-seminarios) and involved several users of the Portuguese SDI, more interested on the data related to Land use/Land cover.
+
+ Technical constraints:
+SDI development and INSPIRE implementation in Portugal in 2023 continued to evidence some of the technical constraints mentioned in previous years. Awareness and capacity building initiatives contribute to improve some of the issues considering the lack of qualified human resources in the public entities to cope with all the technical requirements involved in SDI & INSPIRE implementation (metadata creation, spatial data services development, data harmonization). INSPIRE data harmonization and the use of INSPIRE data for e-reporting are other examples where technical constraints are more visible. More recently the issues involved in the publication of HVD according to the Open Data Directive requirements can be added to this list.
+
+Planned actions include:
+- Define and implement INSPIRE-PT 2024 Action Plan;
+- Continue to improve SNIG geoportal, considering technological evolution and user’s feedback obtained from the collaborative approach to support the definition of SNIG evolution strategy that will be performed in 2024;
+- Proceed with the implementation of SNIG Guidelines for its future evolution, defined in 2022, which include the revision of the National Register for Geographic Data (RNDG) records, to evaluate data and thematic gaps or unsuitable data based in the identification of the most relevant data for national and international Public Policies and other relevant issues; The organization and promotion of capacity building and awareness activities around SNIG, reaching as much users as possible; The operational articulation of SNIG with dados.gov, namely regarding the activities related with geographical HVD;  The identification of the most relevant spatial data for public policies and the consideration of other criteria to improve SNIG’s catalogue search results presentation; 
+- Support the application of the HVD publication and reuse requirements which are focused on the development of API, and the application of Creative Commons licencing approaches.
+- Interoperability with the INSPIRE Geoportal must be guaranteed so efforts must continue to be devoted to interoperable spatial data services availability;
+- Continue to follow-up MIWP actions and disseminate relevant issues through Portuguese networks and working groups;
+- Participate in the organization of JIIDE 2024, XV Jornadas Ibéricas de Infraestruturas de Dados Espaciais (JIIDE), in cooperation with the Spanish SDI team;
+- Organize ENIIG 2024, the national event for NSDI users;
+- PRR activities will continue during 2024 focused on application development, spatial data acquisition and spatial data access and dissemination.
+
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
-< insert text >
+- The national SDI data producers/users continued to collaborate in the NSDI development resulting on an increased number of metadata on officially approved cartography and territorial management instruments (IGT).  
+- SNIG geoportal interface facilitates the search and access to spatial data in Portugal and SNIG site is used to provide different types of information to SNIG users and GI community (e.g. documents, technical sessions, background information….). Efforts continued to be developed during 2023 to update that information and to identify improvements in the RNDG in terms of the quality of the metadata contents through revision and identification of errors and inconsistencies. 
+- SNIG entities, will be involved in the co-creation process of identifying actions for the future development of SNIG, namely the ones that rely on the user needs. The identification of changes to the geoportal are going to be one of the results of this approach.
+- Spatial data services continue to be developed promoting the access to more spatial data usable for different applications. The National Program for Spatial Planning Policy (PNPOT) development and monitoring activities and SMOS are examples of those uses. 
+- ENIIG 2023, focused on the topic “"Contributions of Spatial Data Infrastructures to High-Value Datasets” counted with 7 speakers and registered a high number of participants (120), which reflects the interest of users in this specific issue which can increase the availability of spatial data through the NSDI and the creation of new applications exploring the data, one of the goals of the Open Data Directive and its implementing act on High-Value Datasets.
+- Capacity building initiatives on SNIG aiming to increase the use of SNIG capabilities and expand SNIG number of users were promoted, namely the organization and delivery of Courses on SNIG for public administration users  that started during 2023 and will proceed in 2024. (https://www.dgterritorio.gov.pt/Curso-pratico-line-sobre-o-SNIG). In 2023 the courses already involved 500 users from different areas and levels.
+- SMOS involves several producers/users of the Portuguese SDI, more interested on the exploration of data related to Land use/Land cover (https://smos.dgterritorio.gov.pt/). SMOS modules promote the involvement of these users, namely through COScid and COSvgi, accessing, interacting and exploring data that comes from SNIG. During 2023 several courses on SMOS - Sistema de Monitorização da Ocupação do Solo were organized (https://smos.dgterritorio.gov.pt/index.php/cursos-e-seminarios) which involved several users of the Portuguese SDI, more interested on the data related to Land use/Land cover.   
+
+Planned actions include:  
+- Continue to promote SNIG within different audiences following the results achieved within the activity “Evolution Strategy for SNIG” approved in 2022 (e.g. academy, primary and secondary school’s communities; journalists) and the co-creation process that will take place in 2024. 
+- Continue to promote the use of the national SDI by specific users and projects, namely to support public policies and environmental directives application. 
+- Promote other specific free of charge capacity building sessions on SNIG to promote the use of the National SDI, besides the ones performed in 2023 for some sectors of the public administration and proceed with the organization of the national event on SDI (ENiiG);
+- Promote the collaboration between public entities around the use of SNIG and its data, through specific activities of common interest;
+- Região Autónoma dos Açores (RAA) aims to invest on INSPIRE Directive Training during 2024 to promote the usage of the SDI.
+- Support/promote the use of INSPIRE spatial data sets for other uses and communities (e.g. Education, Media, …);
+- Continue to promote the exploration of LiDAR data planned to be obtained in 2023 and 2024;
+- Users' needs are a central concern for SMOS: continue to organize free of charge courses and seminars to present the system to potential users, presenting SMOS products, viewers, visualization and download services, examples of system applications and other topics related to land use/land cover.
+- Cross-border cooperation which also expands the user community continued to be promoted, such as JIIDE and other initiatives, namely the bi-lateral meetings on cartography production (e.g. land cover/land use cartography, LiDAR data) occurred in the context of the Action 2019-2-31: Fostering cooperation between Spain and Portugal in the Copernicus land domain;
+
 
 ### Data Sharing Arrangements <a name="data"></a>
 
-< insert text >
+- Data policy good practices continued to be disseminated in 2023 aiming to promote its clear definition in SNIG catalogue, by public data producers.
+- The promotion of the open data approach proceeded during 2023, as well as the delivery of data through spatial data services. The promotion of the open availability of datasets free of charge was performed every time it was possible. The application of the Open Data Directive and HVD is contributing to this goal. Licensing models, namely the ones defined in the HVD implementing act are being discussed. ENiiG 2023 included a presentation on the Creative Common licenses relevant for sharing the HVD.
+- DGT open data such as COSc, MIAEV (Mapas Intra-Anuais do Estado da Vegetação) and the Mosaicos de imagens increases the demand on these data.  
+- Continued the promotion of data sharing arrangements with the local public administration for the implementation of the National Cartographic Database which will integrate all core spatial data produced at scales 1:10 000 and higher in Portugal. This database, defined in DL 130/2019, is part of a strategy for the development of a national infrastructure to assemble all core spatial information (e.g. hydrography, altimetry, transports, orthophotos) produced in Portugal in one single spot. Besides the partnership with all national entities which produce core spatial data, mainly the local public administration, that guaranties a shared governance of this infrastructure, the projects SMOS and Território Digital continued to provide valuable human and material resources to support the required developments.
+
+Planned actions include:
+- Continue to promote the open access to GI data free of charge and the adoption of a licencing model for SNIG, despite the effort already in place in the context of the HVD;
+- Proceed with the development of the National Cartographic Database which integrates all core spatial data produced at scales 1:10 000 and higher in Portugal;
+- Promote the establishment of protocols with academia which include also data sharing;
+- Continue the efforts for data sharing at the local level.
 
 ### Costs and Benefits <a name="costs"></a>
 
-< insert text >
+- No significant evolution occurred on cost/benefit analysis, to obtain comparable and coherent values from different public entities.
+The previously referred issues remain actual in terms of the costs:
+    - Set-up and implementation costs, as well costs for compliancy assessment of each component - metadata production, data interoperability, services, coordination and horizontal measures - continue to be difficult to evaluate due to its heterogeneity.
+    - Maintenance costs are more homogeneous but there is still no specific data on this.
+Some entities such as RAA, refer new costs related for example with improvements and correcting changes to the Azorean Metadata Manager (GeMA) tool, in order to correct bugs detected in the INSPIRE Validator.
+Although it is not possible to present quantitative benefits, INSPIRE continues to have an important role on the increased availability of spatial data and on the development/use of open data policies which are being promoted at CO-SNIG and through the INSPIRE Core Focal Points Network, strengthened now by the Open data directive and its legal act on the HVD.
+Issues on benefits keep including: 
+  - Benefits on accessing/sharing duly documented data, between public administrations at all levels and across sectors, and also with 
+  - Universities, Private sector & Citizens should be a viable task;
+  - Spatial data continues to became available free of charge. Besides the data provided by DGT and other entities (e.g. three Sentinel-2 satellite images mosaics referring to Mainland Portugal with 10 m resolution (DGT); COSc and MIAEV, produced within the SMOS project), 
+  - PRR is having an important role in increasing the financing resources to support SDI development for application development, spatial data acquisition and spatial data access and dissemination (e.g. LiDAR coverage, Reference cartography coverage, very high resolution satellite images coverage)
+
+Planned actions include:
+- Maintain the effort to promote capacity building mainly for the local public administration, thus contributing to better be able to assess data production and availability and its costs and benefits;
+- Consider the results of SNIG evaluation process using co-creation approaches that will take place in 2024 as well as INSPIRE evaluation results to promote the performance of SNIG assessments considering INSPIRE and non-INSPIRE issues involving also the cost/benefit evaluation;
+- Follow the development of the INSPIRE MIG good-practices document for the open data/HVD alignment, regarding the technical implementing aspects as well as the other evaluations related to the increased access to the HVD.
+- Continue to use Portuguese Recovery and Resilience Plan (PRR) financial support for application development, spatial data acquisition and spatial data access and dissemination.
+
