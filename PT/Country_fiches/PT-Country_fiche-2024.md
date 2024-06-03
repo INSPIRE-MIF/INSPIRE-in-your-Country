@@ -97,7 +97,43 @@ Xout 150l.  the model CartTop. was organized with the collaboration of theAbout 
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
-< insert text >
+- The Plano de Ação INSPIRE.PT 2023 (action plan for INSPIRE in Portugal), maintained the same priority areas: (1) Make available, through visualization and download services, all reported SDS (starting by the PDS); (2) Ensure interoperability of the viewing and the download services; (3) Harmonize SDS (according to the capacity of each entity).
+- During 2023 the INSPIRE Core Focal Points Network (INSPIRE CFPN) entities have been working on the same activities, namely: 
+  - Proceeding with metadata revision to improve search and access to the GI through the geoportal and to complete metadata with missing information (e.g. data policy).  
+  - Increasing the spatial data services for the reported metadata.
+  - Validating the spatial datasets and services using the INSPIRE Reference Validator.
+- Some evolution occurred at the regional SDI level, namely:
+  - IRIG RAM - ROTe continued to enhance the regional geographical data registry established by Regional Decree No. 8/2023/M. These enhancements include both increased availability of datasets and improvements in their quality. Under the scope of SNIG, DROTe has identified high-value datasets previously classified as ‘regional interest themes.’ The aim is to integrate this geospatial data from the Madeira autonomous region into the national open data portal.
+  - RAA - Autonomous Region of the Azores (RAA) launched a new Spatial Data Infrastructure and a new online portal (available at https://idea.ambiente.azores.gov.pt/), through which entities can:
+    1. access to the Azorean Metadata Catalogue (available at https://sma.idea.azores.gov.pt/geonetwork/) which is called “Sistema de Metadados dos Açores (SMA)”;
+    2. download the Azorean Metadata Manager (available at https://idea.ambiente.azores.gov.pt/metadados/) which is called “Gestor de Metadados dos Açores (GeMA)”. This application allows entities to create, edit and submit automatically to “Sistema de Metadados dos Açores (SMA)” their metadata in accordance with INSPIRE Directive specifications;
+    3. share their geographic information through online viewers (available at https://visualizador-idea.ambiente.azores.gov.pt/). At his moment, the creation of online viewers is restricted to the entities of the Regional Government of the Azores.
+ 
+- Hydrographic Institute (IH) has implemented the OGC API Features (https://api-features.hidrografico.pt).
+- IH and the Portuguese Sea and Atmosphere Institute (IPMA) are working together to develop the Portuguese National Oceanographic Data Center (NODC-PT) for the program “International Oceanographic Data and Information Exchange" (IODE) of the "Intergovernmental Oceanographic Commission" (IOC) of UNESCO. NODC-PT catalog will be hosted at https://data.nodc-portugal.pt.
+- SNIG entities, through CO-SNIG, were involved in selecting their HVD from SNIG data and beyond, contributing to the process each Member State has to perform in order to comply with the Open Data Directive and its implementing act on HVD. 
+- DGT and some other SNIG entities collaborated with AMA in a study focused on the open data and HVD impact evaluation.
+- INSPIRE monitoring process in 2023 – The process automatically based on the information obtained from the SNIG INSPIRECORE metadata, occurred in December 21, 2023. The INSPIRE monitoring results are available at the INSPIRE Geoportal here: https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023.html  
+- The previously defined implementation of a collaborative activity for the involvement of the different users on the definition of SNIG evolution strategy/needs using co-creation processes was postponed to 2024. 
+- The organization of JIIDE 2023 (https://www.jiide.org/pt/inicio), the XIV edition of this event, was performed and occurred from 6 to 8 November 2023 in Évora. Promoted by DGT from Portugal with the collaboration of CNIG from Spain, the event was focused on the topic "Contributions of Spatial Data Infrastructures to High-Value Datasets”. This topic was chosen, aiming to contribute to support the implementation of the Open Data Directive and its implementing act on High-Value Datasets. Around 20 presentations from Portugal were performed.
+Considering SNIG entities participation in JIIDE 2023: 
+  - DGT presented 6 communications: 
+    - “Conjuntos de dados de elevado valor no domínio da IG em Portugal: O papel do SNIG” A. Fonseca, DGT; 
+    - “A articulação entre o SNIG e o dados.gov para os dados abertos”, D. Furtado (DGT), A. Soares (AMA);
+    - “Informação LiDAR para Portugal Continental”, P. Patrício, DGT; Especificações e normas técnicas para cartografia topográfica / 
+    - Evolução do modelo CartTop, A. Seara (DGT); 
+    - “Visualização da cartografia baseada no modelo CartTop. Ferramentas de visualização e conversão dos dados.”, A. Serronha (DGT); 
+    - “Validação da cartografia baseada no modelo CartTop. Ferramentas de controlo de qualidade”, H. Silva (DGT); 
+    - “Evolução do Sistema de Monitorização da Ocupação do Solo (SMOS) da Direção-Geral do Território: Um sistema em constante evolução”, Pedro Benevides (DGT)).
+  - Other Portuguese entities presented their work: 
+    - Agência Portuguesa do Ambiente (APA) presented a communication on remote sensing and machine learning techniques for water bodies delimitation “Deteção e Delimitação de Corpos de Água em Imagens de Satélite de Alta Resolução com Aprendizagem Profunda: Um Estudo Preliminar com o Detectron2: Identificação e Delimitação Corpos de Água por Técnicas de Visão Computacional e de Machine Learning”, S. Fernandes; I. Patriarca; A. Fialho (APA)). 
+    - Instituto Hidrográfico (IH) participated with a communication on marine data and the blue economy “Infraestruturas de dados marinhos como catalisadores da economia azul”, P. Nunes (IH)) and another on the ocean data “Um oceano aberto e transparente”, Telmo Dias (IH)); 
+    - Comissão de Coordenação e Desenvolvimento Regional do Norte (CCDR-NORTE) communication was focused on participatory planning “Um PROT-NORTE participado e Aberto. Registo de Dados Geográficos de suporte ao PROT-NORTE”, R. Pinho, CCDR-NORTE); 
+    - Laboratório Nacional de Energia e Geologia (LNEG) presented a communication on LNEG Geoportal and open Data “Dados abertos no GeoPortal da Energia e Geologia / Enquadramento, tipologia e gestão”, A. Pereira (LNEG));
+    - Instituto do Financiamento da Agricultura e Pescas (IFAP) presented a communication on IFAP data from diferent perspectives “A informação geográfica do IFAP. As diversas abordagens. Directiva INSPIRE, Partilha de dados, dados de elevado valor, regulamentos do PEPAC: a perspectiva conciliadora”, J. Falcão (IFAP)).
+
+- The organization of courses on SNIG started during 2023 and will proceed in 2024 (https://www.dgterritorio.gov.pt/Curso-pratico-line-sobre-o-SNIG), a capacity building initiative that aims to increase the use of SNIG capabilities.
+- The organization of courses on SMOS - Sistema de Monitorização da Ocupação do Solo occurred during 2023 (https://smos.dgterritorio.gov.pt/index.php/cursos-e-seminarios) and involved several users of the Portuguese SDI, more interested on the data related to Land use/Land cover.   
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
