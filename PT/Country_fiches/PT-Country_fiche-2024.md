@@ -105,10 +105,9 @@ Xout 150l.  the model CartTop. was organized with the collaboration of theAbout 
 - Some evolution occurred at the regional SDI level, namely:
   - IRIG RAM - ROTe continued to enhance the regional geographical data registry established by Regional Decree No. 8/2023/M. These enhancements include both increased availability of datasets and improvements in their quality. Under the scope of SNIG, DROTe has identified high-value datasets previously classified as ‘regional interest themes.’ The aim is to integrate this geospatial data from the Madeira autonomous region into the national open data portal.
   - RAA - Autonomous Region of the Azores (RAA) launched a new Spatial Data Infrastructure and a new online portal (available at https://idea.ambiente.azores.gov.pt/), through which entities can:
-    1. access to the Azorean Metadata Catalogue (available at https://sma.idea.azores.gov.pt/geonetwork/) which is called “Sistema de Metadados dos Açores (SMA)”;
-    2. download the Azorean Metadata Manager (available at https://idea.ambiente.azores.gov.pt/metadados/) which is called “Gestor de Metadados dos Açores (GeMA)”. This application allows entities to create, edit and submit automatically to “Sistema de Metadados dos Açores (SMA)” their metadata in accordance with INSPIRE Directive specifications;
-    3. share their geographic information through online viewers (available at https://visualizador-idea.ambiente.azores.gov.pt/). At his moment, the creation of online viewers is restricted to the entities of the Regional Government of the Azores.
- 
+    - access to the Azorean Metadata Catalogue (available at https://sma.idea.azores.gov.pt/geonetwork/) which is called “Sistema de Metadados dos Açores (SMA)”;
+    - download the Azorean Metadata Manager (available at https://idea.ambiente.azores.gov.pt/metadados/) which is called “Gestor de Metadados dos Açores (GeMA)”. This application allows entities to create, edit and submit automatically to “Sistema de Metadados dos Açores (SMA)” their metadata in accordance with INSPIRE Directive specifications;
+    - share their geographic information through online viewers (available at https://visualizador-idea.ambiente.azores.gov.pt/). At his moment, the creation of online viewers is restricted to the entities of the Regional Government of the Azores.
 - Hydrographic Institute (IH) has implemented the OGC API Features (https://api-features.hidrografico.pt).
 - IH and the Portuguese Sea and Atmosphere Institute (IPMA) are working together to develop the Portuguese National Oceanographic Data Center (NODC-PT) for the program “International Oceanographic Data and Information Exchange" (IODE) of the "Intergovernmental Oceanographic Commission" (IOC) of UNESCO. NODC-PT catalog will be hosted at https://data.nodc-portugal.pt.
 - SNIG entities, through CO-SNIG, were involved in selecting their HVD from SNIG data and beyond, contributing to the process each Member State has to perform in order to comply with the Open Data Directive and its implementing act on HVD. 
@@ -120,8 +119,8 @@ Considering SNIG entities participation in JIIDE 2023:
   - DGT presented 6 communications: 
     - “Conjuntos de dados de elevado valor no domínio da IG em Portugal: O papel do SNIG” A. Fonseca, DGT; 
     - “A articulação entre o SNIG e o dados.gov para os dados abertos”, D. Furtado (DGT), A. Soares (AMA);
-    - “Informação LiDAR para Portugal Continental”, P. Patrício, DGT; Especificações e normas técnicas para cartografia topográfica / 
-    - Evolução do modelo CartTop, A. Seara (DGT); 
+    - “Informação LiDAR para Portugal Continental”, P. Patrício, DGT; "Especificações e normas técnicas para cartografia topográfica"
+    - "Evolução do modelo CartTop", A. Seara (DGT); 
     - “Visualização da cartografia baseada no modelo CartTop. Ferramentas de visualização e conversão dos dados.”, A. Serronha (DGT); 
     - “Validação da cartografia baseada no modelo CartTop. Ferramentas de controlo de qualidade”, H. Silva (DGT); 
     - “Evolução do Sistema de Monitorização da Ocupação do Solo (SMOS) da Direção-Geral do Território: Um sistema em constante evolução”, Pedro Benevides (DGT)).
@@ -135,7 +134,9 @@ Considering SNIG entities participation in JIIDE 2023:
 - The organization of courses on SNIG started during 2023 and will proceed in 2024 (https://www.dgterritorio.gov.pt/Curso-pratico-line-sobre-o-SNIG), a capacity building initiative that aims to increase the use of SNIG capabilities.
 - The organization of courses on SMOS - Sistema de Monitorização da Ocupação do Solo occurred during 2023 (https://smos.dgterritorio.gov.pt/index.php/cursos-e-seminarios) and involved several users of the Portuguese SDI, more interested on the data related to Land use/Land cover.
 
- Technical constraints:
+
+Technical constraints:
+
 SDI development and INSPIRE implementation in Portugal in 2023 continued to evidence some of the technical constraints mentioned in previous years. Awareness and capacity building initiatives contribute to improve some of the issues considering the lack of qualified human resources in the public entities to cope with all the technical requirements involved in SDI & INSPIRE implementation (metadata creation, spatial data services development, data harmonization). INSPIRE data harmonization and the use of INSPIRE data for e-reporting are other examples where technical constraints are more visible. More recently the issues involved in the publication of HVD according to the Open Data Directive requirements can be added to this list.
 
 Planned actions include:
