@@ -38,7 +38,6 @@ The data content that is delivered generally holds a very high quality, with a h
 - Postal Address: Postboks 600 Sentrum, 3507 Hønefoss
 - Contact Email: post@kartverket.no
 - Telephone Number: +47 32 11 80 00
-- Telefax Number:
 - National INSPIRE Website: [http://www.kartverket.no](http://www.kartverket.no)
 - MIG Contacts: 
   - Contact Person: Dag Høgvard
@@ -107,8 +106,10 @@ The use of the data and services in growing. Through regulations in the Planning
 
 Norway has an open data policy. Most spatial data sets (more than 90%) are classified as open. There are good overviews of open data in the Norwegian geoportal and open data licenses have been attached or linked up to the metadata. In Norway mostly two open data licenses are being used, [the National Open Data License (NLOD)](http://data.norge.no/nlod/no/2.0) and the international license Creative Commons (CCBY). Metadata contains information if data sets are open or not. This information is harvested by the Inspire geoportal, The European open data portal and the Norwegian open data portal. www.data.norge.no 
 
-Fair implementation in Norway 
+**Fair implementation in Norway** 
+
 The Norwegian geospatial infrastructure has coupled the FAIR principles and the OGC and ISO-based requirements defined in INSPIRE and the national geodata act. The system evaluates the different data set resources according to the FAIR principles. The criteria are adapted also to interpretation in the Open Data Catalogue and the [Norwegian Open Data Catalogue](www.data.norge.no). The system is easy to use and gives valuable feedback to both delivery organisations and end users. Examples are found in [Mareano Status Register](https://register.geonorge.no/mareano-statusregister): -  [FAIR evaluation on dataset "Marine Landforms"](https://register.geonorge.no/mareanostatusregister/marine-landformer/cf3de8a9-4788-46b1-b784-7689c4887ce0)
+
 ![image](https://github.com/larsingea/INSPIRE-in-your-Country/assets/5434527/a05ab08e-f963-4a61-9bba-5a9c43b454df)
 
 ### Costs and Benefits <a name="costs"></a>
