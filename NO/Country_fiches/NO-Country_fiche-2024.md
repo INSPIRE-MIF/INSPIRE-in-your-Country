@@ -113,7 +113,8 @@ Norway has an open data policy. Most spatial data sets (more than 90%) are class
 
 The Norwegian geospatial infrastructure has coupled the FAIR principles and the OGC and ISO-based requirements defined in INSPIRE and the national geodata act. The system evaluates the different data set resources according to the FAIR principles. The criteria are adapted also to interpretation in the Open Data Catalogue and the [Norwegian Open Data Catalogue](www.data.norge.no). The system is easy to use and gives valuable feedback to both delivery organisations and end users. Examples are found in [Mareano Status Register](https://register.geonorge.no/mareano-statusregister): -  [FAIR evaluation on dataset "Marine Landforms"](https://register.geonorge.no/mareanostatusregister/marine-landformer/cf3de8a9-4788-46b1-b784-7689c4887ce0)
 
-![image](https://github.com/larsingea/INSPIRE-in-your-Country/assets/5434527/a05ab08e-f963-4a61-9bba-5a9c43b454df)
+![Image Alt Text](images/Inspire_fair_mareano.png)
+*Fig 1: Example of FAIR evaluation of dataset in the national geoportal*
 
 ### Costs and Benefits <a name="costs"></a>
 
