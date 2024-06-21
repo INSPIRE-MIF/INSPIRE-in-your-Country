@@ -24,7 +24,7 @@ The Ministry of Local Government and Regional Development recommends and mandate
 
 These data are of high-quality and are being used in everyday digital workflows in municipalities, county administrations, national authorities and the private sector. Most of the data are harmonized according to national data specifications, adapted to the national legislation and everyday work in most sector activities, e.g. roads and rail management, crisis management, environmental management at all levels, land use and city planning, coastal zone management, fisheries, agriculture, defence and security. The Norwegian as-is data aims to follow major INSPIRE regulations, such as data sharing principles and accessibility of network services etc. The quality of data content has increased steadily the last years, as has the use in digital processes. Data and services are well documented with metadata following the INSPIRE principles. The Norwegian implementation may be seen as a model for integration of INSPIRE spatial data infrastructure into the digital economy and digital public workflows. 
 
-Concerning INSPIRE harmonization requirement, INSPIRE progress is lower. Norway has pr. 1.1.2023 eleven harmonized datasets available in the INSPIRE geoportal, covering Annex I data themes. Concerning Annex II and III themes, the formal requirement for Norway is to deliver these by end 2023. A number of organisations have still not given priority to develop harmonised data for data sets falling under Annex II and III. 
+Concerning INSPIRE harmonization requirement, INSPIRE progress is lower. Norway has pr. 1.1.2023 eleven harmonized datasets available in the INSPIRE geoportal, covering Annex I data themes. Concerning Annex II and III themes, the formal requirement for Norway was to deliver these by end 2023. A number of organisations have still not given priority to develop harmonised data for data sets falling under Annex II and III. 
 
 Many organisations offer sector specific data. 19 organisations offer data that falls under the INSPIRE directive thematic focus.
   
@@ -66,18 +66,21 @@ The INSPIRE directive and underlying regulations define a series of requirements
 
 Besides this, the development towards all technical requirements is relatively low - particularly when it comes to conformity of services. This may be seen in several validation services offered by the European Commission. Some of the validation errors are also caused by our open-source software and hard to get rid of. We are also questioning the need of tests that don’t deal with interoperability issues, and only reports errors related to wrong user input. Such errors could give a warning but no error report, and the validation could pass.
 
-**Delivery of priority environmental reporting data** 
+We have improved the conformance of metadata significantily the last years, but we didn't put to much effort into this in 2023. Hopefully we can take a new step towards full metadata conformance in 2024. 
+
+
+**Delivery of priority environmental reporting data:** 
 EU Commission has defined certain Inspire data sets to be of high priority. A sub-group under the Maintenance and Implementation Work Programme 2017-2020 has developed a list of datasets related to environmental reporting (PDS). 
 The list defines approximately 90 dataset. Approximately 45-55 of these are relevant for Norway. So far, the Norway has established 15 dataset with metadata and as-is view-services. This number corresponds to 28 datasets in the list. 
 Download services according to Inspire-standards (WFS and Atom) are not established, and there are technical issues regarding linking between metadata and services that needs to be sorted out. 
 
-**Inspire and HVD**
+**Inspire and HVD:** 
 There are ongoing processes concerning the implementation of the Open data directive (ODD) and high-value datasets (HVD) in Norway. The implementation into national law is planned to be carried out in the coming years as part of the EEA (European Economic Area agreement) agreements. The national INSPIRE community has started to see how implementation of the two legal acts can get a coordinated implementation at technical level. There are also discussions on how to implement the “free of charge”- requirement in HVD which is not a requirement in INSPIRE, as less income may affect data quality negatively. 
 
-**Data to Eurostat, EU Commission Services, EEA, Copernicus.**
+**Data to Eurostat, EU Commission Services, EEA, Copernicus:** 
 The Norwegian Inspire data sets are to serve EU bodies and communities, such as Eurostat, EU Commission Services, European Environment Agency (EEA) and Copernicus services, particularly the Copernicus in-situ (Corda) system. Their signals about priority Inspire data are valuable, as efforts then may focus on covering priority needs with these bodies and communities. In this work Norway will have a particular focus on delivering data that fulfils user requirements, e.g. on data quality. 
 
-**National geospatial strategy and action plan.** 
+**National geospatial strategy and action plan:** 
 A National Geodata Strategy was launched in late 2018 and lasts to 2025. In this strategy the government sets an aim to boost the use of spatial data in the Norwegian society, in order fulfil the UN sustainability goals, boost economy and develop an effective and wellfunctioning public sector. There is a specific focus on developing quality data, with full coverage, up to date information, and accurate localization. User assessment show that data quality is too low to fulfil the existing and planned user needs. An action plan has been developed, e.g. on geoportal developments. 
 
 
