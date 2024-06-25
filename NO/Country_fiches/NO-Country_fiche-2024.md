@@ -1,4 +1,4 @@
-# NO - 2024: Country Fiche
+# _NO_ - _2024_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -97,7 +97,7 @@ The data content being offered is mostly high-quality data. One important initia
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 Usage of the infrastructure for spatial information The Norwegian geoportal holds a central place in the Norwegian infrastructure. It contains metadata for all datasets and services falling under the INSPIRE directive, as well as other geodata. The portal is free for all to use as a metadata management system and as a discovery service. The portal is developed and maintained by the Norwegian Mapping Authority. 
 
-The geoportal https://www.geonorge.no is a web site but in addition it contains a series of tools and api’s- central processing functionalities for data file production, web service production, register management etc. It is becoming an increasingly important element in the general public sector digitalization infrastructure. 
+The geoportal [https://www.geonorge.no](https://www.geonorge.no) is a web site but in addition it contains a series of tools and api’s- central processing functionalities for data file production, web service production, register management etc. It is becoming an increasingly important element in the general public sector digitalization infrastructure. 
 
 Data are available as downloadable files in different formats, e.g. GML, FGDB and postgis, together with the national format SOSI. Most data sets have corresponding view and download services. The last years there has been a rapid increase in the development of download services being offered through the national geoportal (WFS, Atom Feed, Geonorge download API). Pilots and initial implementation of the new generation of OGC-API’s are carried out, e.g. OGC feature API, OGC Environmental Retrieval API and OGC Processes API.
 
