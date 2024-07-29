@@ -29,7 +29,7 @@ All Annex I data has been harmonised from the beginning and the harmonisazion of
 Everything went well and almost all INSPIRE relevant data has been made available in a harmonised way. A 4 year roadmap
 was set up in 2021 for the operation of the INSPIRE platform and harmonization of new or updated datasets and some more data has been added / harmonized since.
 
-In order to cope with the new requirements from the HVD Implementing Regulation, the roadmap has been adapted. Starting from 2022, an OGC API Features service has been added for every vector dataset and the entire platform is now being reused in order to serve non-INSPIRE relevant HVD in the same way we already to it for INSPIRE-relevant HVD
+In order to cope with the new requirements from the HVD Implementing Regulation, the roadmap has been adapted. Starting from 2022, an OGC API Features service has been added for every vector dataset and the entire platform is now being reused in order to serve non-INSPIRE relevant HVD in the same way we already do it for INSPIRE-relevant HVD
 
 ### Coordination
 
