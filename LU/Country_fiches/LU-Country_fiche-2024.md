@@ -1,4 +1,4 @@
-# LU - 2024: Country Fiche
+# _LU_ - _2024_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -70,7 +70,7 @@ The coordination structure created by the national [INSPIRE law](https://legilux
 ##### Progress
 
 The separation of CC-ILDG and GT-ILDG has been decided in 2019 so that the "CC" can focus on the tasks given by law and the GT can focus on technical aspects.
-Most if not all geographic data produced by the public sector in Luxembourg is released under Creative Commons 0 license to the public domain and is available on https://data.public.lu. This is a
+Most if not all geographic data produced by the public sector in Luxembourg is released under Creative Commons 0 license to the public domain and is available on [https://data.public.lu](https://data.public.lu). This is a
 huge step and it also helps the public actors to collaborate better.
 All the data that is being harmonized for INSPIRE is taken from the open data portal, harmonized and put back there under the same license as INSPIRE GML.
 The whole harmonizing process has been fully automated, so that GMLs, ATOM Feeds and WMS View Services are created by a process that is fed by mapping rules.
@@ -93,7 +93,7 @@ The "Groupe Technique" of the ILDG meets 2-4 times a year to discuss different a
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
 The showcase of the Luxemburg’s SDI is the Luxembourgish geoportal which opens up an access to the different users.
-The LSDI offers a lot of OGC compliant webservices (WMS, WFS, CSW, OGC API Features), open data and a very powerful viewer (http://map.geoportail.lu). 
+The LSDI offers a lot of OGC compliant webservices (WMS, WFS, CSW, OGC API Features), open data and a very powerful viewer ([http://map.geoportail.lu](http://map.geoportail.lu)). 
 A lot of efforts are being put into the visualization of 3D data (pointclouds, terrains, meshes, 3D buildings).
 Independently of the special geoportal dedicated to INSPIRE, the national geoportal of Luxembourg has great success
 and is widely used by the general public. It counts more than 20'000 visitors per day, through its different viewers,
