@@ -30,20 +30,20 @@ on the INSPIRE knowledge base.
 #### National Contact Point
 
 - Name of Public Authority: State Geodetic Administration
-- Postal Address: Gruška 20., 10000 Zagreb
-- Contact Email:
-- Telephone Number:
-- Telefax Number:
-- National INSPIRE Website:
+- Postal Address: Gruška 20., 10000 Zagreb, Croatia
+- Contact Email: info@dgu.hr; infonipp@dgu.hr
+- Telephone Number: +385 (0)1 6165404
+- Telefax Number: +385 (0)1 6165484
+- National INSPIRE Website: https://www.nipp.hr/
 - MIG Contacts: 
-  - Contact Person:
-  - Email:
-  - Telephone Number:
-  - Contact Person:
-  - Email:
+  - Contact Person: Ljerka Marić
+  - Email: ljerka.maric@dgu.hr
+  - Telephone Number: +38516166533
+  - Contact Person: Tomislav Ciceli
+  - Email: tomislav.ciceli@dgu.hr
 - MIG T Contacts: 
-  - Contact Person:
-  - Email:
+  - Contact Person: Tomislav Ciceli
+  - Email: tomislav.ciceli@dgu.hr
   - Contact Person:
   - Email:
   - Telephone Number:
