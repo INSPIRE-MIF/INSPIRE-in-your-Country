@@ -17,17 +17,20 @@ part of a larger European Interoperability Framework and the e-Government Action
 Market Agenda. Article 21 of INSPIRE Directive defines the basic principles for monitoring and reporting. More detailed
 implementing rules regarding INSPIRE monitoring and reporting have been adopted as Commission Implementing Decision
 (EU) 2019/1372 on the 19th August 2019.
+This Country Fiche highlights Croatia progress in the various areas of INSPIRE implementation. It includes information on
+monitoring 2024 acquired in December 2024 and Member States update.
 
 ## State of Play
 
-< insert text >
+A high-level view on the governance, use and impact of the INSPIRE Directive in Croatia. More detailed information is available
+on the INSPIRE knowledge base.
 
 ### Coordination
 
 #### National Contact Point
 
-- Name of Public Authority:
-- Postal Address:
+- Name of Public Authority: State Geodetic Administration
+- Postal Address: Gruška 20., 10000 Zagreb
 - Contact Email:
 - Telephone Number:
 - Telefax Number:
