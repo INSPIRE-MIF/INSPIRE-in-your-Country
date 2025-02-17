@@ -76,6 +76,8 @@ In 2024, new working group for spatial plans was established.
 The NCP is responsible for leading the implementation of the NSDI and the coordination of the activities of the
 NSDI subjects within the scope and with rights and obligations determined by the Law.
 
+![NSDI Coordination structure](Images/NSDI.png)
+
 ##### Progress
 
 As the Republic of Croatia became an official EU member on 1st July 2013, it was not obliged to submit the
