@@ -193,36 +193,46 @@ Benefits:
 
 Although no quantitative values of the INSPIRE implementation benefits can be given, there are many positive feedbacks to
 INSPIRE implementation and using National Spatial Data Infrastructure:
-Using NSDI has led to cost reduction as data can be re-used in other institutions and duplication of data acquisition can
+
+- Using NSDI has led to cost reduction as data can be re-used in other institutions and duplication of data acquisition can
 be avoided.
-Stakeholders use the Metadata Catalogue and NSDI geoportal for their needs regarding spatial data since all necessary
+- Stakeholders use the Metadata Catalogue and NSDI geoportal for their needs regarding spatial data since all necessary
 information regarding the data can be found there (e.g. terms of use, resolution, data coverage).
-NSDI subjects when providing INSPIRE services for their spatial datasets decide to make them free of charge, thus
-allowing companies to use these data to create new products and expand the spatial data market.
-Generally, NSDI is contributing a lot in raising knowledge on spatial data management issues.
+- NSDI subjects when providing INSPIRE services for their spatial datasets decide to make them free of charge, thus
+allowing private sector to use these data to create new products and expand the spatial data market.
+In general, the NSDI significantly contributes to enhancing knowledge on spatial data management issues. By promoting best practices and fostering collaboration among stakeholders, it plays a vital role in improving the accessibility and use of spatial data.
 
 Costs:
 
 According to the report on the implementation of measures and activities from the National Spatial Data Infrastructure Strategy
 2020 and the National Spatial Data Infrastructure Strategic Plan for the period 2017-2020 overall costs for was 10 814 566
 Euros divided in 7. Strategic goals. Implementation costs for each of the strategic goal were:
-Strategic goal no. 1: NSDI is known and the benefits it brings
+
+- Strategic goal no. 1: NSDI is known and the benefits it brings
 The cost in this strategic goal during the period 2017 - 2020 amounts to 51 188 euros and mainly refers to participation in
 workshops and conferences and implementation of spatial data portals of some NSDI subjects.
-Strategic goal no. 2: Spatial data and services are available and meet the needs of users
+
+- Strategic goal no. 2: Spatial data and services are available and meet the needs of users
 The cost in this strategic goal during the period 2017 - 2020 amounts to 4 614 244 euros and it refers to the development of
 network services (view and download).
-Strategic goal no. 3: Terms and fees for the use of spatial data are easy to understand
+
+- Strategic goal no. 3: Terms and fees for the use of spatial data are easy to understand
 The cost in this strategic goal during the period 2017 - 2020 amounts to 12 088 euros and it refers to development of standard
 licenses (open and special) for spatial data and workshop on licensing of data.
-Strategic goal no. 5: There are sufficient operational options available for the effective and efficient use of the NSDI
+
+- Strategic goal no. 5: There are sufficient operational options available for the effective and efficient use of the NSDI
 The cost in this strategic goal during the period 2017 - 2020 amounts to 5 766 823 euros and it refers to all the projects aiming to
 implementation and development of NSDI in Croatia, co-financed from EU funds, especially of those in which information
 systems and INSPIRE network services have been developed.
-Strategic goal no. 6: NSDI supports other important policies and programs at the national and international level
+
+- Strategic goal no. 6: NSDI supports other important policies and programs at the national and international level
 This strategic goal refers to compliance to INSPIRE of datasets, network services and metadata and the cost in this strategic
 goal during the period 2017 - 2020 amounts to 166 750 euros.
-Strategic goal no. 7: NSDI stakeholders (NSDI entities and beneficiaries) cooperate through partnerships and other types
+
+- Strategic goal no. 7: NSDI stakeholders (NSDI entities and beneficiaries) cooperate through partnerships and other types
 of agreements
+
 This strategic goal refers to concluding cooperation agreements and inclusion of NSDI subjects and their metadata in the
 Catalog of Metadata on the NSDI Geoportal and the cost during the period 2017 - 2020 amounts to 203 473 euros.
+
+The costs of developing NSDI are distributed across institutions that make the data available and the costs of NCP, so that a more recent consolidated cost analysis does not exist.
