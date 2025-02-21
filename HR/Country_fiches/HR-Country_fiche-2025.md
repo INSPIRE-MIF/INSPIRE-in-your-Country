@@ -94,32 +94,24 @@ In 2024, the fourteenth conference dedicated to spatial data infrastructures, [D
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
-In 2021 the State Geodetic Administration prepared a report on the implementation of measures and activities from the
+- In 2021 the State Geodetic Administration prepared a report on the implementation of measures and activities from the
 National Spatial Data Infrastructure Strategy 2020 and the National Spatial Data Infrastructure Strategic Plan for the
 period 2017-2020, which was firstly adopted by NSDI Council and after that adopted by the Croatian Government in the
 beginning of 2022.
-The Act on Amendments to the National Spatial Data Infrastructure Act (OG 50/20) was adopted by the Croatian
-Parliament in April 2020. Pursuant to the Act Amending the Act, the current National Spatial Data Infrastructure Act is
-harmonized with the INSPIRE Directive, which was amended with the entry into force of Regulation (EU) 2019/1010 of the
-European Parliament and of the Council. Also, the composition of the Council of the National Spatial Data Infrastructure is
-changed in order to achieve more efficient work of the Council, as well as the competences of the National Contact Point
-regarding reporting by Member States to the European Commission. Furthermore, the Act on Amendments to the
-National Spatial Data Infrastructure Act (OG 50/20) , with the aim of harmonization with the Law on State Information
-Infrastructure (Official Gazette, No. 94/14), proposes that the exchange and sharing of data at the national level is
-regulated by a protocol, while the sharing of spatial data between NSDI entities and European Commission bodies is
-regulated by an agreement.The Act Amending the National Spatial Data Infrastructure Act (OG 50/20) entered into force
-on 2 May 2020.
-The Law on Amendments to the Law on National Spatial Data Infrastructure (OG 52/18) was adopted by the Croatian
-Parliament in May 2018 and it complies with Directive 2007/2 / EC of the European Parliament and of the Council of
-March 14th, 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE).
-In September 2017 the government of the Republic of Croatia adopted the Decision on the adoption of the National
+
+- Data providers themselves choose software and hardware for the publication of spatial data and services, with the fact that from 2020 they have the option of publishing harmonized data from the platform [https://transformiraj.nipp.hr/](https://transformiraj.nipp.hr/) which is run by the State Geodetic Administration, and is based on the Hale connect solution.
+
+- The Law on National Spatial Data Infrastructure (OG 56/13) has undergone two amendments to enhance its alignment with EU directives and improve its implementation. The first amendment, in May 2018, ensured full compliance with the INSPIRE Directive. The second amendment, adopted by the Croatian Parliament in April 2020 (OG 50/20), aligned the law with Regulation (EU) 2019/1010 of the European Parliament and Council. In addition, the composition of the Council of the National Spatial Data Infrastructure is changed in order to achieve more efficient work of the Council, as well as the competences of the National Contact Point regarding reporting by Member States to the European Commission. Furthermore, the Act on Amendments to the National Spatial Data Infrastructure Act (OG 50/20), with the aim of harmonization with the Law on State Information Infrastructure (Official Gazette, No. 94/14), proposes that the exchange and sharing of data at the national level is regulated by a protocol, while the sharing of spatial data between NSDI entities and European Commission bodies is regulated by an agreement. The Act Amending the National Spatial Data Infrastructure Act (OG 50/20) entered into force on 2 May 2020.
+  
+- In September 2017 the government of the Republic of Croatia adopted the Decision on the adoption of the National
 Spatial Data Infrastructure Strategy 2020 and the Strategic Plan of the National Spatial Data Infrastructure for the period
 2017-2020 (OG 96/17). The adoption of the NSDI Strategy helps all stakeholders, primarily NSDI subjects, to achieve
 compliance with the INSPIRE Directive. It further emphasizes the centralized access to spatial data of the public bodies
 through the NSDI geoportal, which results in greater efficiency of state administration in areas directly or indirectly linked
 to spatial data. Fulfillment of the strategic goals increases the number of spatial data present, primarily at the regional and
 local level, where the largest number of new NSDI subjects are expected.
-The Law on National Spatial Data Infrastructure (OG 56/13) was adopted by the Croatian Parliament in May 2013.
+
+- The Law on National Spatial Data Infrastructure (OG 56/13) was adopted by the Croatian Parliament in May 2013.
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
