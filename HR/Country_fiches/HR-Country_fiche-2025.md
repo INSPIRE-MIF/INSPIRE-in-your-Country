@@ -115,47 +115,51 @@ local level, where the largest number of new NSDI subjects are expected.
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
-In order to promote usage of the spatial data among general public in Croatia, State Geodetic Administration developed
-spatial data viewer GeoHrvatska that enables users to get to know and explore the surrounding area using official spatial
-data through NSDI. Some of the thematic areas that can be explored include environmental quality, land, nature, free
-time, protected areas and pollution in the vicinity. During 2022, 24,182 users accessed the GeoHrvatska spatial data
-viewer, which represents an increase of 11.47% compared to 2021. Of these, 9.77% are new users and 112,841 pages
-were viewed compared to 129,585 from the period of 2021.
-Mobile application GeoHrvatska was also developed in 2022 by the State Geodetic Administration with the aim of
+- By December 2024, more than 20,000 users had accessed the NSDI Geoportal and GeoHrvatska spatial data viewer that enables users to get to know and explore the surrounding area using official spatial data through NSDI.
+
+- In 2024, NSDI Metadata Specification has undergone changes to comply with new version of Technical Guidance for the implementation of INSPIRE dataset and service metadata based on ISO/TS 19139:2007 from January 2024. Those changes have been implemented to the national catalogue on the national Geoportal.
+
+- Mobile application GeoHrvatska was also developed in 2022 by the State Geodetic Administration with the aim of
 promoting and simplification of the use of spatial data by citizens through every day scenarios such as planning of
 recreation, trips, exploring land, finding best locations and so on.
-Quantitative information about the use of the spatial datasets exists only for those datasets for which are developed
+
+- Quantitative information about the use of the spatial datasets exists only for those datasets for which are developed
 network services.The most used network services are State Geodetic Administration’s Digital orthophoto, Topographic
 Map 1: 25 000 and Cadastral parcels and Cadastral municipalities as well as Addresses and Administrative units.
-NCP has encouraged NSDI subjects to implement their own metadata catalogues based on NSDI Metadata Specification
-and now NSDI geoportal is harvesting two such catalogues from the Ministry of Economy and Sustainable Development
-and Croatian Bureau of Statistics.
-The use of the infrastructure for spatial information has grown in previous years which can be seen from larger numbers of
+
+- NCP has encouraged NSDI subjects to implement their own metadata catalogues based on NSDI Metadata Specification
+and now NSDI geoportal is harvesting two such catalogues from the Ministry of Environmental Protection and Green Transition,
+Croatian Bureau of Statistics and Ministry of Agriculture, Forest and Fishery.
+
+- The use of the infrastructure for spatial information has grown in previous years which can be seen from larger numbers of
 access to NSDI geoportal for more than 30%.
-NSDI is also used in education in the Republic of Croatia. Research made on several high schools and universities in
+
+- NSDI is also used in education in the Republic of Croatia. Research made on several high schools and universities in
 Croatia showed that NSDI is used for educational purposes in at least 3 faculties and 1 high school.
-State Geodetic Administration, from 2019 to 2021 was implementing the project "Strengthening Capacities for the
+
+- State Geodetic Administration, from 2019 to 2021 was implementing the project "Strengthening Capacities for the
 Establishment of the National Spatial Data Infrastructure". The project was co-financed by the European Social Fund from
 the Priority Axis 4, Operational Program Effective Human Resources 2014-2020, Investment Priority 11.i., Specific goal
 11.i.1. The main goal of the project was to strengthen the existing NSDI capacities at the National Contact Point and local
 promoters, as well as to raise NSDI knowledge at the local, regional and national levels thus resulting in the increase of
 the number of NSDI subjects. In scope of project, during 2021, 11 workshops were organised primary for representatives
-from local government. As part of the project, in 2021 the State Geodetic Administration published the brochure "Spatial
-Data and NSDI for Connected Croatia" and the publication "National Spatial Data Infrastructure in Implementation"
-intended for NSDI subjects and all other users of spatial data.
-State Geodetic Administration, from 2019 to 2021, was implementing the project „Increasing the availability of NSDI
+from local government.
+
+- State Geodetic Administration, from 2019 to 2021, was implementing the project „Increasing the availability of NSDI
 spatial data through e-services“ funded from the European Regional Development Fund, aiming to increase availability
 and interoperability of spatial datasets in Croatia. In scope of project, the module "Example of good practice for the use of
 NSDI spatial data" was developed and it is publically available as a part of the NSDI Geoportal browser.
 In 2020, new version of NSDI Metadata Specification was implemented to the national catalogue on the national
 Geoportal.
-At the end of 2019, a new version of the NSDI Metadata Specification, that is fully compliant with the new INSPIRE
+
+- At the end of 2019, a new version of the NSDI Metadata Specification, that is fully compliant with the new INSPIRE
 Implementing rules for metadata “Technical Guidance for the implementation of INSPIRE dataset and service metadata
 based on ISO/TS 19139:2007 ", was adopted. In the Specification the emphasis is on implementation rules of xml coding
 of metadata elements in accordance with norm ISO / TS 19139: 2007 taken as a reference, international standard for
 metadata coding. New Specification, in which metadata elements are divided into compliance classes, provide better
 support in automatic metadata validation.
-Communication Plan of National Spatial Data Infrastructure was written in December 2018 and its goal is to define the
+
+- Communication Plan of National Spatial Data Infrastructure was written in December 2018 and its goal is to define the
 best methods for communication with different stakeholders including the general public and further raise the awareness
 on benefits of spatial data infrastructure.
 
