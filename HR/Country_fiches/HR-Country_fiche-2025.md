@@ -69,9 +69,9 @@ and the heads of NSDI working groups.
 
 At the operational level, till February 2021, three NSDI working groups were established for the purpose of
 elaborating certain tasks and obligations within the scope of the NSDI implementation:
-Workgroup for NSDI technical standards
-Workgroup for NSDI capacity building
-Workgroup for NSDI spatial data.
+- Workgroup for NSDI technical standards
+- Workgroup for NSDI capacity building
+- Workgroup for NSDI spatial data.
 
 In 2024, new Working group for spatial plans was established with the aim of making recommendations for registering spatial planning documentation in Croatian NSDI.
 
@@ -87,6 +87,8 @@ INSPIRE monitoring and reporting forms before that date. The first Reporting was
 has been made since then in many areas. The number of identified spatial datasets and documentation of data
 through NSDI geoportal and Metadata Catalogue has grown as well as accessibility of data through network
 services and conformity of spatial data sets and services.
+
+In 2024, the fourteenth conference dedicated to spatial data infrastructures, [Days of NSDI 2024](https://www.nipp.hr/default.aspx?id=3807) was organized by NCP as well as two advanced workshops on the topic of raising the quality of metadata and data harmonization for NSDI subjects. In order to help local and regional self-government units, a series of individual meetings were held in 2024 in order to speed up and improve the process of metadata description of spatial data sources in the NSDI Metadata Catalog.
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
