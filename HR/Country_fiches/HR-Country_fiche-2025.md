@@ -88,7 +88,7 @@ has been made since then in many areas. The number of identified spatial dataset
 through NSDI geoportal and Metadata Catalogue has grown as well as accessibility of data through network
 services and conformity of spatial data sets and services.
 
-![Progress](Images/Monitoring_accessibility.png)
+![Progress](Images/Monitoring_accessibility1.png)
 
 In 2024, the fourteenth conference dedicated to spatial data infrastructures, [Days of NSDI 2024](https://www.nipp.hr/default.aspx?id=3807) was organized by NCP as well as two advanced workshops on the topic of raising the quality of metadata and data harmonization for NSDI subjects. In order to help local and regional self-government units, a series of individual meetings were held in 2024 in order to speed up and improve the process of metadata description of spatial data sources in the NSDI Metadata Catalog.
 
