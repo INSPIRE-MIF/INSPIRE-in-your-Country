@@ -18,12 +18,12 @@ Market Agenda. Article 21 of [INSPIRE Directive](https://eur-lex.europa.eu/eli/d
 implementing rules regarding INSPIRE monitoring and reporting have been adopted as Commission Implementing Decision
 (EU) 2019/1372 on the 19th August 2019.
 This Country Fiche highlights Croatia progress in the various areas of INSPIRE implementation. It includes information on
-monitoring 2024 acquired in December 2024 and Member States update.
+[Monitoring 2024](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=hr) acquired in December 2024 and Member States update.
 
 ## State of Play
 
 A high-level view on the governance, use and impact of the INSPIRE Directive in Croatia. More detailed information is available
-on the INSPIRE knowledge base.
+on the [INSPIRE knowledge](https://knowledge-base.inspire.ec.europa.eu/index_en) base.
 
 ### Coordination
 
@@ -44,9 +44,6 @@ on the INSPIRE knowledge base.
 - MIG T Contacts: 
   - Contact Person: Tomislav Ciceli
   - Email: tomislav.ciceli@dgu.hr
-  - Contact Person:
-  - Email:
-  - Telephone Number:
 
 #### Coordination Structure & Progress: 
 
@@ -55,24 +52,29 @@ on the INSPIRE knowledge base.
 The main governing body of NSDI in the Republic of Croatia is the NSDI Council. It is a body that implements the
 NSDI within the Republic of Croatia and coordinates the activities of NSDI subjects within the scope and with rights
 and obligations determined by the Law on National Spatial data infrastructure (OG 56/13, 52/18, 50/20).
+
 Governmental authorities at the level of ministries mainly join this NSDI Council, but also relevant (branch)
-associations as well as National Contact Point (NCP). Currently we have the 7th convocation of the NSDI Council,
-which was appointed on November 26, 2020.
+associations as well as National Contact Point (NCP). 
+
 The Act Amending the National Spatial Data Infrastructure Act (OG 50/20) of 2 May 2020 introduced changes in the
 composition of the NSDI Council in order to achieve its more efficient work. Therefore it was proposed that the
-President of the Council was a representative of the National Contact Point and that a new member from the State
-Hydrometeorological Institute was included in the new composition. Additionaly, it governs that exchange and
+President of the Council is a representative of the National Contact Point and that a new member from the State
+Hydrometeorological Institute is included in the new composition. Additionaly, it governs that exchange and
 sharing of data at the national level is regulated by a protocol, whereas the sharing of spatial data between NSDI
 entities and European Commission bodies is regulated by an agreement.
+
 At the managerial level is the NSDI Board, a permanent body for NSDI implementation. The NSDI Board
 is appointed by the NSDI Council and consists of three representatives from the NSDI Council, three from the NCP,
 and the heads of NSDI working groups.
+
 At the operational level, till February 2021, three NSDI working groups were established for the purpose of
-elaborating certain tasks and obligations within the scope of the NSDI implementation.
+elaborating certain tasks and obligations within the scope of the NSDI implementation:
 Workgroup for NSDI technical standards
 Workgroup for NSDI capacity building
 Workgroup for NSDI spatial data.
-In 2024, new working group for spatial plans was established.
+
+In 2024, new Working group for spatial plans was established with the aim of making recommendations for registering spatial planning documentation in Croatian NSDI.
+
 The NCP is responsible for leading the implementation of the NSDI and the coordination of the activities of the
 NSDI subjects within the scope and with rights and obligations determined by the Law.
 
