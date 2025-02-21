@@ -165,28 +165,27 @@ on benefits of spatial data infrastructure.
 
 ### Data Sharing Arrangements <a name="data"></a>
 
-The goal of Croatian SDI is to share the data between public authorities and to re-use it for different purposes. Data
-sharing agreements exist among public authorities and define the terms of use for datasets that are being
-shared, therefore reducing the obstacles in data sharing. Since 2020, when the Act on Amendments to the National
+- The goal of Croatian SDI is to facilitate data sharing among public authorities and enable its re-use  for different purposes. Since 2020, when the Act on Amendments to the National
 Spatial Data Infrastructure Act (OG 50/20) came into force, the exchange and sharing of data at the national level has
 been regulated only by a technical document –protocol, what means that formal agreements are no longer required.
-There is also a practice of co-financing the major projects of data acquisition between two or more institutions that also
-leads to data sharing and cost reduction. The best example is the creation of Digital orthophoto, which is co-financed by
-two institutions, State Geodetic Administration and Agency for Payments in Agriculture, Fisheries and Rural
-Development. Another example is the project “ Multisensor aerial survey of the Republic of Croatia ” implemented by the
-Ministry of Economy and Sustainable Development, State Geodetic Administration and Croatian Waters.
-Data exchange and sharing are common among most Croatian public authorities and European Community institutions
+
+- In 2022, Law on State Survey and Real Estate Cadastre was amended to stipulate that the use of network services is free of charge for all data under the State Geodetic Administrations responsibility.
+
+- In 2023 SGA has adopted the Ordinance on determining the actual costs of issuing and conditions of using data (OG 56/2023) which published a list of SGA data for reuse, including high-value datasets that are available through services and an open license.
+
+- Collaboration between institutions has fostered co-financing of significant data acquisition projects, leading to both data sharing and cost reduction. Examples include:
+
+  - The creation of the Digital Orthophoto, co-financed by the SGA and the Agency for Payments in Agriculture, Fisheries, and Rural Development.
+The Multisensor Aerial Survey of the Republic of Croatia, implemented through joint efforts by multiple institutions.
+
+  - The Agency for Payments in Agriculture, Fisheries, and Rural Development has established agreements with various institutions, such as the Croatian Bureau of Statistics, to improve the quality and efficiency of statistical data related to agriculture and rural development.
+  
+- Data exchange and sharing are common among most Croatian public authorities and European Community institutions
 and bodies. For example, the Meteorological and Hydrological Service exchange daily data in the context of the European
-Flood Awareness System and World meteorological services. State Geodetic Administration provides data for European
+Flood Awareness System and World meteorological services. State Geodetic Administration has provided data for European
 Environment Agency and Eurostat.
-The data under the responsibility of the State Geodetic Administration are the most shared data between public
-institutions, so that at the end of 2022 the data were shared/exchanges with 120 public institutions. In 2022, Law on State
-Survey and Real Estate Cadastre was amended to stipulate that the use of network services is free of charge for all data
-under the State Geodetic Administration’s responsibility.
-The State Geodetic Administration, in 2019, has signed the Copernicus Agreement with the European Environmental
-Agency which includes ATOM INSPIRE - Administrative units, Hydrography and Elevation. In 2022 the State Geodetic
-Administration has signed Agreement on the use of official spatial data sets with Eurostat, providing INSPIRE -
-Addresses, Buildings, Cadastral Parcels, Administrative units, Transport networks and Orthoimagery.
+
+- Many spatial data providers in Croatia, including the State Geodetic Administration, make their data available free of charge under an open license of the Republic of Croatia. These datasets, such as cadastral data, topographic maps, and spatial plans, support transparency and innovation by enabling individuals, businesses, and institutions to freely use and repurpose spatial data for various purposes.
 
 ### Costs and Benefits <a name="costs"></a>
 
