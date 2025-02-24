@@ -16,7 +16,7 @@ This country fiche highlights Austria’s progress in the various areas of INSPI
 
 Austria has transposed the INSPIRE Directive into Austrian law by adopting a federal act at national level (Spatial Data Infrastructure Act – Geodateninfrastrukturgesetz, GeoDIG (Federal Law Gazette I No 14/2010 as amended by Federal Law Gazette I No 109/2012) and nine spatial data infrastructure laws at regional level (in the federal provinces/Länder).
 
-In 2015, the EU Commission held a meeting with Austria concerning the necessary full implementation of the INSPIRE Directive (pre-pilot bilateral technical meeting). As a result, Austria drew up an Action Plan to (further) ensure and achieve proper implementation of the Directive. The Action Plan was at-tached to Austria’s report in 2016. One of the measures detailed in the Action Plan was the estab-lishment of a helpdesk to provide public authorities with technical support for INSPIRE implementa-tion. The extended activities help implementing the INSPIRE Directive, while also contributing to the EU’s Digital Single Market. 
+In 2015, the EU Commission held a meeting with Austria concerning the necessary full implementation of the INSPIRE Directive (pre-pilot bilateral technical meeting). As a result, Austria drew up an Action Plan to (further) ensure and achieve proper implementation of the Directive. The Action Plan was at-tached to Austria’s report in 2016. One of the measures detailed in the Action Plan was the establishment of a helpdesk to provide public authorities with technical support for INSPIRE implementation. The extended activities help implementing the INSPIRE Directive, while also contributing to the EU’s Digital Single Market. 
 
 
 ## State of Play
