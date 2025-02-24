@@ -3,14 +3,14 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 1. [State of Play](#state_of_play)
-   1. [Coordination](#Coordination)
-   2. [Functioning and coordination of the infrastructure](#functioning)
-   3. [Usage of the infrastructure for spatial information](#usage)
-   4. [Data Sharing Arrangements](#data)
-   5. [Costs and Benefits](#costs)
+   1. [Coordination](#coordination)
+   3. [Functioning and coordination of the infrastructure](#functioning)
+   4. [Usage of the infrastructure for spatial information](#usage)
+   5. [Data Sharing Arrangements](#data)
+   6. [Costs and Benefits](#costs)
 
 
-## Introduction
+## Introduction <a name="introduction"></a>
 
 This country fiche highlights Austria’s progress in the various areas of INSPIRE implementation. It contains information covering the period **up to March 2025**.
 
@@ -19,11 +19,11 @@ Austria has transposed the INSPIRE Directive into Austrian law by adopting a fed
 In 2015, the EU Commission held a meeting with Austria concerning the necessary full implementation of the INSPIRE Directive (pre-pilot bilateral technical meeting). As a result, Austria drew up an Action Plan to (further) ensure and achieve proper implementation of the Directive. The Action Plan was at-tached to Austria’s report in 2016. One of the measures detailed in the Action Plan was the establishment of a helpdesk to provide public authorities with technical support for INSPIRE implementation. The extended activities help implementing the INSPIRE Directive, while also contributing to the EU’s Digital Single Market. 
 
 
-## State of Play
+## State of Play <a name="state_of_play"></a>
 
 The following paragraphs provide a summary of currently valid information on governance, use, im-pacts and progress achieved towards INSPIRE implementation.
 
-### Coordination
+### Coordination <a name="coordination"></a>
 
 #### National Contact Point
 
