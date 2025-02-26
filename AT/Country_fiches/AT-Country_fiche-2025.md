@@ -21,7 +21,7 @@ In 2015, the EU Commission held a meeting with Austria concerning the necessary 
 
 ## State of Play <a name="state_of_play"></a>
 
-The following paragraphs provide a summary of currently valid information on governance, use, im-pacts and progress achieved towards INSPIRE implementation.
+The following paragraphs provide a summary of currently valid information on governance, use, impacts and progress achieved towards INSPIRE implementation.
 
 ### Coordination <a name="coordination"></a>
 
@@ -77,7 +77,7 @@ Member States are given some leeway as to how they deal with the technical imple
 -	There are around 40 public providers of spatial data that are obliged to implement INSPIRE in Austria. The main public spatial data providers are federal agencies (e.g. the Federal Ministry of Agriculture, Forestry, Regions and Water Management (BML), the Federal Office of Metrology and Surveying (BEV), the Environment Agency Austria (Umweltbundesamt GmbH) and Statistics Austria) and the provinces.
 -	In the interests of administrative efficiency, the provinces or the federal government fulfil the obligations of the municipalities on their behalf. Additionally, the Computing and Technology Centre for Agriculture, Forestry and Water Management (LFRZ GmbH) provides a service infrastructure financed by the BML which can be used by public spatial data providers.
 -	With GEOLAND.AT, the provinces have created a spatial data network within which they coordinate their GIS activities and provide easy, open and Austria-wide access to their spatial data and services via a joint geoportal. GEOLAND.AT plays a central role in INSPIRE implementation in the provinces and creates synergies in the provision of network services.
--	Through the national helpdesk, IT and Geo spatial experts meet regularly to discuss technical details, e.g. users of the metadata solution GeoNetwork in order to promote the further de-velopment and maintenance of software (internationally). The results are communicated in Austria and at European level.
+-	Through the national helpdesk, IT and Geo spatial experts meet regularly to discuss technical details, e.g. users of the metadata solution GeoNetwork in order to promote the further development and maintenance of software (internationally). The results are communicated in Austria and at European level.
 -	Once a year, a national INSPIRE conference is organised for all interested stakeholders, where current developments in the INSPIRE and GDI area are reported and discussed. The focus is on face-to-face dialogue between all stakeholders.
 -	For quality and efficiency reasons, many spatial data topics are addressed in a collaborative effort, to simplify INSPIRE implementation and support the availability of national products. Austrian addresses, for instance, are collected from the approx. Austrian 2100 municipallities and compiled in a national database (www.adressregister.at). Similarly, a national transport graph (www.gip.gv.at) has been developed in a collaboration between the federal government and the provinces, which is a digital image of the Austrian transport network. The provinces and their partners also provide a joint basemap (https://basemap.at), which is available online as a GIS service (WMTS), and as a predefined dataset for offline download.
 
