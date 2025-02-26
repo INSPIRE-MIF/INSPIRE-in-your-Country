@@ -85,21 +85,22 @@ Member States are given some leeway as to how they deal with the technical imple
 
 -	The use of INSPIRE network services (and their development in recent years) in Austria is partly closely monitored, but on the other hand there is often a lack of reliable user or access data, as data is not monitored separately and estimates are based on different methods and classifications. For services where users are registered via a user login, a strong increase in the number of uses can be observed.
 -	Several federal agencies, all of the provinces, and many cities and municipalities operate web-based GIS applications that provide public access to the spatial data of public administration. Examples are:
-      -	the national INSPIRE search portal https://geometadatensuche.inspire.gv.at
-      -	the national INSPIRE registry  https://registry.inspire.gv.at
+      -	the national INSPIRE search portal [geometadatensuche.inspire.gv.at](https://geometadatensuche.inspire.gv.at)
+      -	the national INSPIRE registry  [registry.inspire.gv.at](https://registry.inspire.gv.at)
       -	the GIS portal of the provinces www.geoland.at
-      -	ViennaGIS - das Geografische Informationssystem der Stadt Wien (Vienna)
-      -	GIS - Steiermark (Styria)
-      -	Digitales Oberösterreichisches RaumInformationssystem (Upper Austria)
+      -	the GIS portals of the individual provinces; e.g.:
+         -	[ViennaGIS - das Geografische Informationssystem der Stadt Wien](https://www.wien.gv.at/viennagis/) (Vienna)
+         -	[GIS - Steiermark](https://www.landesentwicklung.steiermark.at/cms/ziel/141976122/DE/) (Styria)
+         -	[Digitales Oberösterreichisches RaumInformationssystem](https://www.doris.at/) (Upper Austria)
       -	the GIS portals of the individual provinces
-      -	the OGD administrative basemap of Austria  https://basemap.at   
+      -	the OGD administrative basemap of Austria  www.basemap.at
       -	the Austrian address register with the official addresses www.adressregister.at 
-      -	the geoportal provided by BEV (https://data.bev.gv.at), especially for addresses, cadastre and topography, citizen access to the cadastre (https://kataster.bev.gv.at), the topographic map https://maps.bev.gv.at and geodetic transformations (https://transformator.bev.gv.at)
+      -	the geoportal provided by BEV ([data.bev.gv.at](https://data.bev.gv.at)), especially for addresses, cadastre and topography, citizen access to the cadastre ([kataster.bev.gv.at](https://kataster.bev.gv.at)), the topographic map ([maps.bev.gv.at](https://maps.bev.gv.at)) and geodetic transformations ([transformator.bev.gv.at](https://transformator.bev.gv.at))
       -	the website of the GeoSphere Austria www.geosphere.at with weather, climate, geological and geophysical data
       -	the portal www.naturgefahren.at with data on natural hazards
       -	the Graph Integration Platform www.gip.gv.at, the reference system of Austrian public authorities for transport infrastructure data
-      -	the BML's Agrar-Atlas https://agraratlas.inspire.gv.at (Agricultural Atlas), the central access point to open data for the agricultural sector
-      -	the BML's Wald-Atlas https://www.waldatlas.at (Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
+      -	the BML's Agrar-Atlas [agraratlas.inspire.gv.at](https://agraratlas.inspire.gv.at) (Agricultural Atlas), the central access point to open data for the agricultural sector
+      -	the BML's Wald-Atlas www.waldatlas.at (Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
 
 ### Data Sharing Arrangements <a name="data"></a>
 
@@ -110,7 +111,7 @@ Member States are given some leeway as to how they deal with the technical imple
       -	the generation of addresses in a consortium consisting of the federal government and the Austrian association of cities and municipalities
       -	the mutual quality check of addresses and the transport graph (GIP) using service-based methods
 -	Some organisations (e.g. GeoSphere Austria, AustroControl GmbH, Environment Agency Austria) have well-established data sharing arrangements with European or international partner organisations (e.g. EUROCONTROL, European Environment Agency (EEA)).
--	Many Austrian spatial data providers make their data (including INSPIRE spatial data) available under an open licence (Creative Commons Attribution 4.0 International, CC-BY_4.0), and many of them participate in Cooperation Open Government Data Österreich.
+-	Many Austrian spatial data providers make their data (including INSPIRE spatial data) available under an open licence ([Creative Commons Attribution 4.0 International, CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)), and many of them participate in [Cooperation Open Government Data Österreich](https://www.data.gv.at/infos/cooperation-ogd-oesterreich/).
 
 ### Costs and Benefits <a name="costs"></a>
 
@@ -130,5 +131,4 @@ Member States are given some leeway as to how they deal with the technical imple
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2024 can be found at:  
-https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=at
+Key facts and figures from monitoring 2024 can be found at: https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=at
