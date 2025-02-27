@@ -12,10 +12,9 @@
 
 ## Introduction
 
-The INSPIRE Directive sets the minimum conditions for interoperable sharing and exchange of spatial data across Europe as part of a larger European Interoperability Framework and the Data Spaces announced by the European
-Data Strategy from 20/02/19 and the e-Government Action Plan that contributes to the Shaping of Europe's digital future Digital Single Market Agenda. Article 21 of [INSPIRE Directive](https://eur-lex.europa.eu/eli/dir/2007/2/oj) defines the basic principles for monitoring and reporting. More detailed implementing rules regarding INSPIRE monitoring and reporting have been adopted as [Commission Implementing Decision (EU) 2019/1372](https://eur-lex.europa.eu/eli/dec_impl/2019/1372/oj) on the 19th August 2019.
+The INSPIRE Directive sets the minimum conditions for interoperable sharing and exchange of spatial data across Europe as part of a larger European Interoperability Framework and the Data Spaces announced by the European Data Strategy from 20/02/19 and the e-Government Action Plan that contributes to the Shaping of Europe's digital future Digital Single Market Agenda. Article 21 of [INSPIRE Directive](https://eur-lex.europa.eu/eli/dir/2007/2/oj) defines the basic principles for monitoring and reporting. More detailed implementing rules regarding INSPIRE monitoring and reporting have been adopted as [Commission Implementing Decision (EU) 2019/1372](https://eur-lex.europa.eu/eli/dec_impl/2019/1372/oj) on the 19th August 2019.
 
-This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring 2023](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023.html) acquired in December 2023 and Member States update.
+This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring 2024](https://inspire-geoportal.ec.europa.eu/mr/mr2024.html) acquired in December 2024 and Member States update.
 
 ## State of Play
 
@@ -26,9 +25,9 @@ A high-level view on the governance, use and impact of the INSPIRE Directive in 
 #### National Contact Point
 
 - Name of Public Authority: Lenkungsgremium GDI-DE (Steering Committee)
-- Postal Address: Lenkungsgremium GDI-DE – Vorsitz 2023/2024, Dr. Eckart Brauer, Federal Ministry of the Interior and Community, Bundesallee 216-218, 10719 Berlin, Germany
+- Postal Address: Lenkungsgremium GDI-DE – Vorsitz 2025/2026, Katrin Weke, Freie Hansestadt Bremen, Die Senatorin für Bau, Mobilität und Stadtentwicklung, Referat Geoinformationswesen, Service-Center Bau, Contrescarpe 72, 28195 Bremen, Germany
 - Contact Email: Vorsitz-LG@gdi-de.org
-- Telephone Number: +49 30 18681-14683
+- Telephone Number: +49 421 361-17183
 - Name of Public Authority - Substitute: Koordinierungsstelle GDI-DE (Coordination Office)
 - Postal Address: Koordinierungsstelle GDI-DE, Federal Agency for Cartography and Geodesy, Richard-Strauss-Allee 11, 60598 Frankfurt am Main, Germany
 - Contact Email: mail@gdi-de.org
@@ -52,8 +51,8 @@ A high-level view on the governance, use and impact of the INSPIRE Directive in 
 <img src="images/GDI-DE_Struktur und Zuständigkeiten.png" alt="GDI-DE_Struktur und Zuständigkeiten" width="800" />
 
 The Spatial Data Infrastructure Germany (GDI-DE) is coordinated jointly by the federal level, the federal states and municipalities. Its central bodies are:
-- the Steering Committee SDI Germany (Lenkungsgremium GDIDE)
-- the Coordination Office SDI Germany (Koordinierungsstelle GDIDE)
+- the Steering Committee SDI Germany (Lenkungsgremium GDI-DE)
+- the Coordination Office SDI Germany (Koordinierungsstelle GDI-DE)
 and
 - the Operation Office SDI Germany (Betrieb GDI-DE), which operates the national technical components of the GDI-DE:
   - spatial data catalogue (Geodatenkatalog.de)
@@ -84,7 +83,7 @@ The integration into „Maintenance and Implementation Framework“ has establis
 
 The cooperation between different administrations has been improved through the creation of a web-based collaboration platform ([GDI-DE Wiki](https://wiki.gdi-de.org/)).
 
-In the context of developing guidance for the implementation of the Implementing Act on High-value Datasets, the Coordination Office and Working Groups have actively contributed to the [FAQ pages for data providers](https://www.govdata.de/web/guest/hochwertige-datensaetze) on the GovData portal.
+In the context of developing guidance for the implementation of the Implementing Act on High-value Datasets, the Coordination Office and Working Groups have actively contributed to the [FAQ pages for data providers](https://www.govdata.de/informationen/hochwertige-datensaetze) on the GovData portal.
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
@@ -124,7 +123,7 @@ Individual, bi- or multi-lateral data sharing agreements are increasingly being 
 
 According to federal laws, environmental (UIG) and particular spatial data (GeoZG) are publicly available and, for federal data, free of charge.
 
-Selected spatial reference data of the federal states are provided (against payment) through a common national access point.
+Selected spatial reference data of the federal states are provided through a common national access point.
 
 The main barrier for data sharing and use are not the existing data sharing arrangements, but rather the INSPIRE data models, some of which are perceived as too simple and some as too complex and not fitting the user requirements, as well as the lack of tools for using INSPIRE data.
 
