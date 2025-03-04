@@ -175,8 +175,7 @@ been regulated only by a technical document –protocol, what means that formal 
 
 - Collaboration between institutions has fostered co-financing of significant data acquisition projects, leading to both data sharing and cost reduction. Examples include:
 
-  - The creation of the Digital Orthophoto, co-financed by the SGA and the Agency for Payments in Agriculture, Fisheries, and Rural Development.
-The Multisensor Aerial Survey of the Republic of Croatia, implemented through joint efforts by multiple institutions.
+  - The creation of the Digital Orthophoto, co-financed by the SGA and the Agency for Payments in Agriculture, Fisheries, and Rural Development, and  the Multisensor Aerial Survey of the Republic of Croatia, implemented through joint efforts by multiple institutions.
 
   - The Agency for Payments in Agriculture, Fisheries, and Rural Development has established agreements with various institutions, such as the Croatian Bureau of Statistics, to improve the quality and efficiency of statistical data related to agriculture and rural development.
   
