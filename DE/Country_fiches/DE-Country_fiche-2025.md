@@ -65,7 +65,7 @@ Cooperation with the private sector is ensured by regular meetings of an advisor
 
 Cooperation with the scientific sector is ensured by participation of GDI-DE in the national research data infrastructure ([NFDI4Earth](https://www.nfdi4earth.de/)).
 
-Scientific representatives are also represented in the Steering Committee SDI Germany as observers.
+Science as well as business association representatives are also represented in the Steering Committee SDI Germany as observers.
 
 On request of the Conference of Environmental Ministers (Umweltministerkonferenz, UMK), a Working Group of the SDI Germany aims to:
 - contribute the view point of the UMK working groups to the further development of the GDI-DE,
