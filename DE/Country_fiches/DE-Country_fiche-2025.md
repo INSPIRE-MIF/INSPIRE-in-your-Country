@@ -87,7 +87,7 @@ In the context of developing guidance for the implementation of the Implementing
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
-INSPIRE is embedded in the National Spatial Data Strategy (NGIS) adopted by the Steering Committee GDI-DE in 2015 and acknowledged as an important addition to the National e-Government Strategy. The strategy shall ensure that spatial information can be effectively used for all spatially relevant decision making processes, including to serve local and national interests. The strategy identifies key principles such as
+INSPIRE is embedded in the National Spatial Data Strategy (NGIS) that has been revised to NGIS 2.0 and adopted by the Steering Committee GDI-DE in 2024 and approved by the IT Planning Council on political level. The strategy shall ensure that spatial information can be effectively used for all spatially relevant decision making processes, including to serve local and national interests. The strategy identifies key principles such as
 1. Supply of high quality basic spatial data,
 2. Foster the multiple use of spatial data and
 3. Promote innovations in spatial data management.
@@ -101,7 +101,7 @@ To facilitate data and service sharing and use, a joint architecture concept has
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
-Both public administrations and the private sector are still not widely using the INSPIRE infrastructure to access and use spatial data, mainly because their public tasks are at the local or regional level. But the importance of a (regional or national) spatial data infrastructure is constantly increasing. More and more processes are based on this kind of data platform.
+Both public administrations and the private sector are still not widely using the INSPIRE infrastructure to access and use spatial data, mainly because their public tasks are at the local or regional level rather than on European level. Nevertheless, the importance of a (regional or national) spatial data infrastructure is constantly increasing. More and more processes are based on this kind of data platform.
 
 The documentation of spatial data sets and services through metadata has however made people more aware of the spatial data available in public administration and has thus improved data sharing and use through conventional methods or OGC services. It has also led to an increase in data being made available in digital form.
 
