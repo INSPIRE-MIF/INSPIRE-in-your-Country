@@ -70,7 +70,7 @@ Lithuanian Spatial Information portal (LSI portal, www.geoportal.lt) is the main
 
 The manager of the LSI portal is Public Enterprise “Construction Sector Development Agency” (hereinafter CSDA). CSDA is responsible for:
 - management of the systems of the LSI portal and ensuring a continuous operation of the services;
-- content administration of the LSI portal (www.geoportal.lt);
+- content administration of the LSI portal;
 - collection, arrangement and management of metadata;
 - development and maintenance of the LSI portal web services;
 - management of data license agreements;
