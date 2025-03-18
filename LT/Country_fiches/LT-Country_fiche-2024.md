@@ -31,20 +31,20 @@ The following paragraphs provide a summary of currently valid information on gov
 #### National Contact Point
 
 - Name of Public Authority:Ministry of Environment of the Republic of Lithuania
-- Postal Address:A. Jakšto g. 4, 01105 Vilnius, Lithuania
-- Contact Email:info@am.lt
+- Postal Address: A. Jakšto g. 4, 01105 Vilnius, Lithuania
+- Contact Email: info@am.lt
 - Telephone Number:+ 370 669 52682
 - Telefax Number:
 - National INSPIRE Website:https://www.inspire-geoportal.lt/geonetwork/srv
 - MIG Contacts: 
   - Contact Person:Aušra Kalantaitė
-  - Email:ausra.kalantaite@am.lt
+  - Email: ausra.kalantaite@am.lt
   - Telephone Number:+370 669 52682
-  - Contact Person:Saulius Urbanas
-  - Email:saulius.urbanas@am.lt
+  - Contact Person: Saulius Urbanas
+  - Email: saulius.urbanas@am.lt
 - MIG T Contacts: 
-  - Contact Person:Aurelija Šturaitė
-  - Email:aurelija.sturaite@ssva.lt
+  - Contact Person: Aurelija Šturaitė
+  - Email: aurelija.sturaite@ssva.lt
   - Contact Person: Inga Andriuškevičiūtė
-  - Email:inga.andriuskeviciute@ssva.lt
-  - Telephone Number:+370 700 15100
+  - Email: inga.andriuskeviciute@ssva.lt
+  - Telephone Number: +370 700 15100
