@@ -55,7 +55,7 @@ The following paragraphs provide a summary of currently valid information on gov
 
 ##### Coordination structure
 
-Since 03-01-2023 the Ministry of the Environment is the designated governmental- authority, responsible for the implementation of the INSPIRE Directive in the Republic of Lithuania (Ministry of Agriculture co-ordinated INSPIRE activities by 03-01-2023.). Ministry of Environment is responsible for the development of SDI measures to ensure operational capacities of metadata, data sets, network services, sharing services for the themes referred in the Annexes of the Directive. It also maintains the link to the INSPIRE portal. 
+Since 03-01-2023 the Ministry of the Environment is the designated governmental authority, responsible for the implementation of the INSPIRE Directive in the Republic of Lithuania (Ministry of Agriculture co-ordinated INSPIRE activities by 03-01-2023.). Ministry of Environment is responsible for the development of SDI measures to ensure operational capacities of metadata, data sets, network services, sharing services for the themes referred in the Annexes of the Directive. It also maintains the link to the INSPIRE portal. 
 
 Ministry of Environment is responsible for:
 - acting as a governmental representative in the INSPIRE Committee;
@@ -68,7 +68,7 @@ The Resolution of Lithuanian Government of 13 October, 2010, No. 1460 and its am
 
 Lithuanian Spatial Information portal (LSI portal, www.geoportal.lt) is the main technological platform  implementing the provisions of the Directive. It provides the single national access point to spatial data and services. It is the primary source of national spatial data and services to the INSPIRE geoportal.
 
-The manager of the LSI portal is Public Enterprise “Construction Sector Development Agency” (hereinafter CSDA). CSDA is responsible for:
+The operating (technical) manager of the LSI portal is Public Enterprise “Construction Sector Development Agency” (hereinafter CSDA). CSDA is responsible for:
 - management of the systems of the LSI portal and ensuring a continuous operation of the services;
 - content administration of the LSI portal;
 - collection, arrangement and management of metadata;
