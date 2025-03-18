@@ -19,12 +19,12 @@ Lithuania has transposed the INSPIRE Directive into national law by adopting ame
 This law defines the Lithuanian spatial information infrastructure. Centralised spatial data sharing tools have been established on the Lithuanian Spatial Information Portal https://www.geoportal.lt/.  The content of the Lithuanian Spatial Information Portal is available in Lithuanian and English.  
 
 The Lithuanian responsible authorities shall ensure the provision of spatial data sets included in the list approved by the Resolution of the Government of the Republic of Lithuania No 1460 of 13 October 2010 "On the approval of the spatial data themes of the Lithuanian Spatial Information Infrastructure" (https://e-tar.lt/portal/lt/legalAct/TAR.63D65F3568A2/asr) as well as of their metadata, to the INSPIRE geoportal of the European Commission (https://inspire-geoportal.ec.europa.eu);
-Lithuania ensures the functioning of the Lithuanian Spatial Information Infrastructure tools and provision of spatial data and services to the INSPIRE geoportal in Lithuania. The national INSPIRE data system is accessible at: https://www.inspire-geoportal.lt/geonetwork/srv/eng/catalog.search#/home
+Lithuania ensures the functioning of the Lithuanian Spatial Information Infrastructure tools and provision of spatial data and services to the INSPIRE geoportal in Lithuania. The national INSPIRE data system is accessible at: https://www.inspire-geoportal.lt/geonetwork/srv/eng/catalog.search#/home.
 
 
 ## State of Play
 
-The following paragraphs provide a summary of currently valid information on governance, use, impacts and progress achieved towards INSPIRE implementation.
+The following paragraphs provide a summary of currently valid information on governance, use, impacts and progress achieved towards INSPIRE implementation in Lithuania.
 
 ### Coordination
 
