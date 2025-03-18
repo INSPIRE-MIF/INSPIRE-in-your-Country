@@ -30,7 +30,7 @@ The following paragraphs provide a summary of currently valid information on gov
 
 #### National Contact Point
 
-- Name of Public Authority:Ministry of Environment of the Republic of Lithuania
+- Name of Public Authority: Ministry of Environment of the Republic of Lithuania
 - Postal Address: A. Jakšto g. 4, 01105 Vilnius, Lithuania
 - Contact Email: info@am.lt
 - Telephone Number:+ 370 669 52682
