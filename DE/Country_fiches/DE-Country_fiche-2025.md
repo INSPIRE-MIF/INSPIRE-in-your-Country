@@ -89,13 +89,13 @@ In the context of developing guidance for the implementation of the Implementing
 
 INSPIRE is embedded in the National Spatial Data Strategy (NGIS) that has been revised to NGIS 2.0 and adopted by the Steering Committee GDI-DE in 2024 and approved by the IT Planning Council on political level. The strategy ensures that geoinformation can be easily used for all spatially relevant decision-making processes, also in order to contribute to overcoming current challenges such as the digital transformation. The strategy sets out the following priorities.
 
-Priority 1: Increase the diversity of the data offered by the GDI-DE
-Priority 2: Improve access to geoinformation
-Priority 3: Improve the provision and quality of geoinformation
-Priority 4: Expand the network
-Priority 5: Strengthen geo-competence
-Priority 6: Improve user orientation as a key principle
-Priority 7: Expand demand orientation
+- Priority 1: Increase the diversity of the data offered by the GDI-DE
+- Priority 2: Improve access to geoinformation
+- Priority 3: Improve the provision and quality of geoinformation
+- Priority 4: Expand the network
+- Priority 5: Strengthen geo-competence
+- Priority 6: Improve user orientation as a key principle
+- Priority 7: Expand demand orientation
 
 The coordination of the infrastructure has been further improved through 
 - intensified discussions with the GI industry, the municipal umbrella associations and Conferences of specialised state ministers;
