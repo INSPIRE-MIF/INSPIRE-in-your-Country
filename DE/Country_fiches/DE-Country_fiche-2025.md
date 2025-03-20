@@ -75,7 +75,7 @@ The chair of Steering Committee SDI Germany meets with representatives of the re
 
 ##### Progress
 
-The structures already established in 2013 have proven to be successful and will be continued based on the administrative arrangement between the federal state (Bund) and the federal states (Laender) for the creation and operation of the GDI-DE.
+The structures already established in 2013 have proven to be successful and will be continued based on the administrative arrangement between the federal state (Bund) and the federal states (Laender) for the further development and operation of the GDI-DE.
 
 In addition, cooperation was intensified by the above mentioned meetings with representatives of the Conferences of specialised state ministers.
 
@@ -87,7 +87,7 @@ In the context of developing guidance for the implementation of the Implementing
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
-INSPIRE is embedded in the National Spatial Data Strategy (NGIS) that has been revised to NGIS 2.0 and adopted by the Steering Committee GDI-DE in 2024 and approved by the IT Planning Council on political level. The strategy ensures that geoinformation can be easily used for all spatially relevant decision-making processes, also in order to contribute to overcoming current challenges such as the digital transformation. The strategy sets out the following priorities.
+INSPIRE is embedded in the National Spatial Data Strategy (NGIS) that has been revised to NGIS 2.0 and adopted by the Steering Committee GDI-DE in 2024 and approved by the IT Planning Council on political level. The strategy ensures that geoinformation can be easily used for all spatially relevant decision-making processes, also in order to contribute to overcoming current challenges such as the digital transformation. The strategy sets out the following priorities:
 
 - Priority 1: Increase the diversity of the data offered by the GDI-DE
 - Priority 2: Improve access to geoinformation
@@ -102,7 +102,7 @@ The coordination of the infrastructure has been further improved through
 - new working groups on SDIs/INSPIRE under the Conferences of specialised state ministers;
 - a growing number of workshops with INSPIRE points of contact.
 
-To facilitate data and service sharing and use, a joint architecture concept has been developed, based on the INSPIRE Directive, Implementing Rules and Technical Guidance documents. National technical components of the GDI-DE include a spatial data catalogue (Geodatenkatalog.de), geoportal (Geoportal.de), registry (GDI-DE Registry), validator (GDI-DE Testsuite) and monitoring tool (GDI-DE Monitor).
+To facilitate data and service sharing and use, a joint architecture concept has been developed, based on the INSPIRE Directive, Implementing Rules and Technical Guidance documents. National technical components of the GDI-DE include a spatial data catalogue (Geodatenkatalog.de), geoportal (Geoportal.de), registry (GDI-DE Registry), validation tool (GDI-DE Testsuite) and monitoring tool (GDI-DE Monitor).
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
@@ -126,7 +126,7 @@ Data sets provided in legacy data models via INSPIRE compliant network services 
 
 Individual, bi- or multi-lateral data sharing agreements are increasingly being replaced by generic, legally based conditions for the access to public sector data. This is reflected in an increasing number of legislation on e-Government, Open Data and transparency.
 
-In accordance with federal legislation, environmental data (UIG) and special geodata (GeoZG) have been publicly accessible and free of charge for federal data for several years now. The implementation of the HVD Implementation Ordinance means that high-value data from the federal states can now also be accessed online free of charge. 
+In accordance with federal legislation, environmental data (UIG) and spatial geodata (GeoZG) have been publicly accessible and free of charge for federal data for several years now. The implementation of the Implementing Act on High-value Datasets means that high-value data from the federal states can now also be accessed online free of charge. 
 
 Selected spatial reference data of the federal states are provided through a common national access point.
 
