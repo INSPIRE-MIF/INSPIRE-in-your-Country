@@ -1,4 +1,4 @@
-#_ES-code_ - _2024_: Country Fiche
+#_ES-code_ - _2025_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -15,7 +15,7 @@
 The INSPIRE Directive sets the minimum conditions for interoperable sharing and exchange of spatial data across Europe as part of a larger European Interoperability Framework and the e-Government Action Plan that contributes to the Digital Single Market Agenda. Article 21 of INSPIRE Directive defines the basic principles for monitoring and reporting. More detailed implementing rules regarding INSPIRE monitoring and reporting have been
 adopted as [Commission Implementing Decision (EU) 2019/1372](https://eur-lex.europa.eu/eli/dec_impl/2019/1372/oj) on the 19th August 2019
 
-This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring 2023](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=es) acquired in December 2023 and Member States update.
+This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring 2024](https://inspire-geoportal.ec.europa.eu/mr/mr2024.html) acquired in December 2024 and Member States update.
 
 ## State of Play
 
@@ -39,6 +39,7 @@ All of them are published through view and download services.
 
 [**Spanish SDI paltform**](https://plataforma.idee.es/en/inicio) is meeting point for developers in the geospatial community, where different initiatives are brought together and their reuse is
 made easier:
+- [Citizen map](https://ideespain.github.io/mapabase/): Collaborative project to create a national vector tile service with all official spatial data at national, regional and local level. the technology used is the vector tiles service and the licence is CC BY 4.0.
 - Application Programming Interfaces (viewer):
    - [API SITNA](https://plataforma.idee.es/en/sitna-api) of Navarre Government
    - [API CNIG](https://plataforma.idee.es/en/cnig-api) of National Centre for Geographic Information.
@@ -184,25 +185,28 @@ All datasets (100 %) are available for re-use under the conditions of the Creati
 
 Those HVDs with **national scope** are accessible through their metadata in the [Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home).
 
-|HVDs accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (datasets)| 2023 (datasets)|
-| ------------- | ------------- | ------------- |
-| Geospatial  | 29  | 32: 5 of [AU](https://inspire.ec.europa.eu/theme/au), 7 of [GN](https://inspire.ec.europa.eu/theme/gn), 7 of [AD](https://inspire.ec.europa.eu/theme/ad), 6 of [BU](https://inspire.ec.europa.eu/theme/bu), 5 of [CP](https://inspire.ec.europa.eu/theme/cp), 2 of [GSAA](https://inspire.ec.europa.eu/metadata-codelist/IACSData/gsaa:1), [LPIS](https://inspire.ec.europa.eu/metadata-codelist/IACSData/lpis) |
-| Earth Observation and enviroment  | 184  | 253  |
-| Mobility  | 3  | 3 of [TN](https://inspire.ec.europa.eu/theme/tn) |
+|HVDs accessible in the [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home) catalogue  | 2022 (HVD)| 2023 (HVD)|2024 (HVD)|
+| ------------- | ------------- | ------------- |------------- |
+| Geospatial  | 29  | 32: 5 of [AU](https://inspire.ec.europa.eu/theme/au), 7 of [GN](https://inspire.ec.europa.eu/theme/gn), 7 of [AD](https://inspire.ec.europa.eu/theme/ad), 6 of [BU](https://inspire.ec.europa.eu/theme/bu), 5 of [CP](https://inspire.ec.europa.eu/theme/cp), 2 of [GSAA](https://inspire.ec.europa.eu/metadata-codelist/IACSData/gsaa:1), [LPIS](https://inspire.ec.europa.eu/metadata-codelist/IACSData/lpis) |32: 6 of [AU](https://inspire.ec.europa.eu/theme/au), 5 of [GN](https://inspire.ec.europa.eu/theme/gn), 6 of [AD](https://inspire.ec.europa.eu/theme/ad), 6 of [BU](https://inspire.ec.europa.eu/theme/bu), 5 of [CP](https://inspire.ec.europa.eu/theme/cp), 3 of [GSAA](https://inspire.ec.europa.eu/metadata-codelist/IACSData/gsaa:1), [LPIS](https://inspire.ec.europa.eu/metadata-codelist/IACSData/lpis) |
+| Earth Observation  | 30  | 40  | 47  |
+| Enviroment  | 154  | 213  | 269  |
+| Mobility  | 3  | 3 of [TN](https://inspire.ec.europa.eu/theme/tn) |3 of [TN](https://inspire.ec.europa.eu/theme/tn) |
 
-**Spanish HVD's** are published in [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), geoportal INSPIRE and European Data Portal in 2023:
+**358 Spanish HVD's** are published in [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home), [geoportal INSPIRE](https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/hvdshome) and [European Data Portal](https://data.europa.eu/data/datasets?locale=en&catalog=codsi&page=1&is_hvd=true) in 2024.
+
+![Spanish HVD on EDP](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/EDP_HVD.png)
 
 **Spain’s recovery and resilience plan**
 Procurement for the modernisation of the Spatial Data Infrastructure for Spain (IDEE) through the Recovery, Transformation and Resilience Plan with an estimated budget of 11 052 000 € for the next 4 years (2021-2024). The contracts cover the following topics:
 - Technological platform on the cloud.
 - Adaptation of the IDEE to the new technological specifications such as the implementation and configuration of new network services compliant with INSPIRE Directive based on the API-OGC and development of client applications for their exploitation. (Examples of Spanish SDI OGC API [here](https://api-features.idee.es/))
 - Postal address service web management system: Working on the creation of national geocoder service to publish official addresses that will be the result of the harmonization and integration of official addresses the main suppliers of information about addresses at national, regional and local government organizations. In this project involves Directorate General for Cadastre, Basque Government, Government of Navarre and another regions like Valencia, Madrid, Andalucía... All of them are supported with the Postal Codes provided by the Post Office Group, names of streets of National Statistics Institute together with the official settlements of National Geographic Institute (IGN).
-- Development of a national vector tile service: Creation of [**official base map multiscale**](https://ideespain.github.io/mapabase/) from official sources national, regional and local sources. Its technology is based on vector tile services.
+- Development of a national vector tile service: Creation of official base map multiscale, [**Citizen Map**](https://ideespain.github.io/mapabase/), from official sources national, regional and local sources. Its technology is based on vector tile services.
 - Maintenance of national catalogues, validation of metadata and publication on the open data portal.
 
-Strengthening the work carried out between the Cadastre and the Land Registry. The Spanish Law 13/2015 implements an effective coordination of transactions executed by Cadastre and the Property Rights Registry. These institutions are two separate organizations with differentiated mandates and competences, both working in the domain of land administration. The Cadastre, registries and notaries have worked together to design a technologically advanced model of institutional interaction for this coordination purpose based in the INSPIRE GML of the Cadastral Parcel and the position of the Building.
+Strengthening the work carried out between the [D.G. Cadastre](https://www.sedecatastro.gob.es/) and the [Land Registry](https://sede.registradores.org/contenido/buyingahouse/). The Spanish Law 13/2015 implements an effective coordination of transactions executed by Cadastre and the Property Rights Registry. These institutions are two separate organizations with differentiated mandates and competences, both working in the domain of land administration. The Cadastre, registries and notaries have worked together to design a technologically advanced model of institutional interaction for this coordination purpose based in the INSPIRE GML of the Cadastral Parcel and the position of the Building.
 
-[**Navarra Territorial Information System (SITNA)**](https://geoportal.navarra.es/es/) has developed a [**Strategic Plan 2020-2023**](https://gobiernoabierto.navarra.es/es/gobernanza/planes-y-programas-accion-gobierno/plan-estrategico-del-sistema-informacion-territorial-2020-2023) manages the official geographic information for the Government of Navarra. Activities include: Maintenance and management of the geographic database and its metadata, mechanisms for updating information and integrating systems, developing desktop applications for different user profiles (consultation, analysis, fieldwork), development and maintenance of the Navarra Geoportal: including development of necessary applications and services to operate this website, exploitation of the system’s information, dissemination and participation in national and international events, participation in SITNA coordination bodies. Now, Navarre are working on the new Strategic [**Plan 2024-2028**](https://participa.navarra.es/processes/plan-sitna-2024-2028).
+[**Navarra Territorial Information System (SITNA)**](https://geoportal.navarra.es/es/) had a [**Strategic Plan 2020-2023**](https://gobiernoabierto.navarra.es/es/gobernanza/planes-y-programas-accion-gobierno/plan-estrategico-del-sistema-informacion-territorial-2020-2023) And the new Strategic is [**Plan 2024-2028**](https://gobiernoabierto.navarra.es/es/gobernanza/planes-y-programas-accion-gobierno/plan-estrategico-sitna-2024-2028)) where manages the official geographic information of the Government of Navarre, including compliance with INSPIRE and LISIGE requirements in terms of metadata, data and services.
 
 [**Geospatially Enabled Ecosystem for Europe (GeoE3)**]((https://geoe3.eu/)): 
 [National Cartographic System (SCN)](https://www.scne.es/) of Spain co-operated with Estonia, Netherlands, Norway, Finalnd and [OGC](https://www.ogc.org/) in the project co-financed by the Connecting Europe Facility of the European Union, [GeoE3 project](https://geoe3.eu/), since 2020 until 2024, providing a connection between existing and emerging national, regional and cross-border digital services. It provided a dynamic integration of high-value data sets and services (e.g. meteorological or statistical data) with geospatial features from existing national geospatial data platforms (e.g. building data or road network data).
@@ -213,16 +217,16 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
 
 [**Emergency Registry Portal (PRE)**](https://geoportal.registradores.org/emergency) of the [Land Registry Office (CORPME)](https://sede.registradores.org/contenido/buyingahouse/) provides access to the land registers that enable the land registry properties to be located on the territory. 
 
-**Conferences, meetings and workshops in 2023**
-- [**XIII Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE23/presentacionesJIDEE2023.pdf) 2023 was held in Évora (Portugal) from 6 to 8 november under the slogan _"Contributions of spatial data infrastructures to high-value datasets”_ with a participation of 300 attendees mainly from Spain, Portugal and Andorra.
-- [**Free GIS conferences 2023**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
-- Holding of two [Working Group for the NSDI (GTIDEE)](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as OGC APIs or company activities are disseminated (the number of attendees per meeting is around 140).
-  - [May meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual18052023/20230518_GTIDEE-virtual.pdf)
-  - [December meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual12122023/20231212_GTIDEE-virtual.pdf)
-- Meetings of thematic groups such as the Biodiversity Bank or FEGA.
+**Conferences, meetings and workshops in 2024**
+- [**XIV Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE24-IIIgeoEuskadi/presentaciones_JIIDE2024-IIIgeoEuskadi.pdf) 2024 was held in Vitoria (Basque Country) from 13 to 15 november under the slogan _"The value of geospatial data”_ with a participation of 300 attendees mainly from Spain, Portugal and Andorra. There were 96 papers and 9 workshops, distributed in 24 sessions, in addition to the two round tables and the invited lectures.
+- [**Free GIS conferences 2024**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
+- Holding of two [**Working Group for the NSDI (GTIDEE)**](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as OGC APIs or company activities are disseminated (the number of attendees per meeting is around 140).
+  - [30 of May meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual_30052024/30052024_GTIDEE-virtual.pdf)
+  - [18 of December meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual_18122024/18122024_GTIDEE-virtual.pdf)
+- Meetings of thematic groups such as the Biodiversity Bank.
 
 **Training:**
-- [On line courses on Spatial Insfrascture Data](https://cursos.cnig.es/) since 2005 to the general public. One or two courses are given each year.
+- [On line courses on Spatial Insfrascture Data](https://cursos.cnig.es/) since 2005 to the general public. One or two courses are given each year. One or two courses are given each year and since 2005 more than 3.000 students have been trained.
 - Specific on line courses on OGC services, metadata, open data, etc. for public administration.
 - Translation into Spanish and dissemination of the on line course on OGC API. The course is called [Location Innovation Academy](https://academy.ogc.org/) and has been developed within the [GeoE3](https://geoe3.eu/) project.
 
@@ -236,7 +240,7 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
   - [Spanish Registry](https://registro.idee.es/registry) based on [Re3gistry](https://ec.europa.eu/isa2/solutions/re3gistry_en/).
 - Much more OGC services are available but not all are INSPIRE compliant services and SDI Navarre, SDI Catalonia and National Cartographic System services publish their spatial data via OGC APIs
 - The list of key spatial data sets required for other environmental policies is already identified.
-- Big effort on training, seminars, events at regional and local levels; [twitter @IDEESpain](https://twitter.com/ideespain?lang=es) with 3340 followers, electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with an average of 150 articles per year.
+- Big effort on training, seminars, events at regional and local levels; [twitter @IDEESpain](https://twitter.com/ideespain?lang=es) with 3.491 followers, electronic monthly bulletin [“SobreIDEs”](http://www.idee.es/boletin-sobre-ides) and Spanish SDI Blog ["Blog IDEE"](https://blog-idee.blogspot.com/) with an average of 150 articles per year.
   
 - Thematic Working Groups (GTT), was asked to produce Guides about how to make compliant with INSPIRE the identified datasets and the already implemented view and download services. These Thematic Working Groups (GTT) have translated INSPIRE Technical Guidelines (Data Specifications) and have adapted to the case of Spain. These technical documents are available here.
 
@@ -260,39 +264,40 @@ The CODIIGE monitors that INSPIRE HVDs comply with the conditions set out in the
 
 Resources are published through the following **national catalogues**:
 
-|National Catalogues (resources)| 2019 | 2020 | 2021 | 2022 | 2023 | Comment|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|[Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)|10500|11461|13120|14155|43387|Catalogue connected to each of the national, regional and local SDI node catalogues.|
-|[Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)|457|527|543|566|665|Catalogue prepared for the harvesting of the European Commission on the 15 th of December each year. (Contains the priority datasets)| 
-|[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|522 of out 80.760|Promoting the openig of public and development advanced services based on data.|
-|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) catalogues|84|91|92|75|194|Publish priority dataset| 
-|[Geological and Mining Institute](http://catalogo.igme.es/geonetwork/srv/spa/catalog.search#/home)|-|-|1200|1300|1379|Geological datasets|
-|[Spanish Institute of Oceanography](http://datos.ieo.es/geonetwork/srv/spa/catalog.search#/home)|-|-|-|5300|6350|Ocenography datasets|
-|[Marine Hydrographic Institute](https://ideihm.covam.es/catalogo/srv/spa/catalog.search#/home)|-|-|-|112|131|Ocenography datasets|
+|National Catalogues (resources)| 2019 | 2020 | 2021 | 2022 | 2023 |2024 | Comment|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+|[Spanish SDI Catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search)|10500|11461|13120|14155|43387|43753|Catalogue connected to each of the national, regional and local SDI node catalogues.|
+|[Official Catalogue of Inspire Data and Services (CODSI)](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home)|457|527|543|566|665|789|Catalogue prepared for the harvesting of the European Commission on the 15 th of December each year. (Contains the priority datasets)| 
+|[Spanish Open Data](https://datos.gob.es/en)|-|-|543 of out 58.000|543 of out 68.492|522 of out 80.760|522 of out 92.286|Promoting the openig of public and development advanced services based on data.|
+|[Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) catalogues|84|91|92|75|194|195 (2025: 289 Publish priority dataset and HVD |Publish priority dataset| 
+|[Geological and Mining Institute](http://catalogo.igme.es/geonetwork/srv/spa/catalog.search#/home)|-|-|1200|1300|1379|1378|Geological datasets|
+|[Spanish Institute of Oceanography](http://datos.ieo.es/geonetwork/srv/spa/catalog.search#/home)|-|-|-|5300|6350|6364|Oceanographic geographical features|
+|[Marine Hydrographic Institute](https://ideihm.covam.es/catalogo/srv/spa/catalog.search#/home)|-|-|-|112|131|131|Elevation, Oceanographic geographical features, Sea regions, Admisnitrative Units, etc.|
+|[Administrator of Railway Infrastructures (ADIF)](https://ideadif.adif.es/catalog/srv/spa/catalog.search#/home)|6|6|6|6|6|6|Railway Transport Network datasets|
 
 Note: All of them (resources) have an open license and and most of the datasets have the Creative Commons BY 4.0 licence, or any equivalent or less restrictive open licence.
 
 Resources are published through the following **regional catalogues**:
 
-| Regional Catalogues (resources) | 2022| 2023|
-| ------------- | ------------- |------------- |
-| [Andalusia SDI](https://www.ideandalucia.es/catalogo/inspire/srv/spa/catalog.search)| 5.610  |5.704 |
-| [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16.725|16.867|
-| [Balearic Islands SDI](http://ideib.caib.es/cataleg/srv/cat/catalog.search;jsessionid=86CD5730D78A433AD00F24A43B556CB0#/home)|208|215|
-| [Canary SDI](https://catalogo.idecanarias.es/geonetwork/srv/spa/catalog.search#/home)| 505|535|
-| [Cantabria SDI](https://mapas.cantabria.es/) | 150|201|
-| [Castile and Leon SDI](https://idecyl.jcyl.es/geonetwork/srv/spa/catalog.search#/home)|128|137|
-| [Castile–La Mancha SDI](https://castillalamancha.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=fb6f01f75c6a4dd194c55c0c19d94b7d)| 154  |24|
-| [Catalonia SDI](https://ide.cat/geonetwork/srv/spa/catalog.search#/home)|4.377|5.312|
-| [Regional Community of Navarra SDI](https://idena.navarra.es/catalogo/gn/srv/eng/search)|1.597|1.675|
-| [Valencian Community SDI](https://geocataleg.gva.es/#/?lang=spa)| 1.124|1.159|
-| [Extremadura SDI](http://ideextremadura.com/geonetwork/srv/spa/home)|309|583|
-| [Galicia Community SDI](https://xeocatalogo.xunta.gal/xeocatalogo/srv/glg/catalog.search#/home)|430|367|
-| [La Rioja Community SDI](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/search?resultType=details&sortBy=relevance&_cat=Regional%20-%20Rioja,%20La&from=1&to=20) |700|179|
-| [Basque Country SDI](https://www.geo.euskadi.eus/webgeo00-catalog/es/)|232|233|
-| [Madrid SDI](https://idem.comunidad.madrid/catalogocartografia/srv/spa/catalog.search;jsessionid=265E3C9FFA5843088A6EA7519741C23D.p13423306#/home)|135|240|
-| [Murcia SDI](https://mapas-gis-inter.carm.es/geonetwork/srv/spa/catalog.search#/home)|225|227|
-| [Principality of Asturias SDI](https://ideas.asturias.es/catalogo-de-metadatos) |109|119|
+| Regional Catalogues (resources) | 2022| 2023| 2024|
+| ------------- | ------------- |------------- |------------- |
+| [Andalusia SDI](https://www.ideandalucia.es/catalogo/inspire/srv/spa/catalog.search)| 5.610  |5.704 |5.722 |
+| [Aragón SDI](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search#/home)  |16.725|16.867|16.847|
+| [Balearic Islands SDI](http://ideib.caib.es/cataleg/srv/cat/catalog.search;jsessionid=86CD5730D78A433AD00F24A43B556CB0#/home)|208|215|219|
+| [Canary SDI](https://catalogo.idecanarias.es/geonetwork/srv/spa/catalog.search#/home)| 505|535|333|
+| [Cantabria SDI](https://mapas.cantabria.es/) | 150|201|201|
+| [Castile and Leon SDI](https://idecyl.jcyl.es/geonetwork/srv/spa/catalog.search#/home)|128|137|162|
+| [Castile–La Mancha SDI](https://castillalamancha.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=fb6f01f75c6a4dd194c55c0c19d94b7d)| 154  | 24| 75|
+| [Catalonia SDI](https://ide.cat/geonetwork/srv/spa/catalog.search#/home)|4.377|5.312|5.103|
+| [Regional Community of Navarra SDI](https://idena.navarra.es/catalogo/gn/srv/eng/search)|1.597|1.675|1.827|
+| [Valencian Community SDI](https://geocataleg.gva.es/#/?lang=spa)| 1.124|1.159|1.154|
+| [Extremadura SDI](http://ideextremadura.com/geonetwork/srv/spa/home)|309|308|308|
+| [Galicia Community SDI](https://xeocatalogo.xunta.gal/xeocatalogo/srv/glg/catalog.search#/home)|430|367|369|
+| [La Rioja Community SDI](https://codsi.larioja.org/srv/spa/catalog.search;jsessionid=14842AC364D9F02060B05A4A37E925CD#/home) |160|179|186|
+| [Basque Country SDI](https://www.geo.euskadi.eus/webgeo00-catalog/es/)|232|233|247|
+| [Madrid SDI](https://idem.comunidad.madrid/catalogocartografia/srv/spa/catalog.search;jsessionid=265E3C9FFA5843088A6EA7519741C23D.p13423306#/home)|135|240|247|
+| [Murcia SDI](https://mapas-gis-inter.carm.es/geonetwork/srv/spa/catalog.search#/home)|225|227|230|
+| [Principality of Asturias SDI](https://ideas.asturias.es/catalogo-de-metadatos) |109|119|133|
 
 Note: _[On this website](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/catalogue) you can consult all the catalogues of the other Spanish SDI nodes._
 
@@ -303,76 +308,77 @@ INSPIRE services are increasingly used and included in the production processes 
 [National Cartographic System (SCN)](https://www.scne.es/productos.php)
 Statistics on the publication of the spatial data of the National Cartographic System that coordinates the production of data through the National Cartographic Plan by means of the participation of the national and Autonomous Community bodies.
 
-|Total number of requests|View service type|2019|2020 |2021 |2022 |2023 |
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |
-| **PNOA<sup>1</sup> ([OI](https://inspire.ec.europa.eu/theme/oi))**| WMTS/WMS/TMS|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.503.649|
-|**Base map ([TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [BU](https://inspire.ec.europa.eu/theme/bu), [AU](https://inspire.ec.europa.eu/theme/au), [GN](https://inspire.ec.europa.eu/theme/gn), [AD](https://inspire.ec.europa.eu/theme/ad), [EL](https://inspire.ec.europa.eu/theme/el), [LU](https://inspire.ec.europa.eu/theme/lu), [LC](https://inspire.ec.europa.eu/theme/lc))**  | WMTS/WMS/TMS |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|
-|**SIOSE<sup>2</sup>/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS  |7.477.839| 8.000.000 |8.500.000 | 9.122.177| 14.173.783|
-|**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WMTS/WMS/TMS  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 225.006.331|
+**Some View Services** INSPIRE themes of SCNE:
+
+|Total number of requests|View service type|2019|2020 |2021 |2022 |2023 |2024 |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |
+| **Orthoimagery (PNOA)<sup>1</sup> ([OI](https://inspire.ec.europa.eu/theme/oi))**| WMTS/WMS/TMS/API Maps|5.403.392.858|6.774.617.706|8.264.793.443  | 8.319.996.970| 18.860.565.485| 15.516.322.873|
+|**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WMTS/WMS/TMS/API Maps  |12.988.711| 5.734.919 |6.183.504 |25.675.023| 192.095.781|220.903.818|
+|**Administrative units [AU](https://inspire.ec.europa.eu/theme/au)**| WMTS/WMS/TMS/API Maps  |109.179.792| 11.226.120 |157.658.306 | 601.384.827| 4.729.267.794 | 4.129.679.026 |
+|**Transport networks [TN](https://inspire.ec.europa.eu/theme/tn)**| WMTS/WMS/TMS/API Maps  |-| - |- | -| 16.368.395 | 13.382.680 |
+|**Hydrography [HY](https://inspire.ec.europa.eu/theme/hy)**| WMTS/WMS/TMS/API Maps |-|- |- | - | 10.677.031 | 10.718.472 |
+|**Geographical names [GN](https://inspire.ec.europa.eu/theme/gn)**| WMTS/WMS/TMS/API Maps |- | - | - | -| 3.721.964 | 6.242.258 |
+|**Addresses <sup>2</sup> [AD](https://inspire.ec.europa.eu/theme/ad)**| WMTS/WMS/TMS/API Maps |- | - | - | - | 8.828.827  | 11.641.588 |
+|**SIOSE<sup>3</sup>/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WMTS/WMS/TMS/API Maps | 7.477.839 | 8.000.000 | 8.500.000 | 9.122.177| 14.173.783| 11.184.375|
+|**Base map ([TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [BU](https://inspire.ec.europa.eu/theme/bu), [AU](https://inspire.ec.europa.eu/theme/au), [GN](https://inspire.ec.europa.eu/theme/gn), [AD](https://inspire.ec.europa.eu/theme/ad), [EL](https://inspire.ec.europa.eu/theme/el), [LU](https://inspire.ec.europa.eu/theme/lu), [LC](https://inspire.ec.europa.eu/theme/lc))** | WMTS/WMS/TMS/API Maps |4.700.082.351|6.149.213.927|7.224.409.758 |9.286.960.084 |27.810.517.087|22.670.876.009|
 
 Notes:
-- (1) _[PNOA](https://pnoa.ign.es/) is Spanish National Orthophoto Program_
+- (1) _[PNOA](https://pnoa.ign.es/) is Spanish National Orthophoto Program._
+- (2) _The official addresses of the DG of Cadastre, Navarre and the Basque Country are not included._
+- (3) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain._
+
+**Some Download Services** INSPIRE themes of SCNE:
+
+|Total number of some requests|Download service type|2022 |2023 | 2024 |
+| ------------- | ------------- |------------- | ------------- | ------------- |
+|**Administrative units [AU](https://inspire.ec.europa.eu/theme/au)**  | WFS/OGC API Feature |368.380 |202.398| 191.452|
+|**Geographical names [GN](https://inspire.ec.europa.eu/theme/gn)**| WFS/OGC API Feature |140.126 | 126.140 | 126.086 |
+|**Addresses <sup>1</sup> [AD](https://inspire.ec.europa.eu/theme/ad)**  | WFS/OGC API Feature | 15.266.130 |15.128.079| 83.697.550|
+|**Transport networks [TN](https://inspire.ec.europa.eu/theme/tn)**| WFS |285.215 | 425.973 | 348.265 |
+|**Hydrography [HY](https://inspire.ec.europa.eu/theme/hy)**| WFS/OGC API Feature |597.500 | 1.410.957 | 888.243 |
+|**SIOSE<sup>2</sup>/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WFS/OGC API Feature |569.396 | 528.434| 284.317| 
+|**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WCS/OGC API Feature |61.354.665 |119.815.518|97.331.457|
+
+Notes:
+- _OGC API Feature are only since 2023_
+- (1) _The official addresses of the DG of Cadastre, Navarre and the Basque Country are not included._
 - (2) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
-
-The most **viewed** INSPIRE themes in 2023 are:
-
-| INSPIRE Theme  | Request (WMS/WMTS/TMS) |
-| ------------- | ------------- |
-|[TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [BU](https://inspire.ec.europa.eu/theme/bu), [AU](https://inspire.ec.europa.eu/theme/au), [GN](https://inspire.ec.europa.eu/theme/gn), [AD](https://inspire.ec.europa.eu/theme/ad), [EL](https://inspire.ec.europa.eu/theme/el) | 27.810.544.087  |
-|[OI](https://inspire.ec.europa.eu/theme/oi)  | 18.860.503.649  |
-|[EL](https://inspire.ec.europa.eu/theme/el)  | 225.006.331  |
-|[AU](https://inspire.ec.europa.eu/theme/au)  | 208.028.175  |
-|[TN](https://inspire.ec.europa.eu/theme/tn)  | 16.368.395 |
-|[LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu)  | 14.173.783  |
-|[HY](https://inspire.ec.europa.eu/theme/hy)  | 10.677.031  |
-|[GN](https://inspire.ec.europa.eu/theme/gn)  | 3.721.964  |
-
-The most **downloaded** INSPIRE themes in 2023 are:
-
-|Total number of some requests|Download service type|2022 |2023 |
-| ------------- | ------------- |------------- | ------------- |
-|**[AU](https://inspire.ec.europa.eu/theme/au)**  | WFS/OGC API |2.051.919.054/-|4.521.442.017/-|
-|**SIOSE<sup>1</sup>/CORINE ([LC](https://inspire.ec.europa.eu/theme/lc)/[LU](https://inspire.ec.europa.eu/theme/lu))**| WFS/OGC API |569.396/-| 459.461/68.973| 
-|**DTM 5m/25m ([EL](https://inspire.ec.europa.eu/theme/el))**| WCS/OGC API  |61.354.665/-|119.815.518/1.466|
-|**[HY](https://inspire.ec.europa.eu/theme/hy)**| WCS/OGC API  |597.500/-|675.057/735.900|
-
-Notes:
-- _OGC API Feature are only for 2023_
-- (1) _[SIOSE](https://www.siose.es/web/guest/presentacion) is Land Cover Information System of Spain_
 
 [**National Geographic Institute (IGN)**](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign)
 
-| Total number of requests|2019|2020|2021|2022|2023|
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| 34 WMS| 386.792.657|1.086.603.543| 1.190.443.472|1.908.622.017|1.785.732.056|
-| 13 WMTS| 14.033.236.624|17.898.104.072| 16.642.860.898|6.733.287.150|5.800.622.917|
-| 7 TMS| -|-| 5.339.072.517|18.780.864.538|47.429.155.710|
-| 7 WFS| 31.010.430|41.859.494|19.589.574|10.453.976|4.668.732|
-| 3 WCS| -|-|-|61.440.535|119.985.582|
-| OGC API| -|-|-|-|1.042.550|
+| Total number of requests|2019|2020|2021|2022|2023|2024|
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
+| 34 WMS| 386.792.657|1.086.603.543| 1.190.443.472|1.908.622.017|1.785.732.056|2.036.001.208|
+| 13 WMTS| 14.033.236.624|17.898.104.072| 16.642.860.898|6.733.287.150|5.800.622.917|5.485.684.594|
+| 7 TMS| -|-| 5.339.072.517|18.780.864.538|47.429.155.710|38.252.525.937 |
+| 7 WFS| 31.010.430|41.859.494|19.589.574|10.453.976|4.668.732|4.444.811 |
+| 3 WCS| -|-|-|61.440.535|119.985.582|97.427.825|
+| 7 OGC API Feature| -|-|-|-|840.456|248.752 |
+| 9 OGC API Maps| -|-|-|-|66.977|386.005.682 |
+| 1 Geocoder| -|-|-|-|12.383.610 |80.887.939 |
 
 [**Ministry for the Ecological Transition and the Demographic Challenge (MITECO)**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) and [**Ministry of Agriculture, Fisheries and Food (MAPA)**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/)
 
 Figures of **priority data sets** and **HVD** services:
 
-| Total number of requests|2021|2022|2023|
-| ------------- | ------------- |------------- | ------------- |
-| All WMS| 150.449.599|112.104.591|166.912.796|
-| All WMTS| 38.262.839|34.003.746|27.799.441|
-| All WFS| 579.592|447.999|52.415|
-| 1 CSW| 282.782|346.393|352.279|
-| Total| 189.574.812|146.904.751|195.118.954|
+| Total number of requests|2021|2022|2023|2024|
+| ------------- | ------------- |------------- | ------------- |------------- |
+| All WMS| 150.449.599|112.104.591|166.912.796|241.106.385 |
+| All WMTS| 38.262.839|34.003.746|27.799.441|99.456.638 |
+| All WFS| 579.592|447.999|52.415|24.022 |
+| 1 CSW| 282.782|346.393|352.279|378.993 |
+| Total| 189.574.812|146.904.751|195.118.954|340.966.038 |
 
 [**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es/en/fega/mission-vision-organisational-chart).
 FEGA is an independent body under the [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/), whose main mission is to ensure that the EAGF (European Agricultural Guarantee Fund) funds and EAFRD (Agricultural Fund for Rural Development) of the Common Agricultural Policy (CAP) assigned to Spain are strictly applied in order to achieve this policy's objective, efficiently reaching the beneficiaries that comply with the requirements established for its concession, within the deadlines indicated in the regulations, promoting a homogeneous application of the CAP subsidies across the entire State, preventing fraud and minimising the risks of financial corrections arising from the incorrect management of these Funds.
 
 Figures of **Agricultural parcels data sets**:
 
-| Total number of requests|2023|
-| ------------- | ------------- |
-|[Visits to the viewer](https://sigpac.mapa.gob.es/fega/visor/)| 5 million users|
-|Number of files downloaded| 593.118 files SHP and GPKG |
-|Number of GB downloaded| 2.628,71 GB |
+| Total number of requests|2023|2024|
+| ------------- | ------------- |------------- |
+|[Visits to the viewer](https://sigpac.mapa.gob.es/fega/visor/)| 5 million users|9 million users |
+|Number of files downloaded| 593.118 files SHP and GPKG |1.223.600 files SHP and GPKG |
+|Number of GB downloaded| 2.628,71 GB |3.526,26 GB |
 
 [**General Directorate for Cadastre**](https://www.catastro.meh.es/) is responsible for the formation and maintenance of the Real Estate Cadastre as well as the dissemination of cadastral information (Addresses, Buildings, Cadastral parcels data sets).
 
@@ -380,12 +386,12 @@ Figures of **Agricultural parcels data sets**:
 
 Figures of **Addresses, Buildings, Cadastral parcels data sets**:
 
-| Total number of requests|2023|
-| ------------- | ------------- |
-|[Visits to the viewer ([Land Registry Office](https://www.sedecatastro.gob.es/))](https://www.sedecatastro.gob.es)| 6.168.647.743|
-|WMS| 461.984.297 |
-|WFS| 6.927.886 |
-|Gazeteer (addresses)| 336.086.612 |
+| Total number of requests|2023|2024|
+| ------------- | ------------- |------------- |
+|Visits to [Land Registry Office](https://www.sedecatastro.gob.es/) viewer| 6.168.647.743|8.281.221.400 |
+|WMS| 461.984.297 |475.072.323 |
+|WFS| 6.927.886 |6.749.066 |
+|Nº of enquiries |- |238.742.140 |
 
 At the regional level, we highlight the Basque Government, Aragon, Extremadura, Asturias and La Rioja.
 
@@ -426,40 +432,49 @@ New SDI geoportal with 7 WMS, 8 WMTS and 3 WFS: www.bizkaia.eus/geobizkaia (5,56
 
 [**Aragón Government (ICEARAGON)**](https://idearagon.aragon.es/portal/): Spatial Knowledge Infrastructure of Aragon (ICEARAGON) is a technological solution developed by the Geographic Institute of Aragón (IGEAR). IGEAR is a dependent service of the Directorate General of Territory Planning of the Aragón Government. IGEAR is dedicated to manage the production, obtain and treatment of the territorial documentation, as well as the diffusion of territory planning information. At the beginning ICEARAGON was called IDEAragon.
 
-|Total number of requests|2020|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |------------- |
-|WMS/WFS (WMTS in 2022)|18.132.970|19.433.170|20.003.306|50.008.265|
-|CSW/WCS|928.669|824.119|951.563|2.380.393|
-|GB download (WMS, WFS)|9.027,42|8.174,67|18.148,23|4.988.400,2|
-|Features download (GML)|2.557|1.872|1.606|2.440|
-|Resources [(Catalogue)](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search)|-|-|16724|16867|
+|Total number of requests|2020|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
+|WMS/WFS (WMTS in 2022)|18.132.970|19.433.170|20.003.306|50.008.265|70.011.571 |
+|CSW/WCS|928.669|824.119|951.563|2.380.393|3.594.393 |
+|GB download (WMS, WFS)|9.027,42|8.174,67|18.148,23|4.988.400,2|5.242.928,4 |
+|Features download (GML)|2.557|1.872|1.606|2.440|3.868 |
+|Resources [(Catalogue)](https://icearagon.aragon.es/geonetwork/srv/spa/catalog.search)|-|-|16.724|16.867|16.866 |
 
 The SDI of Aragon is working to include the knowledge graph in the geographic information search clients. Example [here](https://icearagon.aragon.es/Buscador/inicio).
 
 [**SDI Extremadura (IDEEX)**](http://www.ideextremadura.com/Geoportal/)
 
-|Total number of requests|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |
-|WMS|136.903.721|175.640.326|147.581.203|
-|WFS (GB download)|12.014,57|14.886,15|13.376,17|
+|Total number of requests|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |
+|WMS|136.903.721|175.640.326|147.581.203|137.252.965 |
+|WMS and WFS (GB download)|12.014,57|14.886,15|13.376,17|12.679.58 |
 
 [**Territorial Information System and Spatial Data Infrastructure of Asturias (SITPA--IDEAS)**](https://ideas.asturias.es)
 
-|Total number of requests|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |
-|WMTS|1.273.510|1.531.647|1.965.065|
-|WMS|3.808.501|7.460.261|8.303.497|
+|Total number of requests|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |
+|WMTS|1.273.510|1.531.647|1.965.065|2.840.849|
+|WMS|3.808.501|7.460.261|8.303.497|10.193.313|
+|**Parameter 1 (tiles/WMS) - to be entered**|36|36|36|36|
+|Number of requests per year, WMS, weighted|137.106.036|268.569.396|298.925.892|366.959.268|
+|Total number of requests per year, WMTS+WMS, weighted|138.379.546|270.101.043|300.890.957|369.800.117|
+|**Parameter 2 (tiles/user session) - to be entered**|200|200|200|200|
+|Number of user sessions per year|691.898|1.350.505|1.504.455|1.849.001|
+|Number of user sessions per month|57.658|112.542|125.371|154.083|
+|**Parameter 3 (price/1000 sessions/month) - to be entered**|7|7|7|7|
+|Value per month|404|788|878|1.079|
+|Value per year|4.843|9.454|10.531|12.943|
 
 [**SDI La Rioja (IDERioja)**](https://www4.iderioja.larioja.org/index.php?id=28&lang=es)
 
-|Total number of requests|2023|
-| ------------- | ------------- |
-|WMS (GetCapaabilities)|158.536|
-|WMS (GetMap)|455.896|
-|WFS (GetCapabilities)| 60.175|
-|WFS (GetFeature)| 95.182|
-|WCS (GetFeature)| 5.849|
-|WCS (GetCoverage)|8.951|
+|Total number of requests|2023|2024|
+| ------------- | ------------- |------------- |
+|WMS (GetCapaabilities)|158.536|149.263 |
+|WMS (GetMap)|455.896|511.630 |
+|WFS (GetCapabilities)| 60.175|150.480|
+|WFS (GetFeature)| 95.182|177.599 |
+|WCS (GetCapabilities)| 5.849|11.816 |
+|WCS (GetCoverage)|8.951|11.401 |
 
 The above figures are a small sample of some of the organisations existing in Spain at national and regional level.  More than 4300 OGC services are listed in the [IDEE catalogue](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search#/home). 
 
@@ -474,6 +489,7 @@ The above figures are a small sample of some of the organisations existing in Sp
 
 There are hundreds agreements or conventions co-financed by the autonomous administrations and national organizations. These agreements usually are collaborationand institutional between national, regional anl local organizations. Many of these agreements are reflected in the [National Cartographic System (SCN)](https://www.scne.es/). Another good example is agreements between environmental organisations and departments of [Ministry of Agriculture, Fisheries and Food (MAPA)](https://www.mapa.gob.es/es/cartografia-y-sig/ide/) and [Ministry for the Ecological Transition and the Demographic Challenge (MITECO)](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html). We highlight the following agreements:
 
+- Collaboration agreement between the Community of Madrid and the [Association of Registrars of Spain](https://sede.registradores.org/contenido/buyingahouse/) for the integration of graphic database services. The Association of Registrars of Spain is a public law Corporation under the Ministry of Justice and it is composed by a thousand registrars in charge of Property, Business and Movable Property Registers. The Registry is an instrument that facilitates the exchange of rights, gives certainty and security to the transfer of goods (whether movable or immovable) and facilitates the free movement of goods and services between Member States.
 - Agreement between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of geographic information within the framework of the National Plan for Territory Observation: _[PNOA](https://pnoa.ign.es/)-IMAGEN_ and _National Remote Sensing Plan_. Document [here](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15722).
 - Protocol between [FEGA](https://www.fega.gob.es/en), [IGN](https://www.ign.es/web/ign/portal) and [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig) for the exchange of [OI](https://inspire.ec.europa.eu/theme/oi), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu) and LiDAR. Information [here.](https://sede.administracionespublicas.gob.es/valida) CSV: GEISER-786a-f6e2-f3d6-4034-87fa-bb07-d502-a9ef
 - Agreement between [D.G. of Cadastre](https://www.catastro.meh.es/) and [FEGA](https://www.fega.gob.es/en) for the exchange of information related to agricultural parcels. Document [here.](https://www.boe.es/boe/dias/2022/11/12/pdfs/BOE-A-2022-18587.pdf)
@@ -494,25 +510,25 @@ A study performed in 2019 has roughly evaluated the annual cost of the national 
 | Publication of [SCN](https://www.scne.es/) datasets via OGC APIs | - |- |87.139€ |100.000€ |
 | [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |
 
-| [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.| 2020|2021|2022|2023|
-| ------------- | ------------- |------------- | ------------- |------------- |
-| Estimated annual cost per web service.  | 1.047€  |1.375€  |1.375€ |1.192,53€  |
-| Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837€|1.371.837€ |1.465.620,56€|
+| [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.| 2020|2021|2022|2023|2024|
+| ------------- | ------------- |------------- | ------------- |------------- |------------- |
+| Estimated annual cost per web service.  | 1.047 €  |1.375 €  |1.375 € |1.192,53 €  |1.189,50 € |
+| Estimated annual cost of maintaining a [MAPA/MITECO SDI geoportal](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx). | - |1.371.837 €|1.371.837 € |1.465.620,56 €|1.565.385,49 € |
 
-|[**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es)|2023|
-| ------------- | ------------- |
-| Estimated annual cost of WMS.  | 7.600€  |
-| Estimated annual cost of [ATOM](https://www.fega.gob.es/orig/).  | 6.650€  |
-| Estimated annual cost of [viewer](https://sigpac.mapama.gob.es/fega/visor/).  | 48.600€  |
+|[**Spanish Agrarian Guarantee Fund (FEGA)**](https://www.fega.gob.es)|2023|2024|
+| ------------- | ------------- |------------- |
+| Estimated annual cost of WMS.  | 7.600 €  |7.000 € |
+| Estimated annual cost of [ATOM](https://www.fega.gob.es/orig/).  | 6.650 €  |12.500 € |
+| Estimated annual cost of [viewer](https://sigpac.mapama.gob.es/fega/visor/).  | 48.600 € |68.300 €|
 
-| [**ICEARAGON**](https://idearagon.aragon.es/portal) | 2020(savings)|2021(savings)|2022(savings)|2023(savings)|
-| ------------- | ------------- |------------- | ------------- |------------- |
-|EU average session cost: €6.11 according to EU/IGN source  | Gross savings: 111.873.667€  |Gross savings: 111.873.667€   |Gross savings: 12.240.199€  |Gross savings: 29.589.691,3€   |
-|  | Actual savings: 593.683€ |Actual savings: 593.683€  |Actual savings: 612,009€  |Actual savings: 1.479.484,6€|
-|Average session cost in Spain 5.5 € according to INE source  | Potential savings: 10.688.243€ |Potential savings: 10.688.243€  |Potential savings: 11.018.183€ |Potential savings: 26.635.565€  |
-|  | Actual savings: 534.412€ |Actual savings: 534.412€  |Actual savings: 550.909€  |Actual savings: 1.331.778,3€|
-|Services of ARAGEA|- |928.699€|1.132.088€|1.171.800€|
-|IGEAR estimates € per request/service|- |0,33€|0,33€|0,33€|
+| [**ICEARAGON**](https://idearagon.aragon.es/portal) | 2020(savings)|2021(savings)|2022(savings)|2023(savings)|2024(savings)|
+| ------------- | ------------- |------------- | ------------- |------------- |------------- |
+|EU average session cost: €6.11 according to EU/IGN source  | Gross savings: 111.873.667€  |Gross savings: 111.873.667€   |Gross savings: 12.240.199€  |Gross savings: 29.589.691,3€ |38.452.331,8 €|
+|  | Actual savings: 593.683€ |Actual savings: 593.683€  |Actual savings: 612,009€  |Actual savings: 1.479.484,6€|1.922.616,6 € |
+|Average session cost in Spain 5.5 € according to INE source  | Potential savings: 10.688.243€ |Potential savings: 10.688.243€  |Potential savings: 11.018.183€ |Potential savings: 26.635.565€  |34.613.392 € |
+|  | Actual savings: 534.412€ |Actual savings: 534.412€  |Actual savings: 550.909€  |Actual savings: 1.331.778,3 €|1.730.669,6 € |
+|Services of ARAGEA|- |928.699€|1.132.088€|1.171.800€|2.258.727 € |
+|IGEAR estimates € per request/service|- |0,33€|0,33€|0,33€|0,33€ |
 
 D.F. Bizkaia: Cost in euros of the technical staff developing the project who are in charge of the publication of the datasets 32.960,10€. 
 
