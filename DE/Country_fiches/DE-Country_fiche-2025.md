@@ -87,10 +87,15 @@ In the context of developing guidance for the implementation of the Implementing
 
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
-INSPIRE is embedded in the National Spatial Data Strategy (NGIS) that has been revised to NGIS 2.0 and adopted by the Steering Committee GDI-DE in 2024 and approved by the IT Planning Council on political level. The strategy shall ensure that spatial information can be effectively used for all spatially relevant decision making processes, including to serve local and national interests. The strategy identifies key principles such as
-1. Supply of high quality basic spatial data,
-2. Foster the multiple use of spatial data and
-3. Promote innovations in spatial data management.
+INSPIRE is embedded in the National Spatial Data Strategy (NGIS) that has been revised to NGIS 2.0 and adopted by the Steering Committee GDI-DE in 2024 and approved by the IT Planning Council on political level. The strategy ensures that geoinformation can be easily used for all spatially relevant decision-making processes, also in order to contribute to overcoming current challenges such as the digital transformation. The strategy sets out the following priorities.
+
+- Priority 1: Increase the diversity of the data offered by the GDI-DE
+- Priority 2: Improve access to geoinformation
+- Priority 3: Improve the provision and quality of geoinformation
+- Priority 4: Expand the network
+- Priority 5: Strengthen geo-competence
+- Priority 6: Improve user orientation as a key principle
+- Priority 7: Expand demand orientation
 
 The coordination of the infrastructure has been further improved through 
 - intensified discussions with the GI industry, the municipal umbrella associations and Conferences of specialised state ministers;
@@ -121,7 +126,7 @@ Data sets provided in legacy data models via INSPIRE compliant network services 
 
 Individual, bi- or multi-lateral data sharing agreements are increasingly being replaced by generic, legally based conditions for the access to public sector data. This is reflected in an increasing number of legislation on e-Government, Open Data and transparency.
 
-According to federal laws, environmental (UIG) and particular spatial data (GeoZG) are publicly available and, for federal data, free of charge.
+In accordance with federal legislation, environmental data (UIG) and special geodata (GeoZG) have been publicly accessible and free of charge for federal data for several years now. The implementation of the HVD Implementation Ordinance means that high-value data from the federal states can now also be accessed online free of charge. 
 
 Selected spatial reference data of the federal states are provided through a common national access point.
 
