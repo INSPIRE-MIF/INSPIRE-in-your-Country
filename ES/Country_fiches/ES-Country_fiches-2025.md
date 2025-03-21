@@ -415,12 +415,12 @@ GeoEuskadi coordinates:
 
 - [SDI Provincial Council of Gipuzkoa](https://b5m.gipuzkoa.eus/web5000/es)
 
-|Total number of requests|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |
-|WMS, WMTS/TMS, WFS, WCS| 53.092.026|39.263.421|38.682.586|
-|GB download| 4.888,13|7.369,84|5.931,1|
-|Nº files GML download|586|302|1.138|
-|Resources [(Catalogue)](https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos)| 18 datasets|18 datasets|22 datasets|
+|Total number of requests|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |
+|WMS, WMTS/TMS, WFS, WCS| 53.092.026|39.263.421|38.682.586|53.500.887 |
+|GB download| 4.888,13|7.369,84|5.931,1|7.260,1 |
+|Nº files GML download|586|302|1.138|1.856 |
+|Resources [(Catalogue)](https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos)| 18 datasets|18 datasets|22 datasets|23 datasets |
 
 - [SDI  Provincial Council of Bizkaia (GeoBizkaia)](https://www.bizkaia.eus/es/inspirebizkaia)
 
