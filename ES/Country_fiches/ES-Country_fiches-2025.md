@@ -426,9 +426,9 @@ GeoEuskadi coordinates:
 
 New SDI geoportal with 7 WMS, 8 WMTS and 3 WFS: www.bizkaia.eus/geobizkaia (5,567 sessions with an average length of 3:47 minutes) 
 
-|Total number of resorces|2022|2023|
-| ------------- | ------------- |------------- |
-|Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|
+|Total number of resorces|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |
+|Resources [(Catalogue)](https://www.opendatabizkaia.eus/es/catalogo?custom_type_id=informacion-geografica)|118 datasets/5 services|121 datasets/5 services|131 dataset/49 services |
 
 [**Aragón Government (ICEARAGON)**](https://idearagon.aragon.es/portal/): Spatial Knowledge Infrastructure of Aragon (ICEARAGON) is a technological solution developed by the Geographic Institute of Aragón (IGEAR). IGEAR is a dependent service of the Directorate General of Territory Planning of the Aragón Government. IGEAR is dedicated to manage the production, obtain and treatment of the territorial documentation, as well as the diffusion of territory planning information. At the beginning ICEARAGON was called IDEAragon.
 
