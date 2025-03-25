@@ -35,7 +35,7 @@ The following paragraphs provide a summary of currently valid information on gov
 - Contact Email: info@am.lt
 - Telephone Number:+ 370 669 52682
 - Telefax Number:
-- National INSPIRE Website:https://www.inspire-geoportal.lt/geonetwork/srv
+- National INSPIRE Website :https://www.inspire-geoportal.lt/geonetwork/srv
 - MIG Contacts: 
   - Contact Person: Aušra Kalantaitė
   - Email: ausra.kalantaite@am.lt
