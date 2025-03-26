@@ -92,7 +92,7 @@ fluently working and supporting INSPIRE spatial data owners.
 development program of the Ministry of Economic Affairs and Communications defines the development directions of spatial data acquisition, analysis and discoverability until 2025-2028. One of the goals is to meet the objectives of the INSPIRE Directive in a timely manner.
 - Estonia has connected their national discovery service to the EU geoportal allowing for the publication of metadata for
 available spatial data sets and services on the EU geoportal.
-- Estonian Land Board is responsible for maintaining [Estonian Geoportal](https://geoportaal.ee/eng/) (INSPIRE geoportal) and [Estonian Land and Spatial Development Board
+- Estonian Land and Spatial Development Board is responsible for maintaining [Estonian Geoportal](https://geoportaal.ee/eng/) (INSPIRE geoportal) and [Estonian Land and Spatial Development Board
 geoportal](https://geoportaal.maaamet.ee/eng/) (National SDI that represents through INSPIRE services also INSPIRE data).
 - The metadata of all the databases and spatial data services introduced to the Estonian National Geoportal can also be
 found through the relevant user interface [https://metadata.geoportaal.ee](https://metadata.geoportaal.ee]).
@@ -110,14 +110,12 @@ preferred to use other possibilities than INSPIRE to collect data.
 
 ### Data Sharing Arrangements <a name="data"></a>
 
-From 2018 the spatial data of the Estonian Land Board is available for free download to everyone. As a result, there is no
-need to ask spatial data from Estonian Land Board in a query format. INSPIRE data and services were also directly
-affected by this decision and are mostly free of charge. For the conditions of use Estonian Land Board has made their
+From 2018 the spatial data of the Estonian Land Board(today´s Estonian Land and Spatial Development Board) is available for free download to everyone. As a result, there is no need to ask spatial data from Estonian Land and Spatial Development Board in a query format. INSPIRE data and services were also directly
+affected by this decision and are mostly free of charge. For the conditions of use Estonian Land and Spatial Development Board has made their
 own [Land Board Open Data License](https://geoportaal.maaamet.ee/docs/Avaandmed/Licence-of-open-data-of-Estonian-Land-Board.pdf).
 Environmental spatial data is also mostly free of charge but is not so easily usable for people. To represent spatial location
 and basic attributes The Estonian Environment Information Centre has published simple environmental spatial data view
-and download services. More detailed information is exchanged with government institutions.
-For data exchange between government institutions there is an overall agreement that data exchange is free from charge.
+and download services. Thanks to the Open Data Directive, all environmental data in Estonia is public, but without spatial data. More detailed information is exchanged with government institutions. For data exchange between government institutions there is an overall agreement that data exchange is free from charge.
 
 ### Costs and Benefits <a name="costs"></a>
 
