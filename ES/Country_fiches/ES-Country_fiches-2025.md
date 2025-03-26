@@ -397,21 +397,21 @@ At the regional level, we highlight the Basque Government, Aragon, Extremadura, 
 
 [**SDI Basque Country (geoEuskadi)**](www.geo.euskadi.eus) It facilitates the publication of geographic data and services to the bodies and entities of the public sector of Basque Country, as well as allowing easy and efficient access to this information and other information published by other SDI nodes at State, Foral and local level. 
 
-| Total number of requests|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |
-|WMS, WMTS, WCS| 232.676.357|113.245.651|116.248.132|
-|Other services|-|-|56.514.979|
-|Resources [(Catalogue)](https://www.geo.euskadi.eus/webgeo00-catalog/es/)| 232|232|233|
+| Total number of requests|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |
+|WMS, WMTS, WCS| 232.676.357|113.245.651|116.248.132|152.540.972 |
+|Other services|-|-|56.514.979|98.223.482 |
+|Resources [(Catalogue)](https://www.geo.euskadi.eus/webgeo00-catalog/es/)| 232|232|233|235|
 
 GeoEuskadi coordinates:
 - [SDI Provincial Council of Alava (GeoAraba)](https://geo.araba.eus/es/)
 
-| [Total number of requests](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/Figures_of_geoAraba.pdf)|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |
-|22 WMS| 19.129.597|26.505.980|36.011.584|
-|OI WMTS| -|-|8.665.300|
-|4 WFS| 50.368|43.704|104.874|
-|Resources [(Catalogue)](https://geo.araba.eus/geonetwork/srv/spa/catalog.search#/home)| 39 datasets/20 services|39 datasets/20 services|39 datasets/22 services|
+| [Total number of requests](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/Figures_of_geoAraba.pdf)|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |
+|22 WMS| 19.129.597|26.505.980|36.011.584|47.724.469 |
+|OI WMTS| -|-|8.665.300|11.837.850 |
+|4 WFS| 50.368|43.704|104.874|254.077 |
+|Resources [(Catalogue)](https://geo.araba.eus/geonetwork/srv/spa/catalog.search#/home)| 39 datasets/20 services|39 datasets/20 services|39 datasets/22 services|28 datasets/22 services |
 
 - [SDI Provincial Council of Gipuzkoa](https://b5m.gipuzkoa.eus/web5000/es)
 
@@ -503,12 +503,14 @@ There are hundreds agreements or conventions co-financed by the autonomous admin
 Some figures:
 A study performed in 2019 has roughly evaluated the annual cost of the national node of Spanish SDI in 120,000 € and the social benefits provide society with publishing viewing services in 1 M €, of a published map tile using its API. An approximated not very accurate estimation of cost-benefits ratio gives a result of at least 1:8 which must be only considered as an idea of the order of magnitude.
 
-| [**Spanish SDI (IDEE)**](https://www.idee.es) | 2020|2021|2022|2023|
-| ------------- | ------------- |------------- | ------------- |------------- |
-| Estimated annual cost per web service.  | 2.670€  |2.670€  |2.670€  |2.670€  |
-| Estimated annual cost of maintaining a [Spanish SDI geoportal](https://www.idee.es). | 50.000€ (new) |25.000€ |25.000€ |25.000€ |
-| Publication of [SCN](https://www.scne.es/) datasets via OGC APIs | - |- |87.139€ |100.000€ |
-| [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |
+| [**Spanish SDI (IDEE)**](https://www.idee.es) | 2020|2021|2022|2023|2024|
+| ------------- | ------------- |------------- | ------------- |------------- |------------- |
+| Estimated annual cost per web service.  | 2.670€  |2.670€  |2.670€  |2.670€  |2.670€|
+| Estimated annual cost of maintaining a [Spanish SDI geoportal](https://www.idee.es). |50.000€ (new) |25.000€ |25.000€|25.000€ |10.000€ |
+| Publication of [SCN](https://www.scne.es/) datasets via OGC APIs | - |- |87.139€ |100.000€ |10.000€ |
+| [Spanish Catalogue (IDEE)](https://www.idee.es/csw-inspire-idee/srv/spa/catalog.search), [CODSI](https://www.idee.es/csw-codsi-idee/srv/spa/catalog.search) and another tasks | - |18.076€  |22.096€ |30.000€ |25.000€ |
+
+Creation of an [**IDEE viewer**](https://plataforma.idee.es/en/inicio) based on an open source API: 200.000€
 
 | [**MAPA SDI**](https://www.mapa.gob.es/es/cartografia-y-sig/ide/default.aspx) and [**MITECO SDI**](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html) is the central access point to the INSPIRE priority data set provided for environmental reporting.| 2020|2021|2022|2023|2024|
 | ------------- | ------------- |------------- | ------------- |------------- |------------- |
