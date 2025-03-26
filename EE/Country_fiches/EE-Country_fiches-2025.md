@@ -35,7 +35,7 @@ on the INSPIRE knowledge base.
 
 #### National Contact Point
 
-- Name of Public Authority: Estonian Land and Spatial Planning Board
+- Name of Public Authority: Estonian Land and Spatial Development Board
 - Contact Email: inspire@maaruum.ee
 - National INSPIRE Website: [https://geoportaal.ee/](https://geoportaal.ee/)
 - MIG Contacts:
@@ -52,7 +52,7 @@ on the INSPIRE knowledge base.
 #### Coordination Structure & Progress: 
 
 ##### Coordination structure
-- The Ministry of Regional Affairs and Agriculture and Ministry of Economic Affairs and Communications are the responsible parties for the implementation of the INSPIRE directive in Estonia. In accordance with the Spatial Data Act, passed on 28 February 2011, the contact point was also appointed to be the Estonian Land Board.
+- The Ministry of Regional Development and Agriculture and the Ministry of Economic Affairs and Communications were responsible for the implementation of the INSPIRE Directive in Estonia until 2025. In accordance with the Spatial Data Act, passed on 28 February 2011, the contact point was also appointed to be the Estonian Land Board.
 - The national implementation of the INSPIRE Directive is coordinated by Estonian Land Board with maintaining national SDI portals like Estonian Geoportal and Estonian Land Board geoportal. Also providing support and guidance for national data owners. Estonian Land Board is responsible for data harmonizing and providing Estonian catalog service and most of the INSPIRE valid spatial data services with collaboration Information Technology Centre of the Ministry of the Environment. As INSPIRE coordinator Estonian Land Board has representatives in MIG-T and MIG
 - In most cases, the Ministries are the data owners by law, but their subdivisions are responsible authorities for the actual data. Ministries have representatives in different committees of European Commission to support understanding political and technical needs of other committees for INSPIRE data. Ministries subdivisions work on a daily basis with Estonian Land Board technical personnel to support data harmonization to INSPIRE valid data
 
