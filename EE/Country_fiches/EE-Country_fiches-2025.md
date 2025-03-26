@@ -80,7 +80,7 @@ layers.
 - Estonia have covered most of INSPIRE Directive annex III themes with view and download services. In 2021, one
 of the priorities was the implementation of INSPIRE Annexes I and II services on the new technical platform. This
 priority continued in 2022 as well, and from September 2022 all our services can be found under the
-inspire.geoportaal.ee domain. The Estonian Land Board participated also in the Geo3E project, which resulted in the
+inspire.geoportaal.ee domain. Former Estonian Land Board participated also in the Geo3E project, which resulted in the
 creation of the first OGC API Features services on the INSPIRE data model in 2022. Testing took place in 2023 and will continue. The landing page of the Estonian INSPIRE OGC API can be found [here](https://inspire.geoportaal.ee/geoserver/ogc/features/).
 - INSPIRE coordinating and technical workgroup was established in 2019 inside Estonian Land Board. It is still
 fluently working and supporting INSPIRE spatial data owners.
@@ -89,11 +89,10 @@ fluently working and supporting INSPIRE spatial data owners.
 ### Functioning and coordination of the infrastructure <a name="functioning"></a>
 
 - The INSPIRE Directive (2007/2/EC) was transposed in Estonia in 2011 by the Spatial Data Act (RT I, 28.02.2011). The
-development plan of the Ministry of the Environment defines the development directions of spatial data and environmental
-activities until 2030.It is using the objectives arising from the INSPIRE Directive.
+development program of the Ministry of Economic Affairs and Communications defines the development directions of spatial data acquisition, analysis and discoverability until 2025-2028. One of the goals is to meet the objectives of the INSPIRE Directive in a timely manner.
 - Estonia has connected their national discovery service to the EU geoportal allowing for the publication of metadata for
 available spatial data sets and services on the EU geoportal.
-- Estonian Land Board is responsible for maintaining [Estonian Geoportal](https://geoportaal.ee/eng/) (INSPIRE geoportal) and [Estonian Land Board
+- Estonian Land Board is responsible for maintaining [Estonian Geoportal](https://geoportaal.ee/eng/) (INSPIRE geoportal) and [Estonian Land and Spatial Development Board
 geoportal](https://geoportaal.maaamet.ee/eng/) (National SDI that represents through INSPIRE services also INSPIRE data).
 - The metadata of all the databases and spatial data services introduced to the Estonian National Geoportal can also be
 found through the relevant user interface [https://metadata.geoportaal.ee](https://metadata.geoportaal.ee]).
@@ -102,7 +101,7 @@ found through the relevant user interface [https://metadata.geoportaal.ee](https
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
 The usage of INSPIRE spatial information has been stabilized in couple of years. There are also no significant changes
-on comparing Estonian INSPIRE view or download services. One of the main reason could be that the Estonian Land
+on comparing Estonian INSPIRE view or download services. One of the main reason could be that the former Estonian Land
 Board published in 1 July 2018 most of its spatial data as open data. As most of the Estonian INSPIRE services in 2018
 and 2019 were INSPIRE I and II annexes themes and Estonian Land Board was mostly these themes data owner. New
 annex III services are also mostly open data and did not make a big new open data releasing effect. Local public sector
