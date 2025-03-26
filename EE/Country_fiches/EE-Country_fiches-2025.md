@@ -1,4 +1,4 @@
-# _EE_ - _2024_: Country Fiche
+# _EE_ - _2025_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -20,7 +20,7 @@ implementing rules regarding INSPIRE monitoring and reporting have been adopted 
 (EU) 2019/1372 on the 19th August 2019.
 
 This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on [monitoring
-2023](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee) acquired in December 2023 and Member States update.
+2024](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=ee) acquired in December 2024 and Member States update.
 
 
 ## State of Play
@@ -35,19 +35,19 @@ on the INSPIRE knowledge base.
 
 #### National Contact Point
 
-- Name of Public Authority: Estonian Land Board
-- Contact Email: inspire@maaamet.ee
+- Name of Public Authority: Estonian Land and Spatial Planning Board
+- Contact Email: inspire@maaruum.ee
 - National INSPIRE Website: [https://geoportaal.ee/](https://geoportaal.ee/)
 - MIG Contacts:
    - Contact Person: Mart Randmäe
-   - Email: mart.randmae@maaamet.ee
-   - Contact Person: Artu Ellmann
-   - Email: artu.ellmann@maaamet.ee
+   - Email: mart.randmae@maaruum.ee
+   - Contact Person: Taavi Jakobson
+   - Email: taavi.jakobson@maaruum.ee
 - MIG T Contacts:
    - Contact Person: Mart Randmäe
-   - Email: mart.randmae@maaamet.ee
+   - Email: mart.randmae@maaruum.ee
    - Contact Person: Kaire Veeperv
-   - Email: kaire.veeperv@maaamet.ee
+   - Email: kaire.veeperv@maaruum.ee
 
 #### Coordination Structure & Progress: 
 
@@ -56,7 +56,7 @@ on the INSPIRE knowledge base.
 - The national implementation of the INSPIRE Directive is coordinated by Estonian Land Board with maintaining national SDI portals like Estonian Geoportal and Estonian Land Board geoportal. Also providing support and guidance for national data owners. Estonian Land Board is responsible for data harmonizing and providing Estonian catalog service and most of the INSPIRE valid spatial data services with collaboration Information Technology Centre of the Ministry of the Environment. As INSPIRE coordinator Estonian Land Board has representatives in MIG-T and MIG
 - In most cases, the Ministries are the data owners by law, but their subdivisions are responsible authorities for the actual data. Ministries have representatives in different committees of European Commission to support understanding political and technical needs of other committees for INSPIRE data. Ministries subdivisions work on a daily basis with Estonian Land Board technical personnel to support data harmonization to INSPIRE valid data
 
-![INSPIRE_in_Estonia_012024](images/INSPIRE_in_Estonia_012024.png)
+![INSPIRE_in_Estonia_012024](images/INSPIRE_in_Estonia_100325.png)
 
 ##### Progress
 
@@ -64,7 +64,7 @@ on the INSPIRE knowledge base.
 for implementing INSPIRE. Estonian Land Board coordinated the change to go over to an open-source software
 with the help of Information Technology Centre of the Ministry of the Environment. In 2022, the Estonian
 identification system [TARA](https://www.ria.ee/en/state-information-system/electronic-identity-eid-and-trust-services/central-authentication-services) was integrated with GeoNetwork together with a user management system for more
-user-friendly secure login of metadata editors.
+user-friendly secure login of metadata editors. At the end of 2024, a new version of GeoNetwork (4.2.x) was deployed on a new and more stable technical platform.
 - To support the data owners and the editors of metadata, the new Estonian Geoportal was released in April 2022
 with the help of the Information Technology Center of the Ministry of the Environment. With the creation of the new
 Estonian Geoportal, new metadata management rules and, if necessary, new agreements with data owners were
@@ -79,7 +79,7 @@ layers.
 of the priorities was the implementation of INSPIRE Annexes I and II services on the new technical platform. This
 priority continued in 2022 as well, and from September 2022 all our services can be found under the
 inspire.geoportaal.ee domain. The Estonian Land Board participated also in the Geo3E project, which resulted in the
-creation of the first OGC API Features services on the INSPIRE data model in 2022. Testing took place in 2023 and will continue. The landing page of the Estonian INSPIRE OGC API can be found [here](https://inspire.geoportaal.ee/geoserver/ogc/features/v1/).
+creation of the first OGC API Features services on the INSPIRE data model in 2022. Testing took place in 2023 and will continue. The landing page of the Estonian INSPIRE OGC API can be found [here](https://inspire.geoportaal.ee/geoserver/ogc/features/).
 - INSPIRE coordinating and technical workgroup was established in 2019 inside Estonian Land Board. It is still
 fluently working and supporting INSPIRE spatial data owners.
 
