@@ -1,7 +1,7 @@
 How to report new Country fiche
 ===============================
 
-To report a new Country fiche for your Member State, please follow the instructions below:
+Country fiches shall be reported within the end of April. To report a new Country fiche for your Member State, please follow the instructions below:
 
 *   Fork the INSPIRE-in-your-Country repository (For more information, see "[Working with forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)").
 *   In the forked repository, create a new Markdown _.md_ file in the folder related to your country, e.g. _/INSPIRE-in-your-Country/AT/Country\_fiches/_ (For more information, see "[Creating new files](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files)"), with the following characteristics:
