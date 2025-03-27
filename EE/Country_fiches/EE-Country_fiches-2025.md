@@ -119,20 +119,20 @@ and download services. Thanks to the Open Data Directive, all environmental data
 
 ### Costs and Benefits <a name="costs"></a>
 
-Compared to 2022 the costs of 2023 have no significant changes. Implementation of the INSPIRE Directive vary between
+Compared to 2023 the costs of 2024 have no significant changes. Implementation of the INSPIRE Directive vary between
 actors and are difficult to estimate precisely. Most of the workers in the responsible authorities of INSPIRE data are doing
 it as part of their daily job responsibilities and do not get extra benefit for it.
-Coordination costs have been the salary costs of two employees in the Estonian Land Board, who coordinate the
+Coordination costs have been the salary costs of two employees in the Estonian Land Board(today´s Estonain Land and Spatial Development Board), who coordinate the
 entire implementation of the INSPIRE Directive in Estonia. The workload of these two people on INSPIRE topics
-corresponds to 0.5 per full-time workload for the whole reporting period. In addition, the Land Board has 3 people
+corresponds to 0.5 per full-time workload for the whole reporting period. In addition, the Land Board had 2 people
 dealing with different INSPIRE topics: communication with information holders, technical advice, participation in
 workgroups, metadata filling, monitoring and management, reporting, planning of Estonian geoportal development,
-etc. The workload of these people is estimated to be a full-time workload of 2.5 persons for the whole reporting
+etc. The workload of these people is estimated to be a full-time workload of 1,5 persons for the whole reporting
 period.
 Information Technology Centre of the Ministry of the Environment has made the salary costs and technical costs in
 a value of EUR 90 000. They have 3 workers assigned on INSPIRE whom workload corresponds to 2.5 per full-time
 workload for the whole reporting period.
-Benefits of 2023 implementing the INSPIRE Directive vary between actors. The monetary value information of the total
+Benefits of 2024 implementing the INSPIRE Directive vary between actors. The monetary value information of the total
 benefits is currently unavailable. According to Estonian Land Board INSPIRE workgroup experiences, the key benefits
 can be summed up as:
 - organizing and re-developing databases has made data (especially environment data) more accessible and clearer
@@ -143,4 +143,4 @@ to all users;
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2023 can be found at [here](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=ee).
+Key facts and figures from monitoring 2024 can be found at [here](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=ee).
