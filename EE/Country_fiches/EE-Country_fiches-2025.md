@@ -115,7 +115,7 @@ affected by this decision and are mostly free of charge. For the conditions of u
 own [Land Board Open Data License](https://geoportaal.maaamet.ee/docs/Avaandmed/Licence-of-open-data-of-Estonian-Land-Board.pdf).
 Environmental spatial data is also mostly free of charge but is not so easily usable for people. To represent spatial location
 and basic attributes The Estonian Environment Information Centre has published simple environmental spatial data view
-and download services. Thanks to the Open Data Directive, all environmental data in Estonia is public, but without spatial data. More detailed information is exchanged with government institutions. For data exchange between government institutions there is an overall agreement that data exchange is free from charge.
+and download services. Thanks to the Open Data Directive, all environmental data in Estonia is public, but do not have alwayst spatial data yet. More detailed information is exchanged with government institutions. For data exchange between government institutions there is an overall agreement that data exchange is free from charge.
 
 ### Costs and Benefits <a name="costs"></a>
 
