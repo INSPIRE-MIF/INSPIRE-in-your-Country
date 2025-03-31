@@ -50,14 +50,14 @@ made easier:
    - [Cartociudad geocoder](http://www.cartociudad.es/web/portal/directorio-de-servicios/geoprocesamiento) of National Centre for Geographic Information.
    - [Street Map and Coordinate Converter Service. Cadastral](https://www.catastro.meh.es/ws/Webservices_Libres.pdf)
    
-![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalSpanishIDEE.png)
+![Spanish SDI geoportal](https://www.idee.es/resources/presentaciones/CODIIGE/CountryFiche2020/geoportalSpanishIDEE_2024.png)
 
 The SDI of Spain is made up of the following SDI nodes at the national and regional levels (see SDI local nodes [here](https://www.idee.es/en/web/idee/idee#proyectosidee).)
 
 | National SDI nodes   |    |
 | ------------- | ------------- |
 | **Ministry** | **Organization** |
-|[National Cartographic System (SCN)](https://www.scne.es/) |Coordinated production and publication of data through the National Cartographic Plan. SCN publishes the following datasets for the following INSPIRE themes: OI. TN, HY, GN, AU, CP, BU, AD, EL, LU, LC... involving national and regional bodies responsible for the data.|
+|[National Cartographic System (SCN)](https://www.scne.es/) |Coordinated production and publication of data through the National Cartographic Plan. SCN publishes the following datasets for the following INSPIRE themes: OI. TN, HY, GN, AU, CP, BU, AD, EL, LU, LC... involving national and regional bodies responsible for the data. Some collaborative projects: [Citizen Map](https://www.csg-cnc.es/mapaciudadano.html), [Geo localisation of postal addresses and toponymy](https://www.csg-cnc.es/geolocalizacion.html), Unified Cartographic Base...|
 |Ministry of Finance|Main responsible for the following INSPIRE themes: [AD](https://inspire.ec.europa.eu/theme/ad), [BU](https://inspire.ec.europa.eu/theme/bu), [CP](https://inspire.ec.europa.eu/theme/cp) |
 ||[Directorate General for Cadastre](https://www.catastro.minhap.es/webinspire/index.html) |
 | Ministry of Transport, Mobility and Urban Agenda|Responsible for the following INSPIRE themes: [TN](https://inspire.ec.europa.eu/theme/tn), [HY](https://inspire.ec.europa.eu/theme/hy), [GN](https://inspire.ec.europa.eu/theme/gn), [AU](https://inspire.ec.europa.eu/theme/au), [LC](https://inspire.ec.europa.eu/theme/lc), [LU](https://inspire.ec.europa.eu/theme/lu), [EL](https://inspire.ec.europa.eu/theme/el), [OI](https://inspire.ec.europa.eu/theme/oi), [NZ](https://inspire.ec.europa.eu/theme/nz), etc | 
@@ -81,7 +81,7 @@ The SDI of Spain is made up of the following SDI nodes at the national and regio
 | |[Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)| 
 | |[Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica)| 
 | |[State Meteorological Agency (AEMET)](https://www.aemet.es/es/datos_abiertos/catalogo)| 
-| |[Hydrographic Confederations](https://www.miteco.gob.es/es/ministerio/funciones-estructura/organismos-publicos/confederaciones-hidrograficas.html)|
+| |[Hydrographic Confederations](https://www.miteco.gob.es/es/ministerio/organizacion/organismos-publicos/confederaciones-hidrograficas.html)|
 
 SDIs at regional level are regulated by a law or decree that establishes their functions to publish geographic information. For example, in 2022, Aragon government published the Law 3/2022, of 6 October, on Geographic Information in Aragon (LIGA)  with the aim of establishing a legal regime for the geographical information and cartographic activity of Aragon.  LIGA defines the Knowledge Infrastructure of Aragon (ICEARAGON).
 
@@ -118,18 +118,18 @@ SDIs at regional level are regulated by a law or decree that establishes their f
 - Telephone Number: 034915979646
 - Telefax Number: 034915979764
 - National INSPIRE Website: [**Spanish SDI (Infraestructura de datos Espaciales de España, IDEE)**[(https://www.idee.es/)
-- MIG Contacts: 
+- [INSPIRE Maintenance and Implementation Group (MIG)](https://wikis.ec.europa.eu/spaces/InspireMIG/overview) Contacts: 
   - Contact Person: Emilio López Romero
   - Email: Emilio.lopez@cnig.es
   - Telephone Number: 034915979646
   - Contact Person: Alberto Campos García
   - Email: acampos@miteco.es
-- MIG T Contacts: 
+- [MIG permanent technical sub-group (MIG-T)](https://wikis.ec.europa.eu/spaces/InspireMIG/pages/33528041/MIG+permanent+technical+sub-group+MIG-T) Contacts: 
   - Contact Person: Paloma Abad Power
   - Email: paloma.abad@cnig.es
   - Telephone Number: 034915979660
-  - Contact Person: Soledad Gómez Andrés
-  - Email: msgomez@mapa.es
+  - Contact Person: 
+  - Email:
   
 #### Coordination Structure & Progress: 
 
@@ -168,7 +168,7 @@ The [National Cartographic System](http://www.scne.es/productos.html), defined i
 - [Geoportal petrol stations and recharging points](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio) enables geospatial queries of fuel prices at petrol stations and electric recharging points.
   - The Petrol Stations Geoportal is based on the information submitted on the basis of Order ITC/2308/2007, of 25 July, which determines the form of submission of information to the Ministry of Industry, Tourism and Trade on the supply activities of petroleum products, which is the development of Art. 5 of Royal Decree Law 6/2000 of 23 June, on urgent measures to intensify competition in goods and services markets.
   - The electric recharging points is based on Order TED/445/2023, of 28 April, which regulates the information to be sent by energy recharging service providers to the [MITECO](https://www.miteco.gob.es/es/cartografia-y-sig/ide.html), the Autonomous Communities and the Cities of Ceuta and Melilla, which is the development of article 48 of Law 24/2013, of 26 December, on the Electricity Sector. 
-  - Recharging points can only be downloaded directly from the control access [RIPREE](https://sedeaplicaciones.minetur.gob.es/Ripree) website.
+  - Recharging points can only be downloaded directly from the control access [RIPREE](https://energia.serviciosmin.gob.es/Ripree/ExportarInstalaciones/Export#) website.
 - [Hydrocarbon Technical Archive](https://geoportal.minetur.gob.es/ATHv2/welcome.do): This archive is regulated in article 12 of Law 34/1998, of 7 October, on the hydrocarbons sector and in section 2.3 of article 11 of Royal Decree 2362/1976, of 30 July, approving the Regulations for the application of the Law on hydrocarbon research and exploitation of 27 June 1974, applicable in accordance with the Second Transitional Provision of Law 34/1998, of 7 October. The infrastructure associated with the archive also allows compliance with the provisions of Article 3 of Directive 94/22/EC of the European Parliament and of the Council of 30 May 1994.
 - [Mining Cadastre](https://geoportal.minetur.gob.es/CatastroMinero/BusquedaAlfanumerica): The Mining Register is a permanently updated public archive of all existing mining rights in the national territory, territorial sea and continental shelf, with their corresponding map. The competence over mining rights lies with the Autonomous Communities, which manage the data in their respective mining cadastres.
 - [Integrated Information System of the Spanish Natural Heritage and Biodiversity Inventory (IEPNB)](https://www.miteco.gob.es/en/biodiversidad/temas/inventarios-nacionales/inventario-espanol-patrimonio-natural-biodiv.html)
@@ -221,8 +221,8 @@ The products of the National Cartographic System, SDI Catalonia and SDI Navarre 
 - [**XIV Iberian Conference on Spatial Data Infrastructures**](https://www.idee.es/resources/presentaciones/JIIDE24-IIIgeoEuskadi/presentaciones_JIIDE2024-IIIgeoEuskadi.pdf) 2024 was held in Vitoria (Basque Country) from 13 to 15 november under the slogan _"The value of geospatial data”_ with a participation of 300 attendees mainly from Spain, Portugal and Andorra. There were 96 papers and 9 workshops, distributed in 24 sessions, in addition to the two round tables and the invited lectures.
 - [**Free GIS conferences 2024**](https://www.jornadassiglibre.org/) is an initiative of the [SIGTE](https://www.udg.edu/en/sigte/), a conference dedicated to the free software in the field of the Geographical Information Technologies. This event takes place at the University of Girona, since 2007.
 - Holding of two [**Working Group for the NSDI (GTIDEE)**](https://www.idee.es/en/web/idee/gtidee) meetings a year where MIG and MIG-T activities and other topics such as OGC APIs or company activities are disseminated (the number of attendees per meeting is around 140).
-  - [30 of May meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual_30052024/30052024_GTIDEE-virtual.pdf)
-  - [18 of December meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual_18122024/18122024_GTIDEE-virtual.pdf)
+  - [30 of May 2024 meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual_30052024/30052024_GTIDEE-virtual.pdf)
+  - [18 of December 2024 meeting agenda](https://idee.es/resources/presentaciones/GTIDEE_Virtual_18122024/18122024_GTIDEE-virtual.pdf)
 - Meetings of thematic groups such as the Biodiversity Bank.
 
 **Training:**
@@ -424,7 +424,7 @@ GeoEuskadi coordinates:
 
 - [SDI  Provincial Council of Bizkaia (GeoBizkaia)](https://www.bizkaia.eus/es/inspirebizkaia)
 
-New SDI geoportal with 7 WMS, 8 WMTS and 3 WFS: www.bizkaia.eus/geobizkaia (5,567 sessions with an average length of 3:47 minutes) 
+New SDI geoportal with 18 WMS, 10 WMTS and 8 WFS, 15 ATOM Feed (5 of these services are INSPIRE services) (: www.bizkaia.eus/geobizkaia (5,567 sessions with an average length of 3:47 minutes) 
 
 |Total number of resorces|2022|2023|2024|
 | ------------- | ------------- |------------- |------------- |
@@ -484,6 +484,7 @@ The above figures are a small sample of some of the organisations existing in Sp
 
 - Existence of big projects of collaborative data production and harmonisation under the umbrella of [National Cartographic System (SCN)](https://www.scne.es/), which include sharing of resulting data; the on-going production of georeferenced reference data increased the sharing of data between public admin. The web site of SCN has a list of public bodies collaborating in the production of geographic data products each year as a result of collaboration agreements with [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal) of Spain.
  - For example: The following national and regional organisations have collaborated in the capture of the [orthoimagery](https://inspire.ec.europa.eu/theme/oi): [National Geographic Institute (IGN)](https://www.ign.es/web/ign/portal), [CNIG](https://www.ign.es/web/ign/portal/qsm-cnig), [Spanish Agrarian Guarantee Fund (FEGA)](https://www.fega.gob.es/en), [General Directorate for Cadastre](https://www.catastro.meh.es/), Autonomous Communities of Aragon, Canary Islands, Catalonia, Valencian Community, Andalusia, Extremadura, Murcia, Galicia, Castile and León, Castile La Mancha, Asturias, Cantabria, Rioja, Navarre, Basque Country, Balearic Islands and Madrid.
+ - There are some collaborative projects: [Citizen Map](https://www.csg-cnc.es/mapaciudadano.html)(Generation of a vector tile service that allows the visualisation and consultation of cartographic elements from the bodies responsible for spatial data at all scales.), [Geo localisation of postal addresses and toponymy](https://www.csg-cnc.es/geolocalizacion.html), Unified Cartographic Base...
 
 **Agreements or conventions co-financed by the autonomous administrations and national organizations**
 
@@ -551,10 +552,13 @@ A study about the benefits and value of the Central SDI-node of Spain by KU Leuv
 States (France, Finland and Sweden) and the feed-model applied by Google for its Google Maps API’s. Moreover, also the value of the geospatial datasets downloaded is quantified based on the fee-models applied in some of the Member States.
 A calculator has been designed to enable organisations to calculate the benefit of publishing data through OGC services.
 
-[**SDI of Aragon**](https://icearagon.aragon.es) has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
+[**The Geographical Institute of Aragon (IGEAR)**](http://igear.aragon.es/), with the aim to improve access to and use of geographical information for decision-making by any entity, and in accordance with Law 3/2022, of October 6, on Geographical Information of Aragon (LIGA), undertook the task of providing the Government of Aragon with the necessary components to integrate spatial knowledge into the existing infrastructure. This led to the creation of the Aragon Knowledge Infrastructure, [**SDI of Aragon (ICEARAGON)**](https://icearagon.aragon.es), whose objectives, principles, and scope are defined in the aforementioned law.
+
+ICEARAGON has carried out a [report on the performance](https://www.aragon.es/documents/d/guest/informe_rendimiento_2023) of the Spatial Knowledge Infrastructure of Aragon (ICEARAGON) and the Active Geodesy Network of Aragon (AREAGA) that has led to a saving of almost two million euros for citizens in 2023.
 - The [Geographic Institute of Aragon (IGEAR)](https://www.aragon.es/organismos/departamento-de-desarrollo-territorial-despoblacion-y-justicia/direccion-general-de-desarrollo-territorial/instituto-geografico-de-aragon-igear-) has been collecting statistics on the use of ICEARAGON and ARAGEA for three years with the aim of knowing the impact of its services and applications from an economic point of view. :
- - 4,842,830 visits to the website in 2023, an increase of 58.6% compared to 2022.
- - 47.8% of the information downloaded refers to environmental layers, 13.8% to administrative boundaries, 13.4% to maps of Aragon, 7% to energy or 4.7% to hunting grounds.
+    - 4,842,830 visits to the website in 2023, an increase of 58.6% compared to 2022.
+    - 47.8% of the information downloaded refers to environmental layers, 13.8% to administrative boundaries, 13.4% to maps of Aragon, 7% to energy or 4.7% to hunting grounds.
+
 The actual turnover that IGEAR would have achieved if it charged for its network services or products would be:
 - ICEARAGON service according to EU average 1.479.484,6+161.221= 1.640.705,6 € (52,9% increase compared to 2022).
 - ICEARAGON Service according to Spain average 1.331.778,3+161.221= 1.492.999,3 € (increase of 52,3% compared to 2022).
@@ -562,23 +566,18 @@ And the total volume of costs saved for the company:
 - ICEARAGON service according to EU average + ARAGEA = 1.992.665,60 euros/year.
 - ICEARAGON service according to SPAIN + ARAGEA average = 1,844,959.30 euros/year.
 
+Report ARAGEA 2024:
+- Some figures: users= 3459, connection number=224.964, connection hours= 722.335, theoretical savings if every active user in 2024 is charged a subscription: 640,023 €, Theoretical savings if every registered user is asked to subscribe: 2,258,727 €.
+
 [**Territorial Information System and Spatial Data Infrastructure of Asturias (SITPA--IDEAS)**](https://ideas.asturias.es)
 
-|Benefit/Value|2021|2022|2023|
-| ------------- | ------------- |------------- |------------- |
-|**Parameter 1 (tiles/WMS) - to be entered**|36|36|36|
-|Number of requests per year, WMS, weighted|1.273.510|1.531.647|1.965.065|
-|Total number of requests per year, WMTS+WMS, weighted|3.808.501|7.460.261|8.303.497|
-|**Parameter 2 (tiles/user session) - to be entered**|200|200|200|
-|Number of user sessions per year|691.898|1.350.505|1.504.455|
-|Number of user sessions per month|57.658|112.542|125.371|
-|**Parameter 3 (price/1000 sessions/month) - to be entered**|7|7|7|
-|Value per month|404|788|878|
-|Value per year|4.843|9.454|10.531|
+|Benefit/Value|2021|2022|2023|2024|
+| ------------- | ------------- |------------- |------------- |------------- |
+|-|5.000|9.000|10.500|13.000|
 
 **The Data Economy in the Infomediary field**
 [ASEDIE](https://www.asedie.es/en/home), Multisectorial Information Association, brings together infomediary companies, which use, re-use and distribute information from different sectors, creating value-added products that contribute to greater security for global merchant traffic by boosting the economy through the application of methods that favor the reliability and transparency of commercial transactions in the business world. 
-This report is based on 43 surveys of companies in the infomediary sector, which analyse and process information from the public and private sectors to create value-added products for third party companies or the general public. ASEDIE's annual report (2023)highlights has the following conclusions:
+This report is based on 43 surveys of companies in the infomediary sector, which analyse and process information from the public and private sectors to create value-added products for third party companies or the general public. [SEDIE's annual report 2024](https://www.asedie.es/s/Asedie-Report-2024.pdf) highlights has the following conclusions:
 - 100% of companies use information from the national administrationa, 88% from the Autonomous Regions and 72% from regional administration and 72% of local entities.
 - 77% of the companies state that with the opening of data in 2015, they are devoting more effort to working with geospatial information of [National Cartographic System (SCN)](https://www.scne.es/) products.
 - 80% use aerial and satellite images, 67% use maps and topographic bases and 62% use LiDAR data. The average number of products used by companies is between 6 and 8.
