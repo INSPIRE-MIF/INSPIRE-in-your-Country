@@ -124,10 +124,10 @@ actors and are difficult to estimate precisely. Most of the workers in the respo
 it as part of their daily job responsibilities and do not get extra benefit for it.
 Coordination costs have been the salary costs of two employees in the Estonian Land Board(today´s Estonain Land and Spatial Development Board), who coordinate the
 entire implementation of the INSPIRE Directive in Estonia. The workload of these two people on INSPIRE topics
-corresponds to 0.5 per full-time workload for the whole reporting period. In addition, the Land Board had 2 people
+corresponds to 0.5 per full-time workload for the whole reporting period. In addition, the Land Board had 4 people
 dealing with different INSPIRE topics: communication with information holders, technical advice, participation in
 workgroups, metadata filling, monitoring and management, reporting, planning of Estonian geoportal development,
-etc. The workload of these people is estimated to be a full-time workload of 1,5 persons for the whole reporting
+etc. The workload of these people is estimated to be a full-time workload of 2,5 persons for the whole reporting
 period.
 Information Technology Centre of the Ministry of the Environment has made the salary costs and technical costs in
 a value of EUR 90 000. They have 3 workers assigned on INSPIRE whom workload corresponds to 2.5 per full-time
