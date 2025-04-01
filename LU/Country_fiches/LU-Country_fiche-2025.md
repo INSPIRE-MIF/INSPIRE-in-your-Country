@@ -1,4 +1,4 @@
-# _LU_ - _2024_: Country Fiche
+# _LU_ - _2025_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -16,7 +16,7 @@ The INSPIRE Directive sets the minimum conditions for interoperable sharing and 
 Article 21 of INSPIRE Directive defines the basic principles for monitoring and reporting. 
 More detailed implementing rules regarding INSPIRE monitoring and reporting have been adopted as Commission Implementing Decision (EU) 2019/1372 on the 19th August 2019. 
 
-This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on monitoring 2023 acquired in December 2023 and Member States update.
+This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on monitoring 2024 acquired in December 2024 and Member States update.
 
 ## State of Play
 
@@ -26,14 +26,13 @@ Luxembourg has an INSPIRE law since 2010 and has implemented and maintainted the
 All Annex I data has been harmonised from the beginning and the harmonisazion of Annex II and III data has been planned in
 2017 in a 4 year road map which has been transposed until the End of 2020.
 
-Everything went well and almost all INSPIRE relevant data has been made available in a harmonised way. A 4 year roadmap
-was set up in 2021 for the operation of the INSPIRE platform and harmonization of new or updated datasets and some more data has been added / harmonized since.
+Everything went well and almost all INSPIRE relevant data has been made available in a harmonised way. A 4 year roadmap was set up in 2021 for the operation of the INSPIRE platform and harmonization of new or updated datasets and some more data has been added / harmonized since.
 
 In order to cope with the new requirements from the HVD Implementing Regulation, the roadmap has been adapted. Starting from 2022, an OGC API Features service has been added for every vector dataset and the entire platform is now being reused in order to serve non-INSPIRE relevant HVD in the same way we already do it for INSPIRE-relevant HVD.
 
 Thus, Luxembourg demonstrates its commitment to advancing data reuse by adopting the latest OGC API Features standards. This forward-thinking approach surpasses the legally compliant and easier-to-setup WFS, ensuring alignment with the most current web standards.
 
-Luxembourg is also dedicated to providing up-to-date and INSPIRE-compliant data. Recently, Lux has implemented an automated update schedule for all datasets and established an automatic validation process to continuously monitor and ensure the conformity of published data, so that several datasets are updated daily, others weekly, monthly or at least yearly, according to their lifecycle.
+Luxembourg is also dedicated to providing up-to-date and INSPIRE-compliant data. Recently, Luxembourg has implemented an automated update schedule for all datasets and established an automatic validation process to continuously monitor and ensure the conformity of published data, so that several datasets are updated daily, others weekly, monthly or at least yearly, according to their lifecycle.
 
 ### Coordination
 
@@ -65,18 +64,16 @@ Luxembourg is also dedicated to providing up-to-date and INSPIRE-compliant data.
 The coordination structure created by the national [INSPIRE law](https://legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/consolide/20150101) is called CC-ILDG:
 * Comité de Coordination de l’Infrastructure Luxembourgeoise de Données Géographiques CC-ILDG, created in 2009, is an organisation that acts as a steering committee of all the activities concerning the creation, updating, management and distribution of geographic data, either in analogue or in digital form. This group is led by the Administration du Cadastre et de la Topographie (ACT), who is responsible for an important part of the geographic data currently available in the Grand-Duchy.
 * Groupe Technique de l'Infrastructure de Données Géographiques GT-ILDG: The members are representatives of their respective public organizations, appointed by their ministers or directors in charge meet 2-4 times a year to discuss projects related to geodata, to discuss challenges and the progress of development of the geoportal tools created by the ILDG / Geoportal team at the ACT.
-* Thematic Working Groups: if special interest topics arise during general meetings, working groups are constituted and agree a meeting schedule. The actual WGs are: WG for legislation purposes, WG for points of interest, WG for water data, WG for geodata policies, WG for the management of metadata. Currently there are two active working groups, one for the usage of UAVs and one for creating an online platform about underground data (pipes etc)
+* Thematic Working Groups: if special interest topics arise during general meetings, working groups are constituted and agree a meeting schedule. The actual WGs are: WG for points of interest, WG for drone data, WG for historical data, WG for transport data, WG for underground data.
 
 ##### Progress
 
 The separation of CC-ILDG and GT-ILDG has been decided in 2019 so that the "CC" can focus on the tasks given by law and the GT can focus on technical aspects.
-Most if not all geographic data produced by the public sector in Luxembourg is released under Creative Commons 0 license to the public domain and is available on [https://data.public.lu](https://data.public.lu). This is a
-huge step and it also helps the public actors to collaborate better.
+Most if not all geographic data produced by the public sector in Luxembourg is released under Creative Commons 0 license to the public domain and is available on [https://data.public.lu](https://data.public.lu). This is ahuge step and it also helps the public actors to collaborate better.
 All the data that is being harmonized for INSPIRE is taken from the open data portal, harmonized and put back there under the same license as INSPIRE GML.
 The whole harmonizing process has been fully automated, so that GMLs, ATOM Feeds and WMS View Services are created by a process that is fed by mapping rules.
 
-Recently, OGC API Features has been added to the infrastructure to meet the needs of the High Value Dataset Regulation so that all the High Value Datasets that fall under the INSPIRE Directive
-do automatically meet the conditions. The GML files are considered as bulk downloads and the OGC API Features represent the API Part.
+Recently, OGC API Features has been added to the infrastructure to meet the needs of the High Value Dataset Regulation so that all the High Value Datasets that fall under the INSPIRE Directivedo automatically meet the conditions. The GML files are considered as bulk downloads and the OGC API Features represent the API Part.
 
 A very high percentage of the data is harmonized and we continue harmonizing newly available or updated datasets.
 
@@ -95,9 +92,8 @@ The "Groupe Technique" of the ILDG meets 2-4 times a year to discuss different a
 The showcase of the Luxemburg’s SDI is the Luxembourgish geoportal which opens up an access to the different users.
 The LSDI offers a lot of OGC compliant webservices (WMS, WFS, CSW, OGC API Features), open data and a very powerful viewer ([http://map.geoportail.lu](http://map.geoportail.lu)). 
 A lot of efforts are being put into the visualization of 3D data (pointclouds, terrains, meshes, 3D buildings).
-Independently of the special geoportal dedicated to INSPIRE, the national geoportal of Luxembourg has great success
-and is widely used by the general public. It counts more than 20'000 visitors per day, through its different viewers,
-webservices and APIs.
+Independently of the special geoportal dedicated to INSPIRE, the national geoportal of Luxembourg has great success and is widely used by the general public. It counts more than 20'000 visitors per day, through its different viewers, webservices and APIs.
+The 3D part will be given a major update this year.
 
 ### Data Sharing Arrangements <a name="data"></a>
 
@@ -113,6 +109,7 @@ The budget for external services of the LSDI in the last years has been the foll
 - 2022: 862'290 €
 - 2023: 932'490 €
 - 2024: 977'352 €
+- 2025: 914'051 €
 
 In 2021 the budget was lowered because INSPIRE was supposed to be finished, but in the following years it has been augmented again to cope with the new HVD requirements.
 
