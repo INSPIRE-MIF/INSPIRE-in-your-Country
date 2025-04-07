@@ -32,7 +32,7 @@ A high-level view on the governance, use and impact of the INSPIRE Directive in 
 - Postal Address: Koordinierungsstelle GDI-DE, Federal Agency for Cartography and Geodesy, Richard-Strauss-Allee 11, 60598 Frankfurt am Main, Germany
 - Contact Email: mail@gdi-de.org
 - Telephone Number: +49 69 6333-258
-- National INSPIRE Website: https://www.gdi-de.org/INSPIRE 
+- National INSPIRE Website: [https://www.gdi-de.org/INSPIRE](https://www.gdi-de.org/INSPIRE) 
 - MIG Contacts: 
   - Contact Person: Dr. Michael Lutz
   - Email: TI2-UI@bmuv.bund.de
