@@ -22,21 +22,21 @@
 
 #### National Contact Point
 
-- Name of Public Authority:
-- Postal Address:
-- Contact Email:
-- Telephone Number:
+- Name of Public Authority:Surveyor General of Poland in Head Office of Geodesy and Cartography
+- Postal Address:Zurawia 6/12 00-926 Warsaw
+- Contact Email:ewa.surma@gugik.gov.pl
+- Telephone Number:225631329
 - Telefax Number:
-- National INSPIRE Website:
+- National INSPIRE Website:  [www.gugik.gov.pl](https://www.gov.pl/web/gugik);
 - MIG Contacts: 
-  - Contact Person:
-  - Email:
-  - Telephone Number:
+  - Contact Person: Ewa Surma
+  - Email:ewa.surma@gugik.gov.pl
+  - Telephone Number:22 56 31 329
   - Contact Person:
   - Email:
 - MIG T Contacts: 
-  - Contact Person:
-  - Email:
+  - Contact Person: Katarzyna Ziębaczewska
+  - Email:katarzyna.ziebaczewska@gugik.gov.pl
   - Contact Person:
   - Email:
   - Telephone Number:
@@ -45,7 +45,16 @@
 
 ##### Coordination structure
 
-< insert text >
+< Polska struktura koordynacyjna w latach 2016-2020 uległa zmianie. Od 15 listopada 2019 r. za proces koordynacji działań w obszarze IIP odpowiadał minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, od 7 października 2020 do 27 października 2021 r. Minister Rozwoju, Pracy i Technologii, a od 27 października 2021 r. odpowiada Minister Rozwoju i Technologii.
+
+Struktura zorganizowana jest hierarchicznie i obejmuje:
+•	Koordynatora całej infrastruktury - Ministra Rozwoju i Technologii (będącego ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa), który wykonuje swoje zadania przy pomocy Głównego Geodety Kraju (GGK) i Rady Infrastruktury Informacji Przestrzennej (IIP).
+•	12 organów wiodących odpowiedzialnych za 34 tematy danych - ministrowie i szefowie urzędów centralnych.
+•	Organy prowadzące publiczne rejestry zawierające dane przestrzenne objęte infrastrukturą.
+•	Minister odpowiedzialny za budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo pełni funkcję koordynatora wszystkich zadań związanych z IIP, które wykonuje przy pomocy GGK. Ponadto, GGK odpowiada za rozwój i utrzymanie geoportalu, będącego centralnym punktem dostępu do zbiorów danych i usług oraz prowadzi publiczny rejestr zbiorów danych przestrzennych i usług objętych infrastrukturą, przydzielając jednolite identyfikatory. Rada Infrastruktury Informacji Przestrzennej współpracuje z ministrem, działając jako organ opiniodawczo-doradczy. Rada IIP może przedstawiać inicjatywy dotyczące poprawy infrastruktury pod względem organizacyjnym i technicznym oraz w celu rozszerzenia jej zakresu.
+•	Organy wiodące, w tym ministrowie i szefowie urzędów centralnych, są odpowiedzialni za przygotowanie zbiorów danych w ramach swoich kompetencji. Odpowiadają za integrację i harmonizację zbiorów danych w celu osiągnięcia interoperacyjności. Ponadto, ponoszą wspólną odpowiedzialność za tworzenie, rozwój i funkcjonowanie infrastruktury oraz za monitorowanie i sprawozdawczość w odniesieniu do jej rozwoju i funkcjonowania.
+•	Organy rządowe i organy samorządu terytorialnego uczestniczą w tworzeniu IIP, pod warunkiem, że posiadają rejestry publiczne zawierające zbiory danych przestrzennych dotyczące co najmniej jednego z tematów, o których mowa w załączniku do ustawy o IIP. Ponadto, organy administracyjne wdrażają rozwiązania techniczne zapewniające interoperacyjność zbiorów danych przestrzennych i usług oraz harmonizację zbiorów danych.
+ >
 ![Coordination structure in Poland](https://www.geoportal.gov.pl/wp-media/2024/04/Obraz3.jpg)
 
 ##### Progress
