@@ -45,7 +45,7 @@
 
 ##### Coordination structure
 
-< Polska struktura koordynacyjna w latach 2016-2020 uległa zmianie. Od 15 listopada 2019 r. za proces koordynacji działań w obszarze IIP odpowiadał minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, od 7 października 2020 do 27 października 2021 r. Minister Rozwoju, Pracy i Technologii, a od 27 października 2021 r. odpowiada Minister Rozwoju i Technologii.
+< Polska struktura koordynacyjna w latach 2016-2020 uległa zmianie. Od 15 listopada 2019 r. za proces koordynacji działań w obszarze IIP odpowiadał minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, od 7 października 2020 do 27 października 2021 r. Minister Rozwoju, Pracy i Technologii, **a od 27 października 2021 r. odpowiada Minister Rozwoju i Technologii**.
 
 Struktura zorganizowana jest hierarchicznie i obejmuje:
 •	Koordynatora całej infrastruktury - Ministra Rozwoju i Technologii (będącego ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa), który wykonuje swoje zadania przy pomocy Głównego Geodety Kraju (GGK) i Rady Infrastruktury Informacji Przestrzennej (IIP).
