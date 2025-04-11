@@ -46,6 +46,7 @@
 ##### Coordination structure
 
 < insert text >
+![Coordination structure in Poland](https://www.geoportal.gov.pl/wp-media/2024/04/Obraz3.jpg)
 
 ##### Progress
 
