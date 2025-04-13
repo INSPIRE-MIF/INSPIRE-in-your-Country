@@ -275,6 +275,7 @@ Dużą zmianą było również udostępnienie nowej wersji szkicownika, który o
 Na stronie www.geoportal.gov.pl wprowadzono także geochatbota, który pozwala uzyskać natychmiastową odpowiedź od wirtualnego asystenta, opartego na sztucznej inteligencji, na podstawowe pytania użytkowników. 
 
  
+![image](https://github.com/user-attachments/assets/86a26eec-5c1c-49a4-8bae-6c88bb81107f)
 
 
 
