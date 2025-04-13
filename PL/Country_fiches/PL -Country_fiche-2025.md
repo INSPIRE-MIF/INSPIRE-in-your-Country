@@ -364,15 +364,15 @@ Dużą zmianą było również udostępnienie nowej wersji szkicownika, który o
 i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opublikowane pod adresem: 
 [INSPIRE Geoportal - INSPIRE Monitoring and Reporting 2024 ](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=pl) 
  
-| Wskaźnik	|2024|
-| ———– |
+| Wskaźnik|2024|
+| ———– |———– |
 |DSi1.1 liczba zbiorów |	172|
 |DSi1.2 liczba usług|	316
 |DSi1.3 (zb. priorytetowe środ.)|	60|
 |DSi1.4 zb. regionalne|	0|
 |DSi1.5 zb. krajowe|	171|
 |Metadane zgodność|	Metadane (2.0)|
-| ———– |
+| ———– |———– |
 |MDi1.1  zbiory|	100 %|
 |MDi1.2  usługi|	93%|
 |Zgodność zbiorów|	
