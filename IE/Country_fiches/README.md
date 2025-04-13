@@ -6,4 +6,4 @@
 * [2021](./fiche_inspire_-_ireland_-_2021.pdf)
 * [2022](./fiche_inspire_-_ireland_-_2022.pdf)
 * [2023](./inspire_-_ireland_-_2023_country_fiche.pdf)
-
+* [2024](./IE-Country_Fiche-2024.md)
