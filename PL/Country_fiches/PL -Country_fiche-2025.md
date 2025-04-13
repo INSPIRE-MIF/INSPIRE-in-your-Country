@@ -252,27 +252,32 @@ W 2023 r. w ramach prac własnych GUGIK wykonał aktualizację map tematycznych:
 •	w ramach prac własnych GUGIK wykonał automatyczną aktualizację Bazy Danych Obiektów Ogólnogeograficznych zasilając tym samym usługi pobierania i przeglądania.
 •	W 2023 r. GUGIK wykonał automatyczną i coroczną aktualizacja modeli 3D obiektów w formacie CityGML w standardzie LoD1 w zakresie aktualizacji modeli 3D budynków oraz rozpoczął proces generowania modeli 3D drzew (na podstawie danych fotogrametrycznych).
 
-
+![Modele 3D](https://www.geoportal.gov.pl/wp-media/2024/04/City3d.png) 
  
 
 
-•	Główny Geodeta Kraju w 2024 r. kontynuował prace pilotażowe w zakresie automatycznie generowanych na podstawie BDOT10k wizualizacji kartograficznych oraz modyfikacji narzędzi do ich generowania dla skal 1:10 000 (4. Iteracja), 1:25 000 (dostosowanie procesów do nowego modelu danych BDOT10k), 1:50 000 (3. Iteracja) oraz 1:100 000 (przygotowanie procesów).
+•	**Główny Geodeta Kraju w 2024 r. kontynuował prace pilotażowe w zakresie automatycznie generowanych na podstawie BDOT10k wizualizacji kartograficznych oraz modyfikacji narzędzi do ich generowania dla skal 1:10 000 (4. Iteracja), 1:25 000 (dostosowanie procesów do nowego modelu danych BDOT10k), 1:50 000 (3. Iteracja) oraz 1:100 000 (przygotowanie procesów).
 •	Ponadto w 2024 roku kontynuowano w GUGiK rozwój nowej wersji geoportalu, dodając kolejne moduły, takie jak planowanie przestrzenne, zarządzanie kryzysowe, ochrona środowiska oraz rolnictwo. Nowe moduły zawierają różnorodne kompozycje mapowe, dostosowane do potrzeb użytkowników zainteresowanych danym tematem. W szczególności, w module zarządzania kryzysowego udostępniono funkcjonalności związane z monitorowaniem zagrożeń powodziowych w Polsce. W ramach tej funkcji dostępne są dane dotyczące powodzi, pochodzące z projektu Copernicus, które wspierają wczesne ostrzeganie oraz reagowanie na zagrożenia związane z wodami powierzchniowymi.
- 
+
+ ![image](https://github.com/user-attachments/assets/2bb443d2-1ea9-44e1-bb8d-ce20161e3c4f)
+
 
 Wprowadzono także moduł edukacyjny, który w jednym miejscu zbiera linki do szkoleń oraz filmów instruktażowych. 
 
- 
+ ![image](https://github.com/user-attachments/assets/ec07d66d-a109-46c1-aecd-108f8160d87c)
+
 
 Dodatkowo, dodano bezpośredni odnośnik do KMZB, co ułatwia użytkownikom dostęp do aplikacji stworzonej we współpracy z MSWiA. W nowej wersji geoportalu, bazującej na nowym silniku mapowym, zaktualizowano lub wprowadzono szereg funkcjonalności, w tym widok chmury punktów, obliczanie objętości wykopów i nasypów oraz możliwość osadzania map na stronach internetowych. Ta ostatnia funkcja, szczególnie funkcjonalna, umożliwia generowanie kodu JavaScript, który można łatwo osadzić na stronie jako interaktywną mapę, znacznie ułatwiając dostęp do danych.
 
- 
+ ![image](https://github.com/user-attachments/assets/4183d4fa-1141-4e44-80c4-9c35118492e1)
+
 
 Dużą zmianą było również udostępnienie nowej wersji szkicownika, który oferuje zaawansowane możliwości przygotowania szkicu do wydruku w połączeniu z modułem drukowania. Nowa funkcjonalność umożliwia parametryzowanie wyświetlanych etykiet, dodawanie spersonalizowanych stylizacji, a także import oraz eksport danych w wielu popularnych formatach, takich jak JSON, GeoJSON, GPX, KML, ZIP, czy GPKG. Te ulepszenia znacząco zwiększają możliwości korzystania z danych przez użytkowników, którzy nie mają dostępu do zaawansowanych i często płatnych narzędzi GIS. Dzięki tym funkcjom, geoportal stał się jeszcze bardziej dostosowany do potrzeb szerokiego kręgu użytkowników, oferując im prostsze, ale równie funkcjonalne narzędzia do pracy z danymi.
 
- 
+ ![image](https://github.com/user-attachments/assets/d0aff548-e0ec-42c0-a00a-2f1fbcb0747e)
 
-Na stronie www.geoportal.gov.pl wprowadzono także geochatbota, który pozwala uzyskać natychmiastową odpowiedź od wirtualnego asystenta, opartego na sztucznej inteligencji, na podstawowe pytania użytkowników. 
+
+Na stronie www.geoportal.gov.pl wprowadzono także geochatbota, który pozwala uzyskać natychmiastową odpowiedź od wirtualnego asystenta, opartego na sztucznej inteligencji, na podstawowe pytania użytkowników.** 
 
  
 ![image](https://github.com/user-attachments/assets/86a26eec-5c1c-49a4-8bae-6c88bb81107f)
