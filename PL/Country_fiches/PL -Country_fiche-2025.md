@@ -1,4 +1,4 @@
-# _PL-code_ -2025_Year_: Country Fiche
+# _PL-2025_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
