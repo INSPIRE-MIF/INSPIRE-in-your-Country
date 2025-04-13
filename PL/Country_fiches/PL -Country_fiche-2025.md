@@ -300,18 +300,22 @@ i Kartografii),
 	część woj. zachodniopomorskiego – powiaty m. Koszalin, m. Szczecin (Instytut Geodezji i Kartografii),
 	część woj. warmińsko-mazurskiego – powiaty gołdapski i węgorzewski (WODGiK Olsztyn).
 
- 
+ ![image](https://github.com/user-attachments/assets/a8083bdf-de96-4028-be9d-23eb8ef5556b)
+
 
 
 •	konwersja pozyskanych z urzędów marszałkowskich map glebowo-rolniczych w skali 1:5000 do nowego schematu aplikacyjnego dla obszarów województw dolnośląskiego, kujawsko-pomorskiego (powiaty aleksandrowski, chełmiński, mogileński i radziejowski), lubelskiego (oprócz m. Chełm), lubuskiego, łódzkiego, małopolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego (powiaty bieruńsko-lędziński, częstochowski, raciborski, rybnicki 
 i zawierciański), świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego 
 i zachodniopomorskiego w zakresie konturów glebowych.
 
- 
+ ![image](https://github.com/user-attachments/assets/b6feaf8f-c962-4b90-ad56-b3f4bfedef8b)
+
 
 •	Udostępnienie usługi WMS z wizualizacją mapy glebowo-rolniczej (kontury i odkrywki glebowe) dla skali większej od 1:50 000 wraz z etykietą w skali do 1:10 000,
 •	Udostępnienie usługi WMTS z wizualizacją mapy glebowo-rolniczej (kontury glebowe) dla skali mniejszej niż 1:50 000.
- 
+
+ ![image](https://github.com/user-attachments/assets/1f4a295f-e2b4-40ca-836d-0482bbb1b149)
+
 
 W 2023 r. w ramach prac własnych GUGIK wykonał aktualizację map tematycznych:
 - mapa administracyjna w skali 1:500 000, 
