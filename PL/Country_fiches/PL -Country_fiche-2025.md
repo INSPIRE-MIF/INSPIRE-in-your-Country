@@ -166,7 +166,7 @@ w ramach tych grup, jak i pomiędzy nimi, dostarczyły informację geologiczną 
 •	Serwis zabytek.pl, który tworzony jest przez Narodowy Instytut Dziedzictwa (NID), udostępnia informacje o polskich zabytkach wraz z ich opisami, dokumentacją, zdjęciami (w tym zdjęciami
 360 st.), zasobami cyfrowymi (takimi jak modele 3D, chmury punktów) oraz lokalizacją obiektów. Na koniec 2024 r. w serwisie było opublikowanych 203 zobrazowań 3D.**
 
- 	![image](https://github.com/user-attachments/assets/87030df5-2705-4d3d-9cbf-4a2abd040e28)
+ ![image](https://github.com/user-attachments/assets/87030df5-2705-4d3d-9cbf-4a2abd040e28)
 
 
 z portalu zabytek.pl skorzystało ponad 1,22 mln użytkowników w trakcie ponad 10 mln sesji. Portal zabytek.pl zintegrowany jest z portalem mapowym administrowanym przez Instytut. Portal mapowy mapy.zabytek.gov.pl jest elementem systemu informatycznego służącego zarządzaniu Centralną Bazą Danych o Zabytkach. Publikowane są na nim dane dotyczące rejestru i ewidencji zabytków oraz grobów i cmentarzy wojennych. W 2024 r. Portal mapowy odwiedziło ponad 5 mln użytkowników, co jest Usługi danych przestrzennych publikowane przez NID zostały wywołane ponad 371 mln razy. 
