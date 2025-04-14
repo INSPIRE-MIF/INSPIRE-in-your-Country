@@ -13,7 +13,7 @@
 ## Introduction
 
 < Dyrektywa INSPIRE określa minimalne warunki interoperacyjnego udostępniania i wymiany danych przestrzennych w całej Europie jako część Europejskich Ram Interoperacyjności oraz planu działania w obszarze e-administracji, który przyczynia się do realizacji Agendy Jednolitego Rynku Cyfrowego. Art. 21 Dyrektywy INSPIRE określa podstawowe zasady monitorowania i sprawozdawczości. Bardziej szczegółowe przepisy wykonawcze dotyczące monitorowania i sprawozdawczości INSPIRE zostały przyjęte jako DECYZJA KOMISJI w zakresie monitorowania i sprawozdawczości INSPIRE z dnia 19 sierpnia 2019 r.
-Niniejsza karta informacyjna podkreśla postępy Polski w różnych obszarach wdrażania INSPIRE i przedstawia perspektywy planowanych działań na rzecz dalszego wdrażania Dyrektywy INSPIRE.>
+***Niniejsza karta informacyjna podkreśla postępy Polski w różnych obszarach wdrażania INSPIRE i przedstawia perspektywy planowanych działań na rzecz dalszego wdrażania Dyrektywy INSPIRE.*** >
 
 ## State of Play
 
@@ -239,7 +239,8 @@ w postaci Map Zagrożenia Powodziowego udostępnianych przez Państwowe Gospodar
 
  ![Zagrozenie powodziowe](https://www.geoportal.gov.pl/wp-media/2024/04/powodz.png)
 
-	W narzędziu znalazła się również sekcja prezentująca ortofotomapy – domyślnie prezentowana jest ortofotomapa aktualna. Dodatkowo użytkownik ma możliwość włączenia do raportu widoków z ortofotomap archiwalnych, dzięki którym w prosty sposób można zobaczyć jakie zmiany w terenie zachodziły na przestrzeni lat.
+
+W narzędziu znalazła się również sekcja prezentująca ortofotomapy – domyślnie prezentowana jest ortofotomapa aktualna. Dodatkowo użytkownik ma możliwość włączenia do raportu widoków z ortofotomap archiwalnych, dzięki którym w prosty sposób można zobaczyć jakie zmiany w terenie zachodziły na przestrzeni lat.
 Opisane narzędzie powstało siłami własnymi GUGiK i w obecnej formie nie stanowi finalnego rozwiązania. Planowana jest dalsza rozbudowa narzędzia i jego optymalizacja.
 
 •	We wrześniu 2023 roku zaktualizowano oprogramowanie Geoportalu, wprowadzając również nową kompozycję mapową „Planowanie przestrzenne” bazującą na nowym, zoptymalizowanym silniku mapowym zapewniającym prostą i intuicyjną nawigację po mapach i innych zasobach Geoportalu. Zastosowane zoptymalizowane technologie znacząco przyspieszyły działanie naszej strony internetowej. 
@@ -373,7 +374,7 @@ Dużą zmianą było również udostępnienie nowej wersji szkicownika, który o
 i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opublikowane pod adresem: 
 [INSPIRE Geoportal - INSPIRE Monitoring and Reporting 2024 ](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=pl) 
  
-|	Wskaźnik	| 2024	|
+|	**Wskaźnik**	| **2024**	|
 
 
 
@@ -394,7 +395,7 @@ i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opubl
 |	DSi1.5 zb. krajowe	|	171	|
 
 
-|	Metadane zgodność	|	Metadane (2.0)	|
+|	**Metadane zgodność**	|	Metadane (2.0)	|
 
 
 
@@ -404,7 +405,7 @@ i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opubl
 |	MDi1.2  usługi	|	93%	|
 
 
-|	Zgodność zbiorów	|	
+|	**Zgodność zbiorów**	|	
 
 
 |	DSi2	|	84%	|
@@ -419,7 +420,7 @@ i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opubl
 |	DSi2.3 aneks III	|	79%	|
 
 
-|	Dostępność zbiorów	|	
+|	**Dostępność zbiorów**	|	
 
 
 |	NSi2 przeglądania i pobierania	|	67%	|
@@ -431,7 +432,7 @@ i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opubl
 |	NSi2.2 usługa pobierania	|	74%	|
 
 
-|	Zgodność usług	|  NSi4	97%	|
+|	**Zgodność usług**	|  NSi4	97%	|
 
 
 |	NSi4.1 (wyszukiwania)	|	100%	|
