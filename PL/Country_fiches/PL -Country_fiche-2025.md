@@ -13,12 +13,18 @@
 ## Introduction
 
 < Dyrektywa INSPIRE określa minimalne warunki interoperacyjnego udostępniania i wymiany danych przestrzennych w całej Europie jako część Europejskich Ram Interoperacyjności oraz planu działania w obszarze e-administracji, który przyczynia się do realizacji Agendy Jednolitego Rynku Cyfrowego. Art. 21 Dyrektywy INSPIRE określa podstawowe zasady monitorowania i sprawozdawczości. Bardziej szczegółowe przepisy wykonawcze dotyczące monitorowania i sprawozdawczości INSPIRE zostały przyjęte jako DECYZJA KOMISJI w zakresie monitorowania i sprawozdawczości INSPIRE z dnia 19 sierpnia 2019 r.
-Niniejsza karta informacyjna podkreśla postępy Polski w różnych obszarach wdrażania INSPIRE i przedstawia perspektywy planowanych działań na rzecz dalszego wdrażania Dyrektywy INSPIRE. 
- >
+Niniejsza karta informacyjna podkreśla postępy Polski w różnych obszarach wdrażania INSPIRE i przedstawia perspektywy planowanych działań na rzecz dalszego wdrażania Dyrektywy INSPIRE.>
 
 ## State of Play
 
-< insert text >
+<Opinia wysokiego szczebla na temat zarządzania, stosowania i wpływu Dyrektywy INSPIRE w Polsce. Bardziej szczegółowe informacje są dostępne w bazie wiedzy INSPIRE.
+Treść rozdziału jest przedstawiona według 5 kryteriów:
+•	[Skuteczność] Jak skuteczny jest proces wdrażania INSPIRE i osiąganie celów; postępy, luki, jakie czynniki miały wpływ na proces i dlaczego cele nie zostały jeszcze osiągnięte w odniesieniu do dostępności usług, interoperacyjności danych, współdzielenia, przeszkód w zakresie polityki danych.
+•	[Efektywność] Koszty (liczby lub trudności w ich ocenie); korzyści (jakościowe lub ilościowe), które są już widoczne.
+•	[Znaczenie] Czy w dalszym ciągu istotne jest dla krajowej infrastruktury informacji przestrzennej zapewnienie interoperacyjności danych, usuwanie przeszkód w udostępnianiu danych, wspieranie współpracy między służbami publicznymi, wykorzystanie międzysektorowego zapotrzebowania przez administrację elektroniczną, modernizacja administracji publicznej itp.; wsparcie udzielane przez instytucje krajowe na realizację wdrożenia.
+•	[Spójność] Wewnętrzna spójność przepisów INSPIRE wynikająca z wdrożenia; aplikacje transgraniczne; spójność z innymi politykami krajowymi i unijnymi.
+•	[Wartość dodana UE] Poprawa transgranicznego zarządzania i wykorzystania danych w UE; wykorzystanie do monitorowania środowiska i sprawozdawczości, wykorzystanie dla i z danymi z programu Copernicus; wykorzystanie międzysektorowe.
+ >
 
 ### Coordination
 
@@ -283,10 +289,10 @@ o	opracowanie i udostępnienie w repozytorium interoperacyjności modelu pojęci
 
 •	konwersja pozyskanych z urzędów marszałkowskich map glebowo-rolniczych w skali 1 : 5000 do nowego schematu aplikacyjnego dla obszarów województw wielkopolskiego, podlaskiego, lubuskiego i warmińsko-mazurskiego w zakresie konturów glebowych.
 •	Po zakończeniu procesów konwersji i cyfryzacji dla obszaru kraju zostaną udostępnione usługi przeglądania.
-•	W 2024 r. Główny Geodeta Kraju, przy współpracy z IUNG-PIB, zrealizował następujące prace w obszarze mapy glebowo-rolniczej:
-o	przetworzenie rastrowej mapy glebowo-rolniczej w skali 1:5000 do postaci wektorowej. Prace obejmowały w szczególności wektoryzację konturów glebowych i lokalizacji odkrywek glebowych wraz z zapisem do formatu GML, zgodnie z nowym schematem aplikacyjnym XSD dla następujących obszarów:
+•	**W 2024 r. Główny Geodeta Kraju, przy współpracy z IUNG-PIB, zrealizował następujące prace w obszarze mapy glebowo-rolniczej:
+o	przetworzenie rastrowej mapy glebowo-rolniczej w skali 1:5000 do postaci wektorowej. Prace obejmowały w szczególności wektoryzację konturów glebowych i lokalizacji odkrywek glebowych wraz z zapisem do formatu GML, zgodnie z nowym schematem aplikacyjnym XSD dla następujących obszarów:**
 
-	mazowieckiego – powiaty białobrzeski, ciechanowski, garwoliński, gostyniński, grodziski, grójecki, kozienicki, legionowski, lipski, łosicki, makowski, miński, mławski, nowodworski, ostrołęcki, ostrowski, otwocki, piaseczyński, płocki, płoński, pruszkowski, przasnyski, przysuski, pułtuski, radomski, siedlecki, sierpecki, sochaczewski, sokołowski, szydłowiecki, warszawski zachodni, węgrowski, wołomiński, wyszkowski, zwoleński, żuromiński, żyrardowski, 
+	**mazowieckiego – powiaty białobrzeski, ciechanowski, garwoliński, gostyniński, grodziski, grójecki, kozienicki, legionowski, lipski, łosicki, makowski, miński, mławski, nowodworski, ostrołęcki, ostrowski, otwocki, piaseczyński, płocki, płoński, pruszkowski, przasnyski, przysuski, pułtuski, radomski, siedlecki, sierpecki, sochaczewski, sokołowski, szydłowiecki, warszawski zachodni, węgrowski, wołomiński, wyszkowski, zwoleński, żuromiński, żyrardowski, 
 m. Ostrołęka, m. Płock, m. Radom, m. Siedlce, m. st. Warszawa (OPGK Kraków),
 	część woj. śląskiego – powiaty będziński, bielski, cieszyński, gliwicki, kłobucki, lubliniecki, mikołowski, myszkowski, pszczyński, tarnogórski, wodzisławski, żywiecki, m. Bielsko-Biała, m. Bytom, m. Chorzów, m. Częstochowa, 
 m. Dąbrowa Górnicza, m. Gliwice, m. Jastrzębie-Zdrój, m. Jaworzno, 
@@ -299,7 +305,7 @@ m. Zamość (UNIMAP sp. z o.o.),
 m. Bydgoszcz, m. Grudziądz, m. Toruń, m. Włocławek (Instytut Geodezji 
 i Kartografii), 
 	część woj. zachodniopomorskiego – powiaty m. Koszalin, m. Szczecin (Instytut Geodezji i Kartografii),
-	część woj. warmińsko-mazurskiego – powiaty gołdapski i węgorzewski (WODGiK Olsztyn).
+	część woj. warmińsko-mazurskiego – powiaty gołdapski i węgorzewski (WODGiK Olsztyn).** 
 
  ![image](https://github.com/user-attachments/assets/a8083bdf-de96-4028-be9d-23eb8ef5556b)
 
@@ -324,6 +330,8 @@ W 2023 r. w ramach prac własnych GUGIK wykonał aktualizację map tematycznych:
 •	w ramach prac własnych GUGIK wykonał aktualizację map tematycznych:
 - mapa administracyjna w skali 1:500 000, 
 - mapa pokrycia terenu w skali 1:500 000.
+
+  
 •	Główny Geodeta Kraju w 2023 r. kontynuował prace pilotażowe w zakresie automatycznie generowanych na podstawie BDOT10k wizualizacji kartograficznych oraz modyfikacji narzędzi do ich generowania dla skal 1:10 000 (3. Iteracja), 1:25 000 (3. iteracja) oraz 1:50 000 (2. Iteracja). Wszystkie te mapy dostępne są do nieodpłatnego pobrania za pomocą serwisu www.geoportal.gov.pl
 •	W 2023 r. w ramach prac własnych GUGIK wykonał automatyczną aktualizację Bazy Danych Obiektów Ogólnogeograficznych zasilając tym samym usługi pobierania i przeglądania.
 •	w ramach prac własnych GUGIK wykonał automatyczną aktualizację Bazy Danych Obiektów Ogólnogeograficznych zasilając tym samym usługi pobierania i przeglądania.
@@ -365,7 +373,7 @@ Dużą zmianą było również udostępnienie nowej wersji szkicownika, który o
 i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opublikowane pod adresem: 
 [INSPIRE Geoportal - INSPIRE Monitoring and Reporting 2024 ](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=pl) 
  
-/	Wskaźnik	/ 2024	/ 
+|	Wskaźnik	| 2024	|
 
 
 
@@ -388,8 +396,6 @@ i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opubl
 
 |	Metadane zgodność	|	Metadane (2.0)	|
 
-
-|	 ———– 	|	———–	|
 
 
 |	MDi1.1  zbiory	|	100 %	|
