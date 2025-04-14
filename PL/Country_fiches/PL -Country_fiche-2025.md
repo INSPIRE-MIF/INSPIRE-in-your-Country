@@ -40,14 +40,11 @@ Treść rozdziału jest przedstawiona według 5 kryteriów:
   - Contact Person: Ewa Surma
   - Email: ewa.surma@gugik.gov.pl
   - Telephone Number:22 56 31 329
-  - Contact Person:
-  - Email:
+ 
 - MIG T Contacts: 
   - Contact Person: Katarzyna Ziębaczewska
   - Email: katarzyna.ziebaczewska@gugik.gov.pl
-  - Contact Person:
-  - Email:
-  - Telephone Number:
+  
 
 #### Coordination Structure & Progress: 
 
