@@ -364,7 +364,7 @@ Dużą zmianą było również udostępnienie nowej wersji szkicownika, który o
 i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opublikowane pod adresem: 
 [INSPIRE Geoportal - INSPIRE Monitoring and Reporting 2024 ](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=pl) 
  
-/Wskaźnik/2024/
+/ Wskaźnik / 2024 / 
 
 
 /———–/———–/
