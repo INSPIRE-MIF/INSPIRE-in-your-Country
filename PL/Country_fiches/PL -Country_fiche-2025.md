@@ -57,7 +57,7 @@ Struktura zorganizowana jest hierarchicznie i obejmuje:
 •	Organy wiodące, w tym ministrowie i szefowie urzędów centralnych, są odpowiedzialni za przygotowanie zbiorów danych w ramach swoich kompetencji. Odpowiadają za integrację i harmonizację zbiorów danych w celu osiągnięcia interoperacyjności. Ponadto, ponoszą wspólną odpowiedzialność za tworzenie, rozwój i funkcjonowanie infrastruktury oraz za monitorowanie i sprawozdawczość w odniesieniu do jej rozwoju i funkcjonowania.
 •	Organy rządowe i organy samorządu terytorialnego uczestniczą w tworzeniu IIP, pod warunkiem, że posiadają rejestry publiczne zawierające zbiory danych przestrzennych dotyczące co najmniej jednego z tematów, o których mowa w załączniku do ustawy o IIP. Ponadto, organy administracyjne wdrażają rozwiązania techniczne zapewniające interoperacyjność zbiorów danych przestrzennych i usług oraz harmonizację zbiorów danych.
  >
-![Coordination structure in Poland](https://www.geoportal.gov.pl/wp-media/2024/04/Obraz3.jpg)
+	![Coordination structure in Poland](https://www.geoportal.gov.pl/wp-media/2024/04/Obraz3.jpg)
 
 ##### Progress
 
