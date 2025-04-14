@@ -26,19 +26,19 @@ Niniejsza karta informacyjna podkreśla postępy Polski w różnych obszarach wd
 
 - Name of Public Authority:Surveyor General of Poland in Head Office of Geodesy and Cartography
 - Postal Address:Zurawia 6/12 00-926 Warsaw
-- Contact Email:ewa.surma@gugik.gov.pl
+- Contact Email: ewa.surma@gugik.gov.pl
 - Telephone Number:225631329
 - Telefax Number:
 - National INSPIRE Website:  [www.gugik.gov.pl](https://www.gov.pl/web/gugik);
 - MIG Contacts: 
   - Contact Person: Ewa Surma
-  - Email:ewa.surma@gugik.gov.pl
+  - Email: ewa.surma@gugik.gov.pl
   - Telephone Number:22 56 31 329
   - Contact Person:
   - Email:
 - MIG T Contacts: 
   - Contact Person: Katarzyna Ziębaczewska
-  - Email:katarzyna.ziebaczewska@gugik.gov.pl
+  - Email: katarzyna.ziebaczewska@gugik.gov.pl
   - Contact Person:
   - Email:
   - Telephone Number:
@@ -142,10 +142,11 @@ o	ULDK – (Usługa Lokalizacji Działek Katastralnych) usługa do lokalizacji d
   
 o	Ponadto w 2019 r GUGiK uruchomił zbiorczą usługę WMS o nazwie Krajowa Integracja Uzbrojenia Terenu (KIUT). Usługa prezentuje uzbrojenie z terenu wszystkich powiatów. W 2020 roku usługa miała ok. 50 milionów wywołań miesięcznie, a powiązanie obrazu otrzymanego z usługi KIUT z obrazem z usługi KIEG daje najpełniejszy obraz informacji o terenie (rysunek poniżej). Usługa ta w 2021 roku odnotowała duży wzrost wykorzystania, bo została wywołana ponad 850 mln razy. Jest to wynik lepszy o ponad 58% względem 2020 roku. W 2022 r. usługę KIUT wywołano ponad 879 mln. W roku 2023 wykorzystanie usługi ponownie wzrosło osiągając wynik 967 mln wywołań. **Usługa KIUT w roku 2024 r. wywołana została ponad 1,14 mld razy.**
 
-![Krajowa Integracja Uzbrojenia Terenu](https://www.geoportal.gov.pl/wp-media/2024/04/KIUT.png)
+![KIUT](https://github.com/user-attachments/assets/baae5009-8ffa-4852-b707-a691c7547c0d)
+
 
   
-o	Kolejną popularną usługą integracyjną publikowaną przez GUGiK jest Krajowa Integracja bazy danych Obiektów Topograficznych (KIBDOT). Usługa prezentuje obiekty topograficzne charakterystyczne dla mapy przygotowanej w przedziałach skalowych 500 - 5000 z wyłączeniem obiektów ewidencji gruntów i budynków oraz uzbrojenia terenu (rysunek poniżej). W roku 2023 wykorzystanie usługi wyniosło 568 mln wywołań, natomiast 2024 r. wykorzystanie usługi KIBDOT wynosiło 664,4 mln wywołań.
+o	Kolejną popularną usługą integracyjną publikowaną przez GUGiK jest Krajowa Integracja bazy danych Obiektów Topograficznych (KIBDOT). Usługa prezentuje obiekty topograficzne charakterystyczne dla mapy przygotowanej w przedziałach skalowych 500 - 5000 z wyłączeniem obiektów ewidencji gruntów i budynków oraz uzbrojenia terenu (rysunek poniżej). W roku 2023 wykorzystanie usługi wyniosło 568 mln wywołań, **natomiast 2024 r. wykorzystanie usługi KIBDOT wynosiło 664,4 mln wywołań.**
 
 ![Krajowa Integracja Bazy Danych Obiektów Topograficznych](https://www.geoportal.gov.pl/wp-media/2024/04/KIBDOT.png)
  
@@ -154,7 +155,7 @@ z poziomu Geoportalu krajowego.
 •	W 2022 r. infrastrukturę informacji przestrzennej GIOŚ INSPIRE rozszerzono o kolejne zharmonizowane zbiory danych, usługi i metadane (patrz: rozdział 1.1 Koordynacja podpunkt Postęp). Jednocześnie w miarę możliwości zaktualizowano zharmonizowane zbiory danych przestrzennych i metadane. Ponadto podejmowano działania w zakresie publikacji zbiorów danych dot. INSPIRE poprzez usługę pobierania OGC API Features. Mając na uwadze działania KE dotyczące otwartych danych w szczególności w zakresie zbiorów danych wysokiej wartości w ramach tej usługi zostały udostępnione wybrane dane przestrzenne GIOŚ, w otwartym formacie przeznaczonym do odczytu maszynowego, co powinno umożliwić zainteresowanym ich przetwarzanie maszynowe i szersze wykorzystanie udostępnionych danych (danych w zakresie INSPIRE).
 •	W 2023 r. w GIOŚ podobnie jak w latach ubiegłych kontynuowano prace w zakresie utrzymania i rozwoju węzła infrastruktury informacji przestrzennej GIOŚ INSPIRE, w tym tam gdzie to możliwe zaktualizowano zharmonizowane zbiory danych przestrzennych oraz metadane. W ramach geoportalu GIOŚ INSPIRE (aplikacji mapowej) w zakresie zharmonizowanych zbiorów danych przestrzennych dotyczących monitoringu pól elektromagnetycznych dokonano zmian w wizualizacji tego zasobu w związku ze zmianami wynikającymi z rozporządzenia Ministra Klimatu i Środowiska z dnia 15 grudnia 2020 r. 
 w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku. Jednocześnie w ramach geoportalu GIOŚ INSPIRE uzupełniono zakres prezentowanych zasobów o zharmonizowane zbiory danych przestrzennych dotyczące zbiorów danych przestrzennych sprawozdawanych do Komisji Europejskiej (KE) za lata 2013-2018 na podstawie art. 12 dyrektywy ptasiej i art. 17 dyrektywy siedliskowej.
-•	W 2024 r. w GIOŚ w ramach prac własnych utrzymano funkcjonującą infrastrukturę informacji przestrzennej GIOŚ INSPIRE, wykonano aktualizację zharmonizowanych zbiorów danych przestrzennych i metadanych. W ramach innych prowadzonych działań GIOŚ rozszerzono zakres danych udostępnionych poprzez usługę OGC API Features. Ponadto GIOŚ podejmował działania w zakresie utrzymania i rozwoju węzła infrastruktury informacji przestrzennej GIOŚ INSPIRE z uwzględnieniem potrzeb w zakresie otwartych danych.
+•	**W 2024 r. w GIOŚ w ramach prac własnych utrzymano funkcjonującą infrastrukturę informacji przestrzennej GIOŚ INSPIRE, wykonano aktualizację zharmonizowanych zbiorów danych przestrzennych i metadanych. W ramach innych prowadzonych działań GIOŚ rozszerzono zakres danych udostępnionych poprzez usługę OGC API Features. Ponadto GIOŚ podejmował działania w zakresie utrzymania i rozwoju węzła infrastruktury informacji przestrzennej GIOŚ INSPIRE z uwzględnieniem potrzeb w zakresie otwartych danych.**
 •	Informacje o otwartych danych GIOŚ, w tym dostosowanych do wymagań INSPIRE są publikowane na rządowym portalu dane.gov.pl i dostępne z poziomu europejskiego portalu data.europa.eu.
 •	Generalna Dyrekcja Ochrony Środowiska współdziałała z Ministerstwem Klimatu i Środowiska w zakresie publikacji oraz migracji metadanych do wersji 2.0 dla zbiorów i usług sieciowych. Zbiory i usługi sieciowe prowadzone są przez GDOŚ w zakresie następujących tematów: I.9 obszary chronione, III.17 regiony biogeograficzne, III.18 siedliska i obszary przyrodniczo jednorodne, III.19 rozmieszczenie gatunków, znajdujących się wśród zbiorów określanych jako priorytetowe. Do celów publikacji metadanych została uruchomiona nowa usługa CSW (katalog metadanych) dostępna pod adresem: https://bankdanych.gdos.gov.pl/geonetwork.
 •	W 2023 roku kontynuowano proces weryfikacji publikacji metadanych i zbiorów danych przestrzennych GDOŚ za pośrednictwem usług danych przestrzennych wraz z poprawą identyfikowanych nieprawidłowości m. in. w zakresie harmonizacji i publikacji zbioru danych inwazyjnych gatunków obcych.
