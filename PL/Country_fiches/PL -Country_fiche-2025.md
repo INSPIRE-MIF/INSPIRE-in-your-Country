@@ -364,79 +364,79 @@ Dużą zmianą było również udostępnienie nowej wersji szkicownika, który o
 i wykorzystywania infrastruktury informacji przestrzennej. Wyniki zostały opublikowane pod adresem: 
 [INSPIRE Geoportal - INSPIRE Monitoring and Reporting 2024 ](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=pl) 
  
-/ Wskaźnik / 2024 / 
+/	Wskaźnik	/ 2024	/ 
 
 
-/———–/———–/
 
 
-|DSi1.1 liczba zbiorów |	172|
+
+|	DSi1.1 liczba zbiorów	|	172	|
 
 
-|DSi1.2 liczba usług|	316|
+|	DSi1.2 liczba usług	|	316	|
 
 
-|DSi1.3 (zb. priorytetowe środ.)|	60|
+|	DSi1.3 (zb. priorytetowe środ.)	|	60	|
 
 
-|DSi1.4 zb. regionalne|	0|
+|	DSi1.4 zb. regionalne	|	0	|
 
 
-|DSi1.5 zb. krajowe|	171|
+|	DSi1.5 zb. krajowe	|	171	|
 
 
-|Metadane zgodność|	Metadane (2.0)|
+|	Metadane zgodność	|	Metadane (2.0)	|
 
 
-| ———– |———– |
+|	 ———– 	|	———–	|
 
 
-|MDi1.1  zbiory|	100 %|
+|	MDi1.1  zbiory	|	100 %	|
 
 
-|MDi1.2  usługi|	93%|
+|	MDi1.2  usługi	|	93%	|
 
 
-|Zgodność zbiorów|	
+|	Zgodność zbiorów	|	
 
 
-|DSi2|	84%|
+|	DSi2	|	84%	|
 
 
-|DSi2.1 aneks I|	88%|
+|	DSi2.1 aneks I	|	88%	|
 
 
-|DSi2.2 aneks II|	96%|
+|	DSi2.2 aneks II		|	96%	|
 
 
-|DSi2.3 aneks III|	79%|
+|	DSi2.3 aneks III	|	79%	|
 
 
-|Dostępność zbiorów|	
+|	Dostępność zbiorów	|	
 
 
-|NSi2 przeglądania i pobierania|	67%|
+|	NSi2 przeglądania i pobierania	|	67%	|
 
 
-|NSi2.1 usługa przeglądania|	67%|
+|	NSi2.1 usługa przeglądania	|	67%	|
 
 
-|NSi2.2 usługa pobierania|	74%|
+|	NSi2.2 usługa pobierania	|	74%	|
 
 
-|Zgodność usług|  NSi4	97%|
+|	Zgodność usług	|  NSi4	97%	|
 
 
-|NSi4.1 (wyszukiwania)|	100%|
+|	NSi4.1 (wyszukiwania)	|	100%	|
 
 
-|NSi4.2 (przeglądania)|	97%|
+|	NSi4.2 (przeglądania)	|	97%	|
 
 
-|NSi4.3 (pobierania)|	99%|
+|	NSi4.3 (pobierania)	|	99%	|
 
 
-|NSi4.4 (przekształcania)|	-|
+|	NSi4.4 (przekształcania)|	-	|
 
  
  
