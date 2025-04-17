@@ -7,3 +7,4 @@
 * [2022](./fiche_inspire_-_poland_-_2022.pdf)
 * [2023](./inspire_-_poland_-_2023_country_fiche.pdf)
 * [2024](./PL_Country_fiche-2024.md)
+* [2025](./PL-Country_fiche-2025.md)
