@@ -7,3 +7,4 @@
 * [Indicators 2016](http://cdr.eionet.europa.eu/lt/eu/inspire/monitoring/envvzqvsg/)
 * [Indicators 2017](http://cdr.eionet.europa.eu/lt/eu/inspire/monitoring/envwrfd4q/)
 * [Indicators 2018](http://cdr.eionet.europa.eu/lt/eu/inspire/monitoring/envwunbwa/)
+* [Indicators 2024](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=lt)
