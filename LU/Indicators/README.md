@@ -12,3 +12,4 @@
 * [Indicators 2021](https://inspire-geoportal.ec.europa.eu/mr/mr2021_details.html?country=lu)
 * [Indicators 2022](https://inspire-geoportal.ec.europa.eu/mr/mr2022_details.html?country=lu)
 * [Indicators 2023](https://inspire-geoportal.ec.europa.eu/mr/mr2023_details.html?country=lu)
+* [Indicators 2024](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=lu)
