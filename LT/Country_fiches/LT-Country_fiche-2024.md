@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This country fiche highlights Lithuania’s progress in the various areas of INSPIRE implementation. It contains information covering the period **up to March 2024**.
+This country fiche highlights Lithuania’s progress in the various areas of INSPIRE implementation. It contains information covering the period **up to March 2025**.
 
 Lithuania has transposed the INSPIRE Directive into national law by adopting amendments to the Law on Geodesy and Cartography (https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC/asr). 
 
