@@ -78,7 +78,9 @@ Member States are given some leeway as to how they deal with the technical imple
 -	In the interests of administrative efficiency, the provinces or the federal government fulfil the obligations of the municipalities on their behalf. Additionally, the Computing and Technology Centre for Agriculture, Forestry and Water Management (LFRZ GmbH) provides a service infrastructure financed by the BML which can be used by public spatial data providers.
 -	With GEOLAND.AT, the provinces have created a spatial data network within which they coordinate their GIS activities and provide easy, open and Austria-wide access to their spatial data and services via a joint geoportal. GEOLAND.AT plays a central role in INSPIRE implementation in the provinces and creates synergies in the provision of network services.
 -	Through the national helpdesk, IT and Geo spatial experts meet regularly to discuss technical details, e.g. users of the metadata solution GeoNetwork in order to promote the further development and maintenance of software (internationally). The results are communicated in Austria and at European level. 
+
 -	For quality and efficiency reasons, many spatial data topics are addressed in a collaborative effort, to simplify INSPIRE implementation and support the availability of national products. Austrian addresses, for instance, are collected from the approx. Austrian 2100 municipallities and compiled in a national database ([www.adressregister.at](https://www.adressregister.at/)). Similarly, a national transport graph ([www.gip.gv.at](https://www.gip.gv.at/)) has been developed in a collaboration between the federal government and the provinces, which is a digital image of the Austrian transport network. The provinces and their partners also provide a joint ([basemap.at](https://basemap.at)), which is available online as a GIS service (WMTS), and as a predefined dataset for offline download.
+
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
@@ -106,7 +108,9 @@ Member States are given some leeway as to how they deal with the technical imple
       -	the generation of addresses in a consortium consisting of the federal government and the Austrian association of cities and municipalities
       -	the mutual quality check of addresses and the transport graph (GIP) using service-based methods
 -	Some organisations (e.g. GeoSphere Austria, AustroControl GmbH, Environment Agency Austria) have well-established data sharing arrangements with European or international partner organisations (e.g. EUROCONTROL, European Environment Agency (EEA)).
+
 -	Many Austrian spatial data providers make their data (including INSPIRE spatial data) available under an open licence (Creative Commons Attribution 4.0 International, [CC-BY_4.0](https://creativecommons.org/licenses/by/4.0/)), and many of them participate in [Cooperation Open Government Data Österreich](https://www.data.gv.at/infos/cooperation-ogd-oesterreich/).
+
 
 ### Costs and Benefits <a name="costs"></a>
 
@@ -126,4 +130,6 @@ Member States are given some leeway as to how they deal with the technical imple
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2023 can be found at: [https://inspire-geopor-tal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at](https://inspire-geopor-tal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at).
+
+Key facts and figures from monitoring 2023 can be found at: [https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at).
+
