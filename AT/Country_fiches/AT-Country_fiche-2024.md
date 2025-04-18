@@ -14,7 +14,7 @@
 
 This country fiche highlights Austria’s progress in the various areas of INSPIRE implementation. It contains information covering the period **up to March 2024**.
 
-Austria has transposed the INSPIRE Directive into Austrian law by adopting a federal act at national level (Spatial Data Infrastructure Act – Geodateninfrastrukturgesetz, GeoDIG (Federal Law Gazette I No 14/2010 as amended by Federal Law Gazette I No 109/2012) and nine spatial data infrastructure laws at regional level (in the federal provinces/Länder).
+Austria has transposed the INSPIRE Directive into Austrian law by adopting a federal act at national level (Spatial Data Infrastructure Act – Geodateninfrastrukturgesetz, GeoDIG ([Federal Law Gazette I No 14/2010 as amended by Federal Law Gazette I No 109/2012](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006708)) and nine spatial data infrastructure laws at regional level (in the federal provinces/Länder).
 
 In 2015, the EU Commission held a meeting with Austria concerning the necessary full implementation of the INSPIRE Directive (pre-pilot bilateral technical meeting). As a result, Austria drew up an Action Plan to (further) ensure and achieve proper implementation of the Directive. The Action Plan was attached to Austria’s report in 2016. One of the measures detailed in the Action Plan was the establishment of a helpdesk to provide public authorities with technical support for INSPIRE implementation. The extended activities help implementing the INSPIRE Directive, while also contributing to the EU’s Digital Single Market. 
 
@@ -37,7 +37,7 @@ Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft 
 - Contact Email: wolfgang.fahrner@bml.gv.at
 - Telephone Number: +43 1 71100-606683
 - Telefax Number: +43 1 5131679-1700
-- National INSPIRE Website: www.inspire.gv.at  
+- National INSPIRE Website: [www.inspire.gv.at](https://www.inspire.gv.at/)  
 - MIG Contacts: 
   - Contact Person: Wolfgang Fahrner
   - Email: wolfgang.fahrner@bml.gv.at
@@ -57,9 +57,9 @@ Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft 
 -	As Austria has a federal system of government, coordinating structures have been established at national and regional (provinces/Länder) level.
 -	The Federal Ministry of Agriculture, Forestry, Regions and Water Management (Bun-desministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft, BML) has set up a national coordination body for implementing INSPIRE, which consists of authorised representatives from federal ministries (whose scope of responsibilities includes INSPIRE spatial data sets or services), and of representatives from the provinces and the Austrian association of cities and municipalities (as illustrated below).
 -	The national coordination body is assisted by experts or temporary working groups as required.
--	Further information on INSPIRE in Austria can be found on  www.inspire.gv.at.
+-	Further information on INSPIRE in Austria can be found on [www.inspire.gv.at](https://www.inspire.gv.at).
 
-![Austrian INSPIRE coordination structure](/AT/Country_fiches/images/INSPIRE_Austria_2024_en.png)
+![Austrian INSPIRE coordination structure](images/INSPIRE_Austria_2024_en.png)
 
 ##### Progress
 
@@ -78,24 +78,26 @@ Member States are given some leeway as to how they deal with the technical imple
 -	In the interests of administrative efficiency, the provinces or the federal government fulfil the obligations of the municipalities on their behalf. Additionally, the Computing and Technology Centre for Agriculture, Forestry and Water Management (LFRZ GmbH) provides a service infrastructure financed by the BML which can be used by public spatial data providers.
 -	With GEOLAND.AT, the provinces have created a spatial data network within which they coordinate their GIS activities and provide easy, open and Austria-wide access to their spatial data and services via a joint geoportal. GEOLAND.AT plays a central role in INSPIRE implementation in the provinces and creates synergies in the provision of network services.
 -	Through the national helpdesk, IT and Geo spatial experts meet regularly to discuss technical details, e.g. users of the metadata solution GeoNetwork in order to promote the further development and maintenance of software (internationally). The results are communicated in Austria and at European level. 
--	For quality and efficiency reasons, many spatial data topics are addressed in a collaborative effort, to simplify INSPIRE implementation and support the availability of national products. Austrian addresses, for instance, are collected from the approx. Austrian 2100 municipallities and compiled in a national database (www.adressregister.at). Similarly, a national transport graph (www.gip.gv.at) has been developed in a collaboration between the federal government and the provinces, which is a digital image of the Austrian transport network. The provinces and their partners also provide a joint basemap (https://basemap.at), which is available online as a GIS service (WMTS), and as a predefined dataset for offline download.
+
+-	For quality and efficiency reasons, many spatial data topics are addressed in a collaborative effort, to simplify INSPIRE implementation and support the availability of national products. Austrian addresses, for instance, are collected from the approx. Austrian 2100 municipallities and compiled in a national database ([www.adressregister.at](https://www.adressregister.at/)). Similarly, a national transport graph ([www.gip.gv.at](https://www.gip.gv.at/)) has been developed in a collaboration between the federal government and the provinces, which is a digital image of the Austrian transport network. The provinces and their partners also provide a joint ([basemap.at](https://basemap.at)), which is available online as a GIS service (WMTS), and as a predefined dataset for offline download.
+
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
 -	The use of INSPIRE network services (and their development in recent years) in Austria is partly closely monitored, but on the other hand there is often a lack of reliable user or access data, as data is not monitored separately and estimates are based on different methods and classifications. For services where users are registered via a user login, a strong increase in the number of uses can be observed.
 -	Several federal agencies, all of the provinces, and many cities and municipalities operate web-based GIS applications that provide public access to the spatial data of public administration. Examples are:
-      -	the national INSPIRE search portal https://geometadatensuche.inspire.gv.at
-      -	the national INSPIRE registry  https://registry.inspire.gv.at
-      -	the GIS portal of the provinces www.geoland.at
+      -	the[national INSPIRE search portal [geometadatensuche.inspire.gv.at](https://geometadatensuche.inspire.gv.at)
+      -	the national INSPIRE registry [registry.inspire.gv.at](https://registry.inspire.gv.at)
+      -	the GIS portal of the provinces [www.geoland.at](https://www.geoland.at/)
       -	the GIS portals of the individual provinces
-      -	the OGD administrative basemap of Austria  https://basemap.at   
-      -	the Austrian address register with the official addresses www.adressregister.at 
-      -	the geoportal provided by BEV (data.bev.gv.at), especially for addresses, cadastre and topography, citizen access to the cadastre (kataster.bev.gv.at) and the topographic map  https://maps.bev.gv.at
-      -	the website of the GeoSphere Austria www.geosphere.at with weather, climate, geological and geophysical data
-      -	the portal www.naturgefahren.at with data on natural hazards
-      -	the Graph Integration Platform www.gip.gv.at, the reference system of Austrian public authorities for transport infrastructure data
-      -	the BML's Agrar-Atlas https://agraratlas.inspire.gv.at (Agricultural Atlas), the central access point to open data for the agricultural sector
-      -	the BML's Wald-Atlas https://www.waldatlas.at (Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
+      -	the OGD administrative basemap of Austria [basemap.at](https://basemap.at)
+      -	the Austrian address register [www.adressregister.at](https://www.adressregister.at/) with the official addresses 
+      -	the geoportal provided by BEV [data.bev.gv.at](https://data.bev.gv.at/), especially for addresses, cadastre and topography, citizen access to the cadastre [kataster.bev.gv.at](http://kataster.bev.gv.at) and the topographic map [maps.bev.gv.at](https://maps.bev.gv.at)
+      -	the website of the GeoSphere Austria [www.geosphere.at](https://www.geosphere.at/de) with weather, climate, geological and geophysical data
+      -	the portal [www.naturgefahren.at](https://www.naturgefahren.at/) with data on natural hazards
+      -	the Graph Integration Platform [www.gip.gv.at](https://www.gip.gv.at), the reference system of Austrian public authorities for transport infrastructure data
+      -	the BML's [Agrar-Atlas](https://agraratlas.inspire.gv.at) (Agricultural Atlas), the central access point to open data for the agricultural sector
+      -	the BML's [Wald-Atlas](https://www.waldatlas.at) (Forest Atlas), Austria's interactive map collection on the topics of forests, natural hazards and biodiversity
 
 ### Data Sharing Arrangements <a name="data"></a>
 
@@ -106,7 +108,9 @@ Member States are given some leeway as to how they deal with the technical imple
       -	the generation of addresses in a consortium consisting of the federal government and the Austrian association of cities and municipalities
       -	the mutual quality check of addresses and the transport graph (GIP) using service-based methods
 -	Some organisations (e.g. GeoSphere Austria, AustroControl GmbH, Environment Agency Austria) have well-established data sharing arrangements with European or international partner organisations (e.g. EUROCONTROL, European Environment Agency (EEA)).
--	Many Austrian spatial data providers make their data (including INSPIRE spatial data) available under an open licence (Creative Commons Attribution 4.0 International, CC-BY_4.0), and many of them participate in Cooperation Open Government Data Österreich.
+
+-	Many Austrian spatial data providers make their data (including INSPIRE spatial data) available under an open licence (Creative Commons Attribution 4.0 International, [CC-BY_4.0](https://creativecommons.org/licenses/by/4.0/)), and many of them participate in [Cooperation Open Government Data Österreich](https://www.data.gv.at/infos/cooperation-ogd-oesterreich/).
+
 
 ### Costs and Benefits <a name="costs"></a>
 
@@ -118,7 +122,7 @@ Member States are given some leeway as to how they deal with the technical imple
 -	Benefits
       -	The coordination of INSPIRE implementation between the public spatial data providers involved (in addition to previous cooperation efforts) has had a positive effect on the communication and cooperation between these providers at national, but also at European level.
       -	INSPIRE is seen as a driving force for the ongoing development of national SDIs. 
-      -	However, many public spatial data providers see no tangible benefit yet. Benefits are expected in the long term (simplified and more efficient data sharing, simplified envi-ronmental reporting).
+      -	However, many public spatial data providers see no tangible benefit yet. Benefits are expected in the long term (simplified and more efficient data sharing, simplified environmental reporting).
 -	Benefit-cost ratio
       -	The benefit-cost ratio between the high costs for data harmonisation and the currently low usage of INSPIRE services is looked at critically.
       -	The current, as well as future planned good coordination of legislative initiatives on data provision (e.g. HVD regulation) is seen positively.
@@ -126,5 +130,6 @@ Member States are given some leeway as to how they deal with the technical imple
 
 ## Key facts and figures
 
-Key facts and figures from monitoring 2023 can be found at:  
-https://inspire-geoportal.ec.europa.eu/mr/mr2023_details.html?country=at
+
+Key facts and figures from monitoring 2023 can be found at: [https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at](https://inspire-geoportal.ec.europa.eu/catalog/views/inspireportal/monitoringreporting/site/mr2023_details.html?country=at).
+

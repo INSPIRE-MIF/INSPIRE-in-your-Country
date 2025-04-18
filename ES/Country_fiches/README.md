@@ -6,4 +6,5 @@
 * [2021](./fiche_inspire_-_spain_-_2021.pdf)
 * [2022](./fiche_inspire_-_spain_-_2022.pdf)
 * [2023](./inspire_-_spain_-_2023_country_fiche.pdf)
-
+* [2024](./ES-Country_fiches-2024.md)
+* [2025](./ES-Country_fiches-2025.md)

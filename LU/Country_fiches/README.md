@@ -6,4 +6,4 @@
 * [2021](./inspire_-_luxembourg_-_2021_country_fiche.pdf)
 * [2022](./fiche_inspire_-_luxembourg_-_2022.pdf)
 * [2023](./inspire_-_luxembourg_-_2023_country_fiche.pdf)
-
+* [2024](./LU-Country_fiche-2024.md)
