@@ -1,4 +1,4 @@
-# _MS-code_ - _2025_: Country Fiche
+# _FI_ - _2025_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -28,7 +28,7 @@ A high-level view on the governance, use and impact of the INSPIRE Directive in 
 - Contact Email: kirjaamo.mmm@gov.fi
 - Telephone Number: +35829516001
 - Telefax Number: (09) 160 54202
-- National INSPIRE Website: [INSPIRE edistää paikkatietojen löydettävyyttä ja yhteentoimivuutta](https://www.maanmittauslaitos.fi/kartat-ja-paikkatieto/paikkatietojen-yhteentoimivuus/inspire)
+- National INSPIRE Website: [INSPIRE edistää paikkatietojen löydettävyyttä ja yhteentoimivuutta](s://www.maanmittauslaitos.fi/kartat-ja-paikkatieto/paikkatietojen-yhteentoimivuus/inspire)
 - MIG Contacts: 
   - Contact Person: Mika Karjalainen
   - Email: mika.karjalainen@gov.fi
@@ -63,10 +63,10 @@ The Nordic INSPIRE Network is an informal INSPIRE implementation network with Fi
 
 ##### Progress
 
-* The users of the National Geoportal [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/?lang=en) are very pleased with the service (a school grade of 8.9 out of 10). Over 1,000 responses were received to the survey about the use of the Geoportal. About two-thirds of those who responded said they use Paikkatietoikkuna in their work, and the majority of them need it daily or weekly.
-* There is an ongoing project to build a new national system for the built environment (planning, building, and construction permit data): [RYHTI](https://ym.fi/en/project-ryhti).
-* Finland co-operated with Estonia, the Netherlands, Norway, Spain, and OGC in the [GeoE3 project](https://geoe3.eu/) (2020-02/2024), providing a connection between existing and emerging national, regional, and cross-border digital services. It provided a dynamic integration of high-value data sets and services (e.g., meteorological or statistical data) with geospatial features from existing national geospatial data platforms (e.g., building data or road network data).
-* This work continues through the  [Location Innovation Hub](https://locationinnovationhub.eu/en/home/) as the Location Europe platform to combine climate, statistics, and geospatial datasets in a one-stop-shop.
+* The users of the National Geoportal [Paikkatietoikkuna](s://kartta.paikkatietoikkuna.fi/?lang=en) are very pleased with the service (a school grade of 8.9 out of 10). Over 1,000 responses were received to the survey about the use of the Geoportal. About two-thirds of those who responded said they use Paikkatietoikkuna in their work, and the majority of them need it daily or weekly.
+* There is an ongoing project to build a new national system for the built environment (planning, building, and construction permit data): [RYHTI](s://ym.fi/en/project-ryhti).
+* Finland co-operated with Estonia, the Netherlands, Norway, Spain, and OGC in the [GeoE3 project](s://geoe3.eu/) (2020-02/2024), providing a connection between existing and emerging national, regional, and cross-border digital services. It provided a dynamic integration of high-value data sets and services (e.g., meteorological or statistical data) with geospatial features from existing national geospatial data platforms (e.g., building data or road network data).
+* This work continues through the  [Location Innovation Hub](s://locationinnovationhub.eu/en/home/) as the Location Europe platform to combine climate, statistics, and geospatial datasets in a one-stop-shop.
 * The Location Innovation Hub is a center of expertise focused on location information and technology. It aims to help organizations leverage geospatial information and technologies to enhance their operations and services. It provides free coaching for small and medium-sized enterprises (SMEs) and public administration organizations. The hub offers services such as business development coaching, technology adoption assistance, and funding opportunities. The hub is coordinated by the Finnish Geospatial Research Institute (FGI), and the services are delivered through an extensive network of partners. The Location Innovation Hub is part of the European Digital Innovation Hubs (EDIH) Networks.
 * Finland has produced INSPIRE Download services using the OGC API Features standard and related Good Practices. These services provide INSPIRE datasets in GeoJSON format: Statistics Finland's INSPIRE services and INSPIRE Simple Addresses by the National Land Survey of Finland.
 * Some datasets have been removed from network services due to national security decisions by the National Council for Geographic Information.
@@ -98,17 +98,17 @@ Figure 1. Progress in conformity of metadata between 2019 and 2024.
 * The use of geographic information has grown in recent years, mainly due to the increased public availability of information and the implementation of the INSPIRE Directive. The spatial infrastructure for searching, viewing, and downloading has improved the accessibility of spatial data and has raised public awareness. The growth in use of view and download services has been significant.  
   
 * Broad access to spatial information is provided to the users by many different map services, web applications serving specific use cases including municipal maps, routing and planning services, nationwide routing services, geography education, public points of interest, cultural heritage, agricultural applications and environmental applications. Examples are:
-  * the National Geoportal [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/?lang=en). Paikkatietoikkuna provides a map interface, where the user can access and use over 3,000 map layers in a comprehensive way offered by about 70 national data provides. The geoportal is developed as open-source code on the basis of the established geographic reference architecture and is available for reuse supporting a wide range of user interfaces and map publication. The geoportal is used daily by 3000-6000 different users.
-  * the National Discovery Service: [Paikkatietohakemisto](https://www.paikkatietohakemisto.fi/geonetwork/srv/eng/catalog.search#/home). There are 2,000 published metadata in the National Discovery Service by 300 different users. About 850 of published metadata describe INSPIRE datasets and services.
-  * the national INSPIRE registry: [INSPIRE-rekisteripalvelu](https://www.luettelopalvelu.fi/registry)
-  * the national codelist: [Luettelopalvelu](https://www.luettelopalvelu.fi/codelist)
-  * the GIS portal of National Land Survey of Finland [Karttapaikka](https://asiointi.maanmittauslaitos.fi/karttapaikka/)
-  * the GIS portal of Statistics Finland: [Tilastokeskuksen karttapalvelu](https://tilastokeskus-kartta.swgis.fi/)
-  * the GIS portal of Finnish Environmental Institute: [Liiteri](https://liiteri.ymparisto.fi/)
-  * the GIS portal on Finnish heritage Agency: [Museoviraston museoverkko](https://kartta.museoverkko.fi)
-  * the GIS portal of Finnish Transport Infrastructure Agency: [Suomen väylät](https://suomenvaylat.vayla.fi) 
+  * the National Geoportal [Paikkatietoikkuna](s://kartta.paikkatietoikkuna.fi/?lang=en). Paikkatietoikkuna provides a map interface, where the user can access and use over 3,000 map layers in a comprehensive way offered by about 70 national data provides. The geoportal is developed as open-source code on the basis of the established geographic reference architecture and is available for reuse supporting a wide range of user interfaces and map publication. The geoportal is used daily by 3000-6000 different users.
+  * the National Discovery Service: [Paikkatietohakemisto](s://www.paikkatietohakemisto.fi/geonetwork/srv/eng/catalog.search#/home). There are 2,000 published metadata in the National Discovery Service by 300 different users. About 850 of published metadata describe INSPIRE datasets and services.
+  * the national INSPIRE registry: [INSPIRE-rekisteripalvelu](s://www.luettelopalvelu.fi/registry)
+  * the national codelist: [Luettelopalvelu](s://www.luettelopalvelu.fi/codelist)
+  * the GIS portal of National Land Survey of Finland [Karttapaikka](s://asiointi.maanmittauslaitos.fi/karttapaikka/)
+  * the GIS portal of Statistics Finland: [Tilastokeskuksen karttapalvelu](s://tilastokeskus-kartta.swgis.fi/)
+  * the GIS portal of Finnish Environmental Institute: [Liiteri](s://liiteri.ymparisto.fi/)
+  * the GIS portal on Finnish heritage Agency: [Museoviraston museoverkko](s://kartta.museoverkko.fi)
+  * the GIS portal of Finnish Transport Infrastructure Agency: [Suomen väylät](s://suomenvaylat.vayla.fi) 
 
-* Many of these map services are based on [Oskari](https://oskari.org/) software which is an open-source platform originally developed for Paikkatietoikkuna.
+* Many of these map services are based on [Oskari](s://oskari.org/) software which is an open-source platform originally developed for Paikkatietoikkuna.
 
 * Access to spatial data has improved, and the reported use of data has increased. The increasing use of geographic information has also encouraged data providers to improve the quality of the data and develop data products and services that are better suited to user needs. Spatial information industry companies also played a significant role in promoting the use of spatial information, e.g. Finnish Location Information Cluster, a consortium of geospatial information sector companies offering spatial information services. 
 
@@ -132,18 +132,18 @@ sts between 2013-2015: EUR 4.4 million)
 
 #### Benefits
 
-According to a [survey](https://www.maanmittauslaitos.fi/sites/maanmittauslaitos.fi/files/attachments/2021/03/Implementation_of_INSPIRE_in_Finland_evaluation_report.pdf) conducted in 2020, the key benefits can be summed up as:
+According to a [survey](s://www.maanmittauslaitos.fi/sites/maanmittauslaitos.fi/files/attachments/2021/03/Implementation_of_INSPIRE_in_Finland_evaluation_report.pdf) conducted in 2020, the key benefits can be summed up as:
  * INSPIRE showed the purpose and benefits of standard APIs
    * Open APIs from as-is spatial datasets 
  * Spatial datasets have been described and can be easily found
    * Increased understanding of existing data sources 
- * Finnish geoportal [Paikkatietoikkuna](https://kartta.paikkatietoikkuna.fi/?lang=en) with 3000 map layers from 70 data providers visualises concretely the benefits of interoperability of spatial data.
+ * Finnish geoportal [Paikkatietoikkuna](s://kartta.paikkatietoikkuna.fi/?lang=en) with 3000 map layers from 70 data providers visualises concretely the benefits of interoperability of spatial data.
    * Easier access to data 
    * Increased (re)use of data 
    * Increased discoverability and availability of data  
    * Increased quality of data 
    * Better conditions have been created for decision-making
- * [Oskari](https://oskari.org/) software which is an open-source platform originally developed for Paikkatietoikkuna. Oskari is used in several organisations in Finland and worldwide.
+ * [Oskari](s://oskari.org/) software which is an open-source platform originally developed for Paikkatietoikkuna. Oskari is used in several organisations in Finland and worldwide.
  * Implementation of INSPIRE has advanced the opening of spatial data and created technical means to use open data.
    * More services for citizens are being developed 
  * Development of networks
@@ -152,4 +152,4 @@ According to a [survey](https://www.maanmittauslaitos.fi/sites/maanmittauslaitos
 ## Key facts abd figures
 
 Key facts and figures from monitoring 2024 can be found at:
-https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=fi
+[https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=fi](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=fi)
