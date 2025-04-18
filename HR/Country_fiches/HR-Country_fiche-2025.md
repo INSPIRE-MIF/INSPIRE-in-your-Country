@@ -23,7 +23,7 @@ This Country Fiche highlights Croatia progress in the various areas of INSPIRE i
 ## State of Play
 
 A high-level view on the governance, use and impact of the INSPIRE Directive in Croatia. More detailed information is available
-on the [INSPIRE knowledge](https://knowledge-base.inspire.ec.europa.eu/index_en) base.
+on the [INSPIRE knowledge base](https://knowledge-base.inspire.ec.europa.eu/index_en) 
 
 ### Coordination
 
@@ -34,7 +34,7 @@ on the [INSPIRE knowledge](https://knowledge-base.inspire.ec.europa.eu/index_en)
 - Contact Email: info@dgu.hr; infonipp@dgu.hr
 - Telephone Number: +385 (0)1 6165404
 - Telefax Number: +385 (0)1 6165484
-- National INSPIRE Website: https://www.nipp.hr/
+- National INSPIRE Website: [https://www.nipp.hr/](https://www.nipp.hr/)
 - MIG Contacts: 
   - Contact Person: Ljerka Marić
   - Email: ljerka.maric@dgu.hr
