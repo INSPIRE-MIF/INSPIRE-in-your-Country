@@ -131,4 +131,4 @@ Member States are given some leeway as to how they deal with the technical imple
 
 ## Key facts and figures
 
-Key facts and figures from ***monitoring 2024*** can be found at: https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=at
+Key facts and figures from ***monitoring 2024*** can be found at: [https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=at](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=at)
