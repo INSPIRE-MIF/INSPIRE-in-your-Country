@@ -28,19 +28,19 @@ The following paragraphs provide a summary of currently valid information on gov
 #### National Contact Point
 
 - Name of Public Authority:  
-Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft / National Contact Point - INSPIRE
+Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft (BMLUK) / National Contact Point - INSPIRE
 - Postal Address:  
-  Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft (BML)  
+  Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft (BMLUK)  
   Abteilung II/1 / National Contact Point - INSPIRE  
   Stubenring 1  
   1010 Wien - Austria  
-- Contact Email: wolfgang.fahrner@bml.gv.at
+- Contact Email: wolfgang.fahrner@bmluk.gv.at
 - Telephone Number: +43 1 71100-606683
 - Telefax Number: +43 1 5131679-1700
 - National INSPIRE Website: www.inspire.gv.at  
 - MIG Contacts: 
   - Contact Person: Wolfgang Fahrner
-  - Email: wolfgang.fahrner@bml.gv.at
+  - Email: wolfgang.fahrner@bmluk.gv.at
   - Contact Person: Markus Jobst
   - Email: markus.jobst@bev.gv.at
   - Telephone Number:
@@ -48,7 +48,7 @@ Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft 
   - Contact Person: Markus Jobst
   - Email: markus.jobst@bev.gv.at
   - Contact Person: Wolfgang Fahrner
-  - Email: wolfgang.fahrner@bml.gv.at 
+  - Email: wolfgang.fahrner@bmluk.gv.at 
 
 #### Coordination Structure & Progress: 
 
