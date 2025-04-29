@@ -135,6 +135,7 @@ Considering SNIG entities participation in JIIDE 2024, only APA and DGT presente
 - The organization of courses on SMOS - Sistema de Monitorização da Ocupação do Solo. During 2024, four courses were organized under the FPCUP program (Framework Partnership Agreement on Copernicus User Uptake), which included several SMOS program contents, such as comparison between national and European Copernicus products: (1) exploration of Copernicus Land Monitoring Service (CLMS) products and services; (2) exploration of Copernicus Emergency Management Service (CEMS) products and services; (3) advanced training in Sentinel-1 image processing; (4) advanced training in Sentinel-2 image processing. These courses involved several users of the Portuguese SDI, more interested on the data related to Land use/Land cover.
 
 Technical constraints:
+
 SDI development and INSPIRE implementation in Portugal in 2024 continued to evidence some of the technical constraints mentioned in previous years. 
 Awareness and capacity building initiatives contributed to improve some of the issues associated to the lack of qualified human resources in the public entities to cope with all the technical requirements involved in SDI & INSPIRE implementation (metadata creation, spatial data services development, data harmonization). 
 INSPIRE data harmonization and the use of INSPIRE data for e-reporting are other examples where technical constraints are more visible. 
