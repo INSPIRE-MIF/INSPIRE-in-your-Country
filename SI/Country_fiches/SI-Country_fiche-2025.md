@@ -72,7 +72,7 @@ available on the [INSPIRE knowledge base](https://knowledge-base.inspire.ec.euro
 ### Data Sharing Arrangements <a name="data"></a>
 
 - National interoperability framework – NIO is operating as a tool to ease the cooperation inside public administration
-- In the time period 2016-2022 no practical examples of performed data sharing agreements between public authorities and European Union institutions and bodies were recorded
+- In the time period 2016-2024 no practical examples of performed data sharing agreements between public authorities and European Union institutions and bodies were recorded
 - Public Information Access Act has been slightly changed on 8 May 2016 according to the Directive on the re-use of public sector information
 - All location data is available free of charge under an open licence without restrictions.
 
