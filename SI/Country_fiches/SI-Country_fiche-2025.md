@@ -18,30 +18,27 @@ This country fiche highlights the progress in the various areas of INSPIRE imple
 
 ## State of Play
 
-< insert text >
+A high-level view on the governance, use and impact of the INSPIRE Directive in Slovenia. More detailed information is
+available on the [INSPIRE knowledge base](https://knowledge-base.inspire.ec.europa.eu/index_en).
 
 ### Coordination
 
 #### National Contact Point
 
-- Name of Public Authority:
-- Postal Address:
-- Contact Email:
-- Telephone Number:
-- Telefax Number:
-- National INSPIRE Website:
+- Name of Public Authority: Surveying and Mapping Authority
+- Postal Address: Zemljemerska ulica 12, SI-1000 Ljubljana
+- Contact Email: matej.sotlar@gov.si
+- Telephone Number: +386 1 478 4800
+- Telefax Number: /
+- National INSPIRE Website: [http://www.geoportal.gov.si/eng/](http://www.geoportal.gov.si/eng/)
 - MIG Contacts: 
-  - Contact Person:
-  - Email:
-  - Telephone Number:
-  - Contact Person:
-  - Email:
+  - Contact Person: Matej Sotlar
+  - Email: matej.sotlar@gov.si
+  - Telephone Number: +386 1 478 4833
 - MIG T Contacts: 
-  - Contact Person:
-  - Email:
-  - Contact Person:
-  - Email:
-  - Telephone Number:
+  - Contact Person: Matej Sotlar
+  - Email: matej.sotlar@gov.si
+  - Telephone Number: +386 1 478 4833
 
 #### Coordination Structure & Progress: 
 
