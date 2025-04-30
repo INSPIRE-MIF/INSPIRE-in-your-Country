@@ -44,7 +44,7 @@ available on the [INSPIRE knowledge base](https://knowledge-base.inspire.ec.euro
 
 ##### Coordination structure
 
-< insert text >
+![Coordination structure](images/coordination_structure.jpg)
 
 ##### Progress
 
