@@ -111,9 +111,12 @@ Norway has an open data policy. Most spatial data sets (more than 90%) are class
 
 **Fair implementation in Norway** 
 
-The Norwegian geospatial infrastructure has coupled the FAIR principles and the OGC and ISO-based requirements defined in INSPIRE and the national geodata act. The system evaluates the different data set resources according to the FAIR principles. The criteria are adapted also to interpretation in the Open Data Catalogue and the [Norwegian Open Data Catalogue](www.data.norge.no). The system is implemented as a FAIR-registry which includes the most important dataset in our SDI, and it is updated each night by automatical tests. The results are also visualised in the metadata catalogue and gives valuable feedback to both delivery organisations and end users. Examples are found in [FAIR Register](https://register.geonorge.no/fair-register?lang=en) -  [FAIR evaluation on dataset "Aquaculture - locations"](https://register.geonorge.no/fair-register/akvakultur-lokaliteter/bc6bde11-5c54-4059-a942-e90c0a050afa)
+The Norwegian geospatial infrastructure has coupled the FAIR principles and the OGC and ISO-based requirements defined in INSPIRE and the national geodata act. The system evaluates the different data set resources according to the FAIR principles. The criteria are adapted also to interpretation in the Open Data Catalogue and the [Norwegian Open Data Catalogue](www.data.norge.no). The system is implemented as a FAIR-registry which includes the most important dataset in our SDI, and it is updated each night by automatical tests. The results are also visualised in the metadata catalogue and gives valuable feedback to both delivery organisations and end users. Examples are found in 
+* [FAIR Register](https://register.geonorge.no/fair-register?lang=en)
+* [FAIR evaluation on dataset "Aquaculture - locations"](https://register.geonorge.no/fair-register/akvakultur-lokaliteter/bc6bde11-5c54-4059-a942-e90c0a050afa?lang=en)
+* [Metadata for FAIR evaluated dataset](https://register.geonorge.no/fair-register/akvakultur-lokaliteter/bc6bde11-5c54-4059-a942-e90c0a050afa?lang=en)
 
-![Image Alt Text](images/Inspire_fair.png)
+![Image Alt Text](images/Inspire_fair_mareano.png)
 *Fig 1: Example of FAIR evaluation of dataset in the national geoportal*
 
 ### Costs and Benefits <a name="costs"></a>
