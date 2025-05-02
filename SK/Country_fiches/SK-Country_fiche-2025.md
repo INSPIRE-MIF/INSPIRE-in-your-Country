@@ -30,7 +30,7 @@ The following paragraphs provide a summary of currently valid information on gov
 - Postal Address: Tajovského 28, 975 90 Banská Bystrica, Slovakia
 - Contact Email: inspire@enviro.gov.sk
 - Telephone Number: +421 48 4374 523
-- National INSPIRE Website: https://inspire.gov.sk/
+- National INSPIRE Website: [https://inspire.gov.sk/](https://inspire.gov.sk/)
 - MIG Contacts: 
   - Contact Person: Martin Tuchyna
   - Email: martin.tuchyna@enviro.gov.sk
