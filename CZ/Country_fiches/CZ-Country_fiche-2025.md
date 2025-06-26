@@ -12,7 +12,8 @@
 
 ## Introduction
 
-< insert text >
+The INSPIRE Directive sets the minimum conditions for interoperable sharing and exchange of spatial data across Europe as part of a larger European Interoperability Framework and the e-Government Action Plan that contributes to the Digital Single Market Agenda. Article 21 of INSPIRE Directive defines the basic principles for monitoring and reporting. More detailed implementing rules regarding INSPIRE monitoring and reporting have been adopted as Commission Implementing Decision (EU) 2019/1372 on the 19th August 2019.
+This country fiche highlights the progress in the various areas of INSPIRE implementation. It includes information on monitoring 2024 acquired in December 2024 and Member States update
 
 ## State of Play
 
