@@ -17,7 +17,7 @@ This country fiche highlights the progress in the various areas of INSPIRE imple
 
 ## State of Play
 
-< insert text >
+A high-level view on the governance, use and impact of the INSPIRE Directive in Czech Republic. More detailed information is available on the INSPIRE knowledge base.
 
 ### Coordination
 
