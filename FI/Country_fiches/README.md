@@ -7,3 +7,4 @@
 * [2022](./fiche_inspire_-_finland_-_2022.pdf)
 * [2023](./inspire_-_finland_-_2023_country_fiche.pdf)
 * [2024](./FI-Country_fiche-2024.md)
+* [2025](./FI-Country_fiche-2025.md)

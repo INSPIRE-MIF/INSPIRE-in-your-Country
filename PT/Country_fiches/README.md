@@ -7,3 +7,4 @@
 * [2022](./fiche_inspire_-_portugal_-_2022.pdf)
 * [2023](./inspire_-_portugal_-_2023_country_fiche.pdf)
 * [2024](./PT-Country_fiche-2024.md)
+* [2025](./PT-Country_fiche-2025.md)
