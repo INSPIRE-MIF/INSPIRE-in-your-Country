@@ -15,7 +15,7 @@
 
 The Norwegian Mapping Authority is responsible for the coordination of the Spatial Data Infrastructure (NSDI) in Norway. The authority has the responsibility for the monitoring and reporting of the INSPIRE directive and holds the role as the Norwegian National Contact Point. 
 
-## State of Play
+## State of Play <a name="state_of_play"></a>
 
 In 2025, the Ministry of Finance signalled funding for a five-year modernisation programme for
 the "NSDI" (Norway Digital), with the first year commencing in 2026.
@@ -68,15 +68,15 @@ These data are of high-quality and are being used in everyday digital workflows 
 
 ##### Progress
 
-**Metadata: **
+**Metadata:** 
 The INSPIRE directive and underlying regulations define a series of requirements. Some of the requirements are quite ambitious and even if we have good metadata, downloadable and viewable datasets, they do not totally comply with the requirements. Because of this, the indicators shows low goal achivement. There is a good overall response on data sharing. The number of services and datasets are about the same as previous years.  However, in many cases the linkage from the dataset's associated services, does not appear in the INSPIRE Geoportal, as it is not according to the guidelines for service linkage. There were plans to improve the linkage in 2024 and 2025, but this were not fullfilled due to lack of available resources and focus on modernisation of the NSDI. The services metadata are however linked to the dataset metadata (by the "operatesOn" element) and this works well in the national geoportal.
 
 The amount of harmonized metadata has fluctuated in recent years but has remained around 80%. Also this year we had some temporary problems with metadata, this time for the service metadata, which made metadata fail the validation. All metadata are however following the the technical guidelines from INSPIRE and are good for use, but some minor "errors" prevents the metadata to fullfill the INSPIRE validation services. Metadata harvested from the national Geoportal (Geonorge) to the European Data Portal as DCAT-metadata gets the highest score (Excellent) in the EDP metadata rating.  
 
-**Services: **
+**Services:** 
 Besides this, the development towards all technical requirements is still relatively low - particularly when it comes to conformity of services. This may be seen in the validation services offered by the European Commission. Some of the validation errors are also caused by stakeholder's open-source software and hard to get rid of. We are also questioning the need of tests that goes beyond interoperability and reports errors related to issues that will not affect the use of the services. Such errors could give a warning, and the validation could pass.
 
-**Datasets: **
+**Datasets:** 
 Concerning INSPIRE harmonization requirement for datasets, INSPIRE progress is lower. Norway has pr. 1.1.2026 eleven harmonized datasets available in the INSPIRE geoportal, covering Annex I data themes. Concerning Annex II and III themes, the formal requirement for Norway was to deliver these by end 2023. A number of organisations have still not given priority to develop harmonised data for data sets falling under Annex II and III.
 
 Many organisations offer sector specific data. 19 organisations offer data that falls under the INSPIRE directive thematic focus.
