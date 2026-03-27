@@ -1,5 +1,5 @@
 
-# _NO_ - _2026_: Country Fiche - DRAFT VERSION
+# _NO_ - _2026_: Country Fiche
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -123,8 +123,7 @@ The Norwegian geospatial infrastructure has coupled the FAIR principles and the 
 
 ![Image Alt Text](images/Inspire_fair_mareano.png)
 *Fig 1: Example of FAIR evaluation of dataset in the national geoportal register*  
-
-
+  
     
 ![Image Alt Text](images/Inspire_fair_mapcatalogue.png)
 *Fig 2: Example of FAIR rating of dataset in the national geoportal*
